@@ -1,0 +1,50 @@
+Tous les fichiers que nous voyons en mémoire ne sont que des données "brutes".
+Les extensions relatives permettent à l'ordinateur de déterminer la nature exact de la donnée.
+Un fichier image (nous le savons grâce à son extension mais n'est que de la donnée pour l'ordinateur qui l'interpretéra de façon adéquate)
+par exemple portant une extension d'image jpg, est un fichier "image" (une donnée) déjà compressée permet à l'ordinateur, de savoir la nature de la donnée ici jpg est une extension des images.
+Une fois le fichier image ouvert, l'ordinateur se sert de son entête pour commencer la décompression du jpg vers la donnée compressée par le jpg avec des informations telles que les dimensions de l'image, le parcours type de parcours (en ligne, en colonne, en zigzag), image RGB, binaire, gray scale, ... . Puis l'ordinateur après avoir traité toutes ces informations de l'entête de la donnée image, l'ouvre avec le logiciel adéquat, logiciel permettant d'ouvrir ce type particulier de donnée. Ainsi une fois avoir cliqué deux fois sur l'image, l'algorithme de décompression du fichier image (la donnée image) est déclenchée en fonction de l'entête pour obtenir 
+
+En résumé, ouvrir un fichier "image.jpg" implique la reconnaissance de son extension pour déterminer son type de fichier, la vérification de son entête pour confirmer qu'il correspond à ce type de fichier, et enfin l'interprétation et le traitement du contenu conformément aux spécifications du format JPEG.
+
+"image.jpg" permet à l'ordinateur de savoir que la donnée doit être traitée telle une image grâce à ".jpg"
+Puis l'ordinateur ouvre l'entête correspondante à cette donnée (image) et vérifie si réellement le type de la donnée (une image) est bien celui fourni par l'extension.
+	Si oui:
+		le traitement se poursuit normalement et en fonction de l'extension c'est à dire le format de fichier, l'ordinateur commence la décompression en suivant l'algorithme relatif à l'extension, au format du fichier. Cet algorithme inclue le type de l'image RGB, YCbCr, niveau de gris, indexée, binaire, palettes, ...; le type de parcours utilisé: en ligne, en colonne, en zigzag; les dimensions de l'image; .... Une fois toutes les étapes effectuées, une fois la donnée décompressée et reconstituée totalement, l'ordinateur fait "ouvrir" la donnée par un logiciel prenant en charge le format de la donnée, ou bien propose s'il y en a plusieurs.
+	
+	Si non:
+		il y aura une message d'erreur ou une mauvaise interprétation de la donnée
+		
+Notre "image.jpg" en mémoire n'est en realité qu'une donnée d'un type particulier (image) d'une classe particulière (JPEG (.jpg)) compressée, différente de la vraie donnée comme l'ordinateur nous l'affiche une fois que nous demandons à l'ouvrir.
+Cette donnée que l'ordinateur nous interprète et ouvre pour lui donner du sens est en realité la vraie donnée, la pure et l'originelle (sans le logiciel adéquat elle ne sert à rien cette donnée). Celle à partir de laquelle ma fonction "taux_compression(data, data_compressed)" effectue le traitement (RLE) qui m'a donné un taux de compression de 92% où "data" represente la réelle et vraie donnée "de" image(celle que l'ordinateur affiche après décompression) et "data_compressed" represente ma donnée après compression de cette "réelle" donnée qui a une taille largement supérieur en mémoire que celle de "image.jpg".
+
+En realité "image.jpg" est aussi une compression de la donnée originale qui est une image. Raison pour laquelle sa taille est largement inférieure à celle du fichier texte sur lequel nous avons enregistré nos infos de compression (notre entête créée) car cette entête "créée" est la compression de la donnée "réelle, originale" que le jpg a compressé par la suite et non une compression de "image.jpg" qui est déjà la compression de la donnée image.
+
+Cet algorithme de décompression que l'ordinateur exécute lorsque nous demandons à ouvrir l'image "image.jpg" est en quelque sorte ce que nous essayons d'imiter dans ce TP par RLE, Huffman, LZ78/LZW
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Tous les fichiers que nous percevons en mémoire ne sont que des données "brutes". Les extensions relatives permettent à l'ordinateur de déterminer la nature exacte de la donnée. Par exemple, un fichier image portant l'extension .jpg est considéré comme un fichier "image" par l'ordinateur, bien que ce ne soit que des données pour lui. L'extension permet à l'ordinateur de catégoriser la nature de la donnée ; dans ce cas, .jpg indique qu'il s'agit d'une image.
+
+Lorsqu'un fichier image est ouvert, l'ordinateur utilise son en-tête pour initier le processus de décompression du format JPEG vers les données d'image brutes. L'en-tête contient des informations telles que les dimensions de l'image, le mode de balayage (ligne, colonne, zigzag), le format de l'image (RGB, binaire, niveaux de gris, etc.). Ensuite, l'ordinateur utilise un logiciel approprié pour ouvrir et interpréter ces données d'image.
+
+En résumé, ouvrir un fichier "image.jpg" implique la reconnaissance de son extension pour déterminer son type de fichier, la vérification de son en-tête pour confirmer qu'il correspond à ce type de fichier, et enfin l'interprétation et le traitement du contenu conformément aux spécifications du format JPEG.
+
+Notre "image.jpg" en mémoire n'est en réalité qu'une donnée d'un type particulier (une image) d'une classe particulière (JPEG (.jpg)), compressée et différente de la véritable donnée. Cette donnée est interprétée par l'ordinateur pour lui donner un sens. La vraie donnée, pure et originelle, est celle à partir de laquelle ma fonction "taux_compression(data, data_compressed)" effectue le traitement (RLE), donnant un taux de compression de 92%. "Data" représente la véritable donnée de l'image (celle que l'ordinateur affiche après décompression par utilisation du logiciel adéquat), tandis que "data_compressed" représente la donnée après compression. Cette dernière occupe beaucoup moins de mémoire que "image.jpg".
+
+En réalité, "image.jpg" est une compression de la donnée originale qui est une image. La taille de "image.jpg" est inférieure à celle du fichier texte qui contient les informations de compression, car ces informations sont la compression de la donnée originale, et non de "image.jpg".
+
+L'algorithme de décompression exécuté par l'ordinateur lorsque nous ouvrons "image.jpg" est similaire à ce que nous essayons de reproduire dans ce TP avec RLE, Huffman, LZ78/LZW.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. Fichier "image.jpg" : Lorsqu'un fichier image comme "image.jpg" est en mémoire, il contient les données compressées au format JPEG. Ces données sont une représentation compressée de l'image d'origine. L'ordinateur utilise l'en-tête du fichier pour déterminer son format et initier le processus de décompression approprié.
+
+2. Données d'image brutes : Les données d'image brutes sont la véritable représentation de l'image, avant toute compression ou traitement. Lorsqu'un fichier image est décompressé, ces données brutes sont extraites et utilisées pour afficher l'image.
+
+3. Compression et décompression : Lorsqu'une image est compressée, elle subit un processus qui réduit sa taille en éliminant les redondances et en encodant les informations de manière plus efficace. L'algorithme utilisé dépend du type de compression, tel que JPEG, RLE, Huffman, LZ78/LZW, etc. Lorsque vous ouvrez un fichier "image.jpg", l'ordinateur décompresse les données selon le format JPEG pour afficher l'image.
+
+4. Comparaison de taille : La taille du fichier "image.jpg" est généralement inférieure à celle des données brutes de l'image, car la compression réduit la taille du fichier en éliminant les données redondantes ou en les encodant de manière plus compacte.
+
+5. Objectif du TP : Dans le cadre de votre travail pratique (TP), vous semblez étudier différents algorithmes de compression, tels que RLE, Huffman, LZ78/LZW. Ces algorithmes visent à reproduire le processus de compression/décompression utilisé par des formats comme JPEG, mais avec des méthodes spécifiques et souvent plus simples à des fins d'apprentissage et de compréhension.
+
+En somme, cette explication couvre le processus de compression d'images, la différence entre les données compressées et les données brutes, ainsi que l'objectif de votre travail pratique en relation avec ces concepts.

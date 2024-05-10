@@ -1,0 +1,158 @@
+1. num_blocs = 8
+
+	1.1. sous_echantillonnage_4_2_0
+	
+		1.1.1. ligne_scan
+			
+			1.1.1.1. MSE:
+			1.1.1.2. Taux de compression:
+			
+		1.1.2. colonne_scan
+		
+			1.1.2.1. MSE:
+			1.1.2.2. Taux de compression:
+		
+		1.1.3. zigzag_scan
+		
+			1.1.3.1. MSE:
+			1.1.3.2. Taux de compression:
+		
+	1.2. sous_echantillonnage_4_2_2
+	
+		1.2.1. ligne_scan
+		
+			1.2.1.1. MSE:
+			1.2.1.2. Taux de compression:
+		
+		1.2.2. colonne_scan
+		
+			1.2.2.1. MSE:
+			1.2.2.2. Taux de compression:
+		
+		1.2.3. zigzag_scan
+		
+			1.2.3.1. MSE:
+			1.2.3.2. Taux de compression:
+		
+	1.3. sous_echantillonnage_4_4_4
+	
+		1.3.1. ligne_scan
+		
+			1.3.1.1. MSE:
+			1.3.1.2. Taux de compression:
+		
+		1.3.2. colonne_scan
+		
+			1.3.2.1. MSE:
+			1.3.2.2. Taux de compression:
+		
+		1.3.3. zigzag_scan
+		
+			1.3.3.1. MSE:
+			1.3.3.2. Taux de compression:
+		
+2. num_blocs = 16
+
+	2.1. sous_echantillonnage_4_2_0
+	
+		2.1.1. ligne_scan
+			
+			2.1.1.1. MSE:
+			2.1.1.2. Taux de compression:
+			
+		2.1.2. colonne_scan
+		
+			2.1.2.1. MSE:
+			2.1.2.2. Taux de compression:
+		
+		2.1.3. zigzag_scan
+		
+			2.1.3.1. MSE:
+			2.1.3.2. Taux de compression:
+		
+	2.2. sous_echantillonnage_4_2_2
+	
+		2.2.1. ligne_scan
+		
+			2.2.1.1. MSE:
+			2.2.1.2. Taux de compression:
+		
+		2.2.2. colonne_scan
+		
+			2.2.2.1. MSE:
+			2.2.2.2. Taux de compression:
+		
+		2.2.3. zigzag_scan
+		
+			2.2.3.1. MSE:
+			2.2.3.2. Taux de compression:
+		
+	2.3. sous_echantillonnage_4_4_4
+	
+		2.3.1. ligne_scan
+		
+			2.3.1.1. MSE:
+			2.3.1.2. Taux de compression:
+		
+		2.3.2. colonne_scan
+		
+			2.3.2.1. MSE:
+			2.3.2.2. Taux de compression:
+		
+		2.3.3. zigzag_scan
+		
+			2.3.3.1. MSE:
+			2.3.3.2. Taux de compression:
+
+3. num_blocs = 32
+
+	3.1. sous_echantillonnage_4_2_0
+	
+		3.1.1. ligne_scan
+			
+			3.1.1.1. MSE:
+			3.1.1.2. Taux de compression:
+			
+		3.1.2. colonne_scan
+		
+			3.1.2.1. MSE:
+			3.1.2.2. Taux de compression:
+		
+		3.1.3. zigzag_scan
+		
+			3.1.3.1. MSE:
+			3.1.3.2. Taux de compression:
+		
+	3.2. sous_echantillonnage_4_2_2
+	
+		3.2.1. ligne_scan
+		
+			3.2.1.1. MSE:
+			3.2.1.2. Taux de compression:
+		
+		3.2.2. colonne_scan
+		
+			3.2.2.1. MSE:
+			3.2.2.2. Taux de compression:
+		
+		3.2.3. zigzag_scan
+		
+			3.2.3.1. MSE:
+			3.2.3.2. Taux de compression:
+		
+	3.3. sous_echantillonnage_4_4_4
+	
+		3.3.1. ligne_scan
+		
+			3.3.1.1. MSE:
+			3.3.1.2. Taux de compression:
+		
+		3.3.2. colonne_scan
+		
+			3.3.2.1. MSE:
+			3.3.2.2. Taux de compression:
+		
+		3.3.3. zigzag_scan
+		
+			3.3.3.1. MSE:
+			3.3.3.2. Taux de compression:

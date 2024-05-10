@@ -1,0 +1,160 @@
+1. num_blocs = 8
+
+	1.1. sous_echantillonnage_4_2_0
+	
+		1.1.1. ligne_scan
+			
+			1.1.1.1. MSE: 197.67505492780916
+			1.1.1.2. Taux de compression: 36.32487580181586 %
+			
+		1.1.2. colonne_scan
+		
+			1.1.2.1. MSE: 195.44693413146803
+			1.1.2.2. Taux de compression: 35.30423380829046 %
+		
+		1.1.3. zigzag_scan
+		
+			1.1.3.1. MSE: 195.55803179087076
+			1.1.3.2. Taux de compression: 35.68768356563954 %
+		
+	1.2. sous_echantillonnage_4_2_2
+	
+		1.2.1. ligne_scan
+		
+			1.2.1.1. MSE: 192.31867209218902
+			1.2.1.2. Taux de compression: 42.21462663653863 %
+		
+		1.2.2. colonne_scan
+		
+			1.2.2.1. MSE: 305.0421408393866
+			1.2.2.2. Taux de compression: 40.11873149015807 %
+		
+		1.2.3. zigzag_scan
+		
+			1.2.3.1. MSE: 192.05283270558692
+			1.2.3.2. Taux de compression: 41.62349352059256 %
+​
+		
+	1.3. sous_echantillonnage_4_4_4
+	
+		1.3.1. ligne_scan            
+		
+			1.3.1.1. MSE: 184.49813357546407
+			1.3.1.2. Taux de compression: 48.1646388255424 %
+		
+		1.3.2. colonne_scan
+		
+			1.3.2.1. MSE: 184.13287597524885
+			1.3.2.2. Taux de compression: 46.179899874632135 %
+		
+		1.3.3. zigzag_scan
+		
+			1.3.3.1. MSE: 185.94956618240516
+			1.3.3.2. Taux de compression: 47.62978517809267 %
+		
+2. num_blocs = 16
+
+	2.1. sous_echantillonnage_4_2_0
+	
+		2.1.1. ligne_scan
+			
+			2.1.1.1. MSE: 195.41992310106716
+			2.1.1.2. Taux de compression: 26.597593406882748 %
+			
+		2.1.2. colonne_scan
+		
+			2.1.2.1. MSE: 195.64717626221864
+			2.1.2.2. Taux de compression: 26.80919725695845 %
+		
+		2.1.3. zigzag_scan
+		
+			2.1.3.1. MSE: 195.2288931485965
+			2.1.3.2. Taux de compression: 26.74992048864041 %
+		
+	2.2. sous_echantillonnage_4_2_2
+	
+		2.2.1. ligne_scan
+		
+			2.2.1.1. MSE: 191.7504921083311
+			2.2.1.2. Taux de compression: 34.21444315774802 %
+
+		
+		2.2.2. colonne_scan
+		
+			2.2.2.1. MSE: 191.7504921083311
+			2.2.2.2. Taux de compression: 29.971242637303973 %
+		
+		2.2.3. zigzag_scan
+		
+			2.2.3.1. MSE: 192.19753273249034
+			2.2.3.2. Taux de compression: 33.21701425973357 %
+		
+	2.3. sous_echantillonnage_4_4_4
+	
+		2.3.1. ligne_scan
+		
+			2.3.1.1. MSE: 184.4644594655188
+			2.3.1.2. Taux de compression: 40.76060021218907 %
+		
+		2.3.2. colonne_scan
+		
+			2.3.2.1. MSE: 184.22510312976414
+			2.3.2.2. Taux de compression: 38.67566437332081 %
+		
+		2.3.3. zigzag_scan
+		
+			2.3.3.1. MSE: 184.35692762980898
+			2.3.3.2. Taux de compression: 41.06884395852376 %
+
+3. num_blocs = 32
+
+	3.1. sous_echantillonnage_4_2_0
+	
+		3.1.1. ligne_scan
+			
+			3.1.1.1. MSE: 195.56829544435476
+			3.1.1.2. Taux de compression: 24.684051758466865 %
+			
+		3.1.2. colonne_scan
+		
+			3.1.2.1. MSE: 197.73906264012194
+			3.1.2.2. Taux de compression:23.579559650998927 %
+		
+		3.1.3. zigzag_scan
+		
+			3.1.3.1. MSE: 197.02292059008158
+			3.1.3.2. Taux de compression: 23.05819136839775 %
+		
+	3.2. sous_echantillonnage_4_2_2
+	
+		3.2.1. ligne_scan
+		
+			3.2.1.1. MSE: 191.89261389113082
+			3.2.1.2. Taux de compression: 30.081600726500934 %
+		
+		3.2.2. colonne_scan
+		
+			3.2.2.1. MSE: 306.78194444444443
+			3.2.2.2. Taux de compression: 26.275070701817114 %
+		
+		3.2.3. zigzag_scan
+		
+			3.2.3.1. MSE: 193.91206281947805
+			3.2.3.2. Taux de compression: 30.394905863391187 %
+		
+	3.3. sous_echantillonnage_4_4_4
+	
+		3.3.1. ligne_scan
+		
+			3.3.1.1. MSE: 184.31129943502825
+			3.3.1.2. Taux de compression: 37.44644507491029 %
+		
+		3.3.2. colonne_scan
+		
+			3.3.2.1. MSE: 185.2903853914447
+			3.3.2.2. Taux de compression: 36.72593153016833 %
+		
+		3.3.3. zigzag_scan
+		
+			3.3.3.1. MSE: 186.30115124204107
+			3.3.3.2. Taux de compression: 38.41829282099002 %

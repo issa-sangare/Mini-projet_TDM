@@ -1,0 +1,88 @@
+-------------------------------   COMPRESSION JPEG ----------------------------------
+
+1. Extraction de la/des matrice(s) de pixels de l'image RGB : Cette opération est réalisée après l'ouverture du fichier, par exemple avec `Image.open()`, suivi de sa conversion en un tableau numpy via `numpy.array(Image.open())`. Tout traitement ultérieur de l'image sous forme matricielle agit sur les pixels, qui sont les coefficients des matrices représentant l'image.
+
+2. Conversion de l'espace de couleur RGB en YCbCr : Cette étape permet une compression plus efficace tout en préservant la qualité visuelle de l'image.
+
+3. Subdivision de l'image en blocs de 8 * 8 pixels : Le bloc de matrice(s) de pixels de taille L x C est découpé en blocs de 8 * 8 pixels. Cette taille facilite la manipulation de l'image originale et correspond à la taille requise pour la matrice de quantification. Si le nombre de lignes L et/ou de colonnes C n'est pas un multiple de 8, des pixels supplémentaires sont ajoutés avec des valeurs nulles.
+
+4. Sous-échantillonnage des matrices Cr et Cb en 4:2:0 : Cette méthode réduit les matrices de chrominance Cr et Cb en matrices 4 * 4 en sélectionnant les pixels de positions impaires horizontalement et verticalement. Par la suite chaque élément 2 * 2 de la matrice luminance sera associé non pas à un élément 2 * 2 de ces nouvelles matrices chrominances mais à chaque coefficient de celles ci. Ceci, cette reduction de données, s'applique uniquement aux composantes de chrominance car l'œil est moins sensible à ces variations par rapport à la luminance. Cette réduction de sensibilité permet de diminuer la quantité de données tout en conservant une bonne qualité d'image et une taille réduite.
+
+5. Application de la DCT (Transformée en Cosinus Discrète) : La DCT, dérivée de la transformée de Fourier, réorganise l'information de manière à concentrer la plupart de l'énergie de l'image dans un petit nombre de coefficients. En d'autres termes, elle sépare les composantes d'une image en une partie significative et une partie négligeable. La DCT transforme l'information spatiale d'une image en une représentation fréquentielle plus compacte, facilitant ainsi la compression tout en préservant une qualité visuelle acceptable.
+
+6. Quantification : Après la DCT, la matrice résultante est quantifiée pour chaque plan de luminance et de chrominance par une matrice spécifique prédéfinie. La compression JPEG est avec perte principalement en raison de cette étape. La matrice de quantification divise la matrice de la DCT et arrondit les valeurs, ce qui conduit à une matrice avec peu de valeurs différentes de zéro dans la partie supérieure gauche et des zéros pour le reste de la matrice. Lors de la décompression, la multiplication de cette matrice quantifiée par celle de la quantification laisse les valeurs à zéro. Ainsi, il est impossible de revenir exactement aux données initiales (l'information est néanmoins conservée). Pour les matrices de chrominance qui sont devenues 4 * 4, chaque coefficient devient une matrice 2 * 2 pour pouvoir subir la quantification, cette dernière étant une matrice 8 * 8.
+
+7. Parcours des matrices : Pendant cette étape, nous utilisons le parcours en zigzag, qui, grâce à la disposition de la nouvelle matrice, maximise les répétitions, favorisant ainsi le codage RLE.
+
+8. Codage RLE : Après le parcours en zigzag, les vecteurs résultants sont codés par RLE pour réduire la taille de l'information et des données sans perdre aucune information.
+
+9. Codage Huffman : Enfin, le codage de Huffman est appliqué au résultat du codage RLE. À l'issue de cette étape nous obtenons l'image compressée qui, avec l'entête constitue notre fichier image complet compressé avec des données perdu certes (du fait que JPEG est une technique de compression avec perte) mais gardant les mêmes informations (les plus essentielles).
+
+-------------------------------   COMPRESSION GIF ----------------------------------
+
+1. Extraction de la/des matrice(s) de pixels de l'image RGB : Cette opération est réalisée après l'ouverture du fichier, par exemple avec `Image.open()`, suivi de sa conversion en un tableau numpy via `numpy.array(Image.open())`. Tout traitement ultérieur de l'image sous forme matricielle agit sur les pixels, qui sont les coefficients des matrices représentant l'image.
+
+2. Création de la palette de couleur par les k-means clustering: La creation de palettes est l'une des principales caractéristiques de cette méthode de compression d'image. Le k-means clustering consiste à sélectionner pour une palette de 2^n couleurs avec n élément de {1, 2, 3, 4, 5, 6, 7, 8}, de choisir au hasard comme centroïdes parmi les pixels (les combinaisons de couleurs [rouge vert bleu]), un nombre égale à celui de la palette de couleur demandée. Après cette sélection aléatoire de ces centroïdes, des clusters sont déterminés pour chaque centroïdes en calculant la distance entre les valeurs des pixels de l'image à celui de tous les centroïdes puis à associer le pixel au centroïde avec lequel la distance est la plus faible. Un cluster désigne l'ensemble des pixels associés à un centroïde pendant une itération donnée. Après avoir determiné tous les clusters de tous les 2^n centroïdes, les centroïdes sont mis à jour en calculant la moyenne par canal (couleur) des clusters qui lui sont associés. Puis on repète ce traitement jusqu'à obtenir une certaine valeur de tolérance, un nombre maximal d'itérations ou une convergence des centroïdes. Ainsi la palettes de couleurs à 2^n valeurs distinctes est créée
+
+3. Le mappage: il s'agit de l'association de chaque pixel de l'image à une couleur (un élément) de la palette de couleurs (un centroïde). Ainsi au lieu que les pixels soient representés par les 3 composantes [rouge vert bleu], ils seront representés par des index de la palette de couleurs (les centroïdes) allant généralement de 0 à 2^n - 1. Ce mappage est realisé en calculant la distance (euclidienne) entre les valeurs de chaque pixel pix[i] et celles de tous les éléments de la palette de couleurs pal[j]. Par la suite le pixel prend l'index de l'élément de la palette de couleurs avec laquelle la distance est la plus faible.
+
+4. Passage de la matrice au vecteur: Ensuite nous changeons la matrice en vecteur. Cela donne une representation plus compacte de l'image et permet une facilité de la manipulation et du traitement des données.
+
+5. Codage dynamique LZW: Après cette étape vient celle du codage LZW. Le codage par l'algorithme de Limpel-Ziw Welch est la dernière étape du processus de compression GIF. Ce codage se base sur l'existence d'une table de code (ici notre palette de couleurs (centroïdes) qui represente le dictionnaire). (Voir cours Seance_1.pdf page 88.). À la fin de cette étape nous obtenons le fichier compressé qui, avec les données de l'entête portant les informations sur le fichier et comment le decompresser, permet de remonter à l'image initiale avec les mêmes données et la même information (compte tenu du fait que cet algorithme de compression compresse généralement les données en utilisant une technique de compression sans perte).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+------------------------------- COMPRESSION JPEG ----------------------------------
+
+1. Extraction de la/des matrice(s) de pixels de l'image RGB : Cette opération est réalisée après l'ouverture du fichier, par exemple avec `Image.open()`, suivi de sa conversion en un tableau numpy via `numpy.array(Image.open())`. Tout traitement ultérieur de l'image sous forme matricielle agit sur les pixels, qui sont les coefficients des matrices représentant l'image.
+
+2. Conversion de l'espace de couleur RGB en YCbCr : Cette étape permet une compression plus efficace tout en préservant la qualité visuelle de l'image.
+
+3. Subdivision de l'image en blocs de 8 * 8 pixels : Le bloc de matrice(s) de pixels de taille L x C est découpé en blocs de 8 * 8 pixels. Cette taille facilite la manipulation de l'image originale et correspond à la taille requise pour la matrice de quantification. Si le nombre de lignes L et/ou de colonnes C n'est pas un multiple de 8, des pixels supplémentaires sont ajoutés avec des valeurs nulles.
+
+4. Sous-échantillonnage des matrices Cr et Cb en 4:2:0 : Cette méthode réduit les matrices de chrominance Cr et Cb en matrices 4 * 4 en sélectionnant les pixels de positions impaires horizontalement et verticalement. Par la suite, chaque bloc 8 * 8 de la matrice de luminance est associé à des blocs 4 * 4 de ces nouvelles matrices chrominances. Cette réduction de données ne s'applique qu'aux composantes de chrominance car l'œil est moins sensible à ces variations par rapport à la luminance, ce qui permet de diminuer la quantité de données tout en conservant une bonne qualité d'image et une taille réduite.
+
+5. Application de la DCT (Transformée en Cosinus Discrète) : La DCT, dérivée de la transformée de Fourier, réorganise l'information de manière à concentrer la plupart de l'énergie de l'image dans un petit nombre de coefficients. En d'autres termes, elle sépare les composantes d'une image en une partie significative et une partie négligeable. La DCT transforme l'information spatiale d'une image en une représentation fréquentielle plus compacte, facilitant ainsi la compression tout en préservant une qualité visuelle acceptable.
+
+6. Quantification : Après la DCT, la matrice résultante est quantifiée pour chaque plan de luminance et de chrominance par une matrice spécifique prédéfinie. La compression JPEG est avec perte principalement en raison de cette étape. La matrice de quantification divise la matrice de la DCT et arrondit les valeurs, ce qui conduit à une matrice avec peu de valeurs différentes de zéro dans la partie supérieure gauche et des zéros pour le reste de la matrice. Lors de la décompression, la multiplication de cette matrice quantifiée par celle de la quantification laisse les valeurs à zéro. Ainsi, il est impossible de revenir exactement aux données initiales, mais l'information est néanmoins conservée.
+
+7. Parcours des matrices : Pendant cette étape, nous utilisons le parcours en zigzag, qui, grâce à la disposition de la nouvelle matrice, maximise les répétitions, favorisant ainsi le codage RLE.
+
+8. Codage RLE : Après le parcours en zigzag, les vecteurs résultants sont codés par RLE pour réduire la taille de l'information et des données sans perdre aucune information.
+
+9. Codage Huffman : Enfin, le codage de Huffman est appliqué au résultat du codage RLE. À l'issue de cette étape, nous obtenons l'image compressée qui, avec l'en-tête, constitue notre fichier image complet compressé avec perte, tout en conservant les informations essentielles pour la visualisation.
+
+------------------------------- COMPRESSION GIF ----------------------------------
+
+1. Extraction de la/des matrice(s) de pixels de l'image RGB : Cette opération est réalisée après l'ouverture du fichier, par exemple avec `Image.open()`, suivi de sa conversion en un tableau numpy via `numpy.array(Image.open())`. Tout traitement ultérieur de l'image sous forme matricielle agit sur les pixels, qui sont les coefficients des matrices représentant l'image.
+
+2. Création de la palette de couleur par k-means clustering : La création de palettes est l'une des principales caractéristiques de cette méthode de compression d'image. Le k-means clustering consiste, pour une palette de 2^n couleurs (n élément de {1, 2, 3, 4, 5, 6, 7, 8}), à choisir au hasard comme centroïdes parmi les pixels (les combinaisons de couleurs [rouge, vert, bleu]), un nombre égal à celui de la palette de couleur demandée. Après cette sélection aléatoire de ces centroïdes, des clusters sont déterminés pour chaque centroïde en calculant la distance entre les valeurs des pixels de l'image et celui de tous les centroïdes, puis en associant le pixel au centroïde avec lequel la distance est la plus faible. Un cluster désigne l'ensemble des pixels associés à un centroïde pendant une itération donnée. Après avoir déterminé tous les clusters de tous les 2^n centroïdes, les centroïdes sont mis à jour en calculant la moyenne par canal (couleur) des clusters qui lui sont associés. Ensuite, ce processus est répété jusqu'à obtenir une certaine valeur de tolérance, un nombre maximal d'itérations ou une convergence des centroïdes. Ainsi, la palette de couleurs à 2^n valeurs distinctes est créée.
+
+3. Le mappage : il s'agit de l'association de chaque pixel de l'image à une couleur (un élément) de la palette de couleurs (un centroïde). Ainsi, au lieu que les pixels soient représentés par les 3 composantes [rouge, vert, bleu], ils seront représentés par des index de la palette de couleurs (les centroïdes) allant généralement de 0 à 2^n - 1. Ce mappage est réalisé en calculant la distance euclidienne entre les valeurs de chaque pixel pix[i] et celles de tous les éléments de la palette de couleurs pal[j]. Par la suite, le pixel prend l'index de l'élément de la palette de couleurs avec lequel la distance est la plus faible.
+
+4. Passage de la matrice au vecteur : Ensuite, nous changeons la matrice en vecteur. Cela donne une représentation plus compacte de l'image et permet une facilité de la manipulation et du traitement des données.
+
+5. Codage dynamique LZW : Après cette étape vient celle du codage LZW. Le codage par l'algorithme de Lempel-Ziv-Welch est la dernière étape du processus de compression GIF. Ce codage se base sur l'existence d'une table de code (ici notre palette de couleurs (centroïdes) qui représente le dictionnaire). À la fin de cette étape, nous obtenons le fichier compressé qui, avec les données de l'en-tête portant les informations sur le fichier et comment le décompresser, permet de remonter à l'image initiale avec les mêmes données et la même information.

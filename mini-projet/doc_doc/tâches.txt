@@ -1,0 +1,30 @@
+Voici les tâches réparties et corrigées :
+
+- AIT LAKBIT Salma :
+    1. Partie théorique : La compression de données (générale) avec et sans perte.
+    2. Partie pratique : Les instructions (3) et (4).
+    3. Document final : Créer une partie ou un document PowerPoint complet, qui résume le compte rendu en Word et/ou PDF.
+
+- ER-RACHIDI Ibtissam :
+    1. Partie théorique : La compression de données images (générale) avec et sans perte.
+    2. Partie pratique : L'instruction (5).
+    3. Document final : Contribuer à une partie du document PowerPoint avec Salma.
+
+- JAKIR Latifa :
+    1. Partie théorique : Les algorithmes de codage (RLE, Huffman, LZ78 et LZW).
+    2. Partie pratique : L'instruction (5).
+    3. Document final : Contribuer à une partie du document PowerPoint avec AIT LAKBIT Salma.
+
+- MELLOUK Khalil :
+    1. Partie théorique : Le formalisme des algorithmes de compression d'image.
+    2. Partie pratique : L'instruction (2).
+    3. Document final : Préparer le compte rendu sous forme de document Word (PDF).
+
+- SANGARÉ Issa :
+    1. Partie théorique : Les étapes des algorithmes de compression.
+    2. Partie pratique : Les instructions (1) et (6).
+    3. Suivi du projet : Assurer le suivi du mini-projet et des tâches, ainsi que contribuer aux documents Word (PDF) et PowerPoint.
+
+La question (2) de la partie pratique sera modifiée pour inclure l'innovation relative à la nouvelle extension .IRM, mais l'accent sera davantage mis sur la question (3) de la partie pratique si l'utilisation directe de celle-ci comme innovation pour la nouvelle extension .IRM est envisagée, en plus des modifications apportées à la question (2).
+
+Après avoir expliqué les étapes des algorithmes de compression JPEG et GIF, nous aborderons la question de l'innovation, notamment la modification de la question (3) de la partie pratique, et peut-être également la question (2).

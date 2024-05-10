@@ -1,0 +1,939 @@
+L'Attaque des Titans (進撃の巨人, Shingeki no Kyojin?, litt. Le Géant assaillant, souvent abrégé SnK), aussi connu sous le titre américain Attack on Titan, est un shōnen manga écrit et dessiné par Hajime Isayama. Il est prépublié entre septembre 2009 et avril 2021 dans le magazine Bessatsu Shōnen Magazine puis compilé en trente-quatre volumes reliés par l’éditeur Kōdansha. La version française est publiée en intégralité par Pika Édition dans la collection seinen entre juin 2013 et octobre 2021.
+
+L’histoire tourne autour du personnage d’Eren Jäger dans un monde où l’humanité vit entourée d’immenses murs pour se protéger de créatures gigantesques, les Titans. Le récit raconte le combat mené par l’humanité pour reconquérir son territoire, en éclaircissant les mystères liés à l’apparition des Titans, du monde extérieur et des évènements précédant la construction des murs.
+
+Une adaptation en série télévisée d’animation de vingt-cinq épisodes produite par Wit Studio est diffusée initialement entre avril et septembre 2013 sur la chaîne MBS au Japon. Une deuxième saison de douze épisodes est diffusée entre avril et juin 2017. Une troisième saison de vingt-deux épisodes, divisée en deux parties, est diffusée entre juillet 2018 et juillet 2019 sur NHK General TV. Une quatrième et dernière saison, divisée en trois parties, est produite par MAPPA et diffusée de décembre 2020 à mars 2021 sur NHK General TV pour la première partie, de janvier à avril 2022 pour la deuxième partie, et la troisième partie composée de deux épisodes spéciaux est diffusée entre mars et novembre 2023. La version originale sous-titrée en français est initialement diffusée et distribuée en simultané par Wakanim puis Crunchyroll en streaming et téléchargement légal, puis éditée par @Anime en DVD et Blu-ray. Des original video animation sont commercialisés au format DVD avec des éditions limitées du manga, et un film live en deux parties est diffusé lors de l’été 2015. Des adaptations en jeux vidéo, light novels et séries dérivées ont également vu le jour.
+
+La série est un succès commercial à l’échelle mondiale, avec un tirage total s’élevant à plus de 140 millions d’exemplaires en novembre 2023, ce qui classe l'œuvre parmi les séries de mangas les plus vendues. L’adaptation en anime a notamment permis une large popularisation de l’œuvre à l’international. L’accueil critique est également positif. On loue l’atmosphère, l'intensité et le développement du récit. La série est récompensée par de nombreux prix, bien que l'interprétation politique de la série produise des controverses.
+
+Trame
+Univers
+Plus de cent ans avant le début de l’histoire, des créatures géantes humanoïdes mangeuses d'hommes nommées Titans (巨人, Kyojin?) sont subitement apparues et ont presque anéanti l’humanité. Ces créatures font entre trois et quinze mètres de haut, avec quelques exceptions comme le Titan colossal qui en mesure soixante1. Il semblerait que les Titans dévorent les humains par instinct et uniquement pour les tuer. En effet, ils ne possèdent pas de système digestif et puisent leur énergie dans la lumière du soleil. Les Titans ont la peau dure, des capacités régénératrices et ne peuvent être tués que par une incision profonde à la base de la nuque2.
+
+Pour se protéger, l’humanité vit entourée par trois murs concentriques de cinquante mètres de haut, distants les uns des autres d’une centaine de kilomètres3. Le mur extérieur est le Mur Maria (ウォール・マリア, Wōru Maria?), l’intermédiaire est le Mur Rose (ウォール・ローゼ, Wōru Rōze?) et le central est le Mur Sina (ウォール・シーナ, Wōru Shīna?). Afin de pouvoir se défendre plus facilement et efficacement, ainsi que pour réduire les coûts nécessaires à la défense, des bastions ont été construits. Ils permettent aux membres d’une garnison d’attirer les titans à un même endroit afin de les attaquer à l’aide de canons4,5. Grâce à l’altitude supérieure du mur central, de nombreux cours d’eau irriguent la zone dans son intégralité, ce qui permet à l’humanité de ne manquer ni de ressources minérales ni de gaz naturel6. Ces trois murs sont considérés comme sacrés dans certains cultes, en renvoyant à trois déesses protectrices.
+
+La lutte contre les titans est menée par une armée répartie en trois factions : le bataillon d'exploration, la garnison et les brigades spéciales. Le bataillon d’exploration (調査兵団, Chōsa Heidan?) effectue des expéditions de reconquête de territoires à l’extérieur des murs. Du fait du faible taux de réussite de ces missions, l'existence du bataillon d'exploration est souvent critiquée par le peuple. La garnison (駐屯兵団, Chūton Heidan?) s’occupe de la protection des murs et des habitants des villes. Enfin, les brigades spéciales (憲兵団, Kenpeidan?) opèrent sous l’autorité royale dans des conditions de vie prospères et doivent maintenir la paix à l'intérieur des murs. Seules les dix premières recrues de chaque brigade d'entraînement reçoivent le privilège de demander une affectation au sein des brigades spéciales. Afin d’accéder au point faible des titans, les soldats utilisent des lames et des équipements de manœuvres tridimensionnelles (立体 機動 装置, Rittai kidō sotchi?) qui leur permettent de se déplacer rapidement dans trois dimensions7. Bien qu’ils permettent une grande mobilité à un utilisateur expérimenté, ils entraînent un grand risque de surcharge des muscles et nécessitent donc une condition physique particulière et un sens de l’équilibre maîtrisé8. Les soldats sont soumis à un entraînement très rude.
+
+On apprend plus tard que les titans sont apparus il y a environ 2 000 ans, lorsqu'une jeune femme nommée Ymir Fritz (ユミル・フリッツ, Yumiru Furittsu?) est devenue le premier géant de l'histoire en obtenant le pouvoir du Titan originel (始祖の巨人, Shiso no Kyojin?). À la mort d'Ymir, son pouvoir a été divisé en neuf, donnant naissance à neuf titans primordiaux, chacun possesseur d'un pouvoir du Titan (巨人の力, Kyojin no chikara?) qui peut être transféré aux membres du peuple d'Ymir. Grâce à ce pouvoir, ce peuple a conquis le monde pour devenir le grand empire d'Eldia (エルディア, Erudia?)9,10. La famille Fritz — avec le pouvoir du Titan fondateur entre ses mains — a gouverné le monde jusqu'à l'époque du 145e roi d'Eldia, nommé Karl Fritz (カール・フリッツ, Kāru Furittsu?) qui, après la Grande Guerre des Titans, a décidé de mettre fin à l'empire d'Eldia, conduisant nombre de ses habitants vers une île appelée Paradis (パラディ島, Paradi-tō?). Cependant, tous les Eldiens n'ont pas pu ou voulu rejoindre l'île et sont restés sur le continent. Ils ont alors été soumis par le nouvel empire de Mahr (マーレ, Māre?) qui les a placés dans des ghettos en les traitant comme des êtres inférieurs à cause de leurs crimes passés. L'empire les a par la suite exploités en les utilisant comme des armes de destruction massive pendant les guerres en les transformant de force en titans 9.
+
+De son côté, en atteignant Paradis, le roi Fritz a utilisé le pouvoir du Titan originel — également connu sous le terme d'Axe (座標, Zahyō?) — afin de faire construire les trois grands murs concentriques à des titans de 50 mètres. Il a par la suite effacé la mémoire des habitants, leur faisant oublier les guerres passées et l'empire de Mahr. Toutes ces actions ont été menées dans le but supposé de les protéger des maux extérieurs, de les empêcher de quitter les murs en leur faisant croire qu'ils étaient les derniers survivants de l'humanité. Fritz est resté le roi des murs et a changé le nom de sa famille pour Reiss. Ses descendants ont régné dans l'ombre en utilisant le pouvoir du Titan originel pendant plus de cent ans.
+
+Personnages
+
+Cosplay de plusieurs personnages du manga.
+Article détaillé : Personnages de L'Attaque des Titans.
+L’histoire se centre sur les personnages d’Eren Jäger, Mikasa Ackerman, Armin Arlelt et Reiner Braun11. D'autres jouent aussi un rôle important, comme les membres de la 104e brigade d’entraînement, du bataillon d’exploration ou encore de la garnison, tout comme certains géants comme le Titan colossal, le Titan bestial, le Titan féminin ou le Titan cuirassé.
+
+Eren Jäger (エレン・イェーガー, Eren Yēgā?)
+Eren est le héros. Il est impulsif, idéaliste, déterminé et violent. Enfant, sa mère se fait dévorer sous ses yeux par un titan ; depuis, il rêve de les anéantir. À première vue, il ne possède pas de talent particulier à part le fait d'être doué au combat au corps à corps, et d'avoir une volonté d’acier12.
+Mikasa Ackerman (ミカサ・アッカーマン, Mikasa Akkāman?)
+Mikasa est la dernière survivante d’un clan oriental. Enfant, elle a été sauvée puis adoptée par Eren et sa famille. Elle s’est depuis jurée de le protéger quelle que soit la situation. Classée première de sa promotion puis membre du bataillon d'exploration13, elle est considérée comme un génie et garde toujours son sang-froid, sauf lorsqu'Eren est en danger.
+Armin Arlelt (アルミン・アルレルト, Arumin Arureruto?)
+Armin est le meilleur ami d’Eren. Bien qu’il soit assez faible physiquement, il possède une intelligence exceptionnelle qui fait de lui un stratège hors du commun. Également membre du bataillon d'exploration14, il est capable d'élaborer des tactiques ingénieuses même dans des situations critiques, ce qui sauvera des soldats à de multiples reprises.
+Livaï (リヴァイ, Rivai?, également écrit Rivaille et Levi)
+Souvent désigné comme le Caporal-Chef Livaï (リヴァイ兵長, Rivai Heichō?), il est le chef de l'Escouade tactique au sein du Bataillon d'exploration. Dans l'épisode Le caporal Livaï, il est dit que c'est le meilleur soldat que l'humanité ait jamais connu.
+Histoire
+Schéma représentant les trois murs concentriques ainsi que les différents districts habités par les humains.
+Schéma de l’organisation du territoire humain.
+Eren Jäger, alors un petit garçon d'environ neuf ans, mène une existence paisible avec ses parents et sa sœur adoptive Mikasa à Shiganshina, une ville au bord du mur Maria. Mais, alors que les humains n'ont pas aperçu de Titans aux abords du district depuis plus d'un siècle, la ville est attaquée par un Titan de 60 mètres qui ouvre une brèche dans le mur contre la ville. Des Titans se déversent alors dans les rues, dévorant tous les humains qu'ils croisent. Eren et Mikasa sont témoins de la mort de leur mère, qui se fait dévorer sous leurs yeux. Un Titan cuirassé fait à son tour son apparition et perce le mur Maria, permettant aux Titans d'envahir tout l'espace compris entre les murs Rose et Maria. Eren et Mikasa réussissent tout de même à s'enfuir de la ville avant qu'il ne soit trop tard, avec leur ami Armin. Le père d'Eren, qui était absent de la ville ce jour-là, est porté disparu. Il apparaît cependant à Eren dans la nuit et lui confie la clé du sous-sol de leur maison, qui contiendrait des informations essentielles sur les Titans. À la suite de cette journée funeste, Eren décide de se venger et jure de tuer tous les Titans jusqu'au dernier en intégrant l'armée, et plus précisément le bataillon d'exploration15.
+
+Quelques années plus tard, Eren, Mikasa et Armin intègrent tous les trois la 104e brigade d'entraînement de l'armée, avec une vingtaine d'autres jeunes personnes. Après trois années de formation, alors qu'ils se trouvent à Trost, une ville contre le mur Rose, pour finaliser leur formation et choisir leur corps d'armée, le Titan colossal refait son apparition et ouvre une brèche dans le mur de la ville. Le cauchemar recommence et de nombreux Titans envahissent la ville. Dans l'attente du bataillon d'exploration, spécialisé dans le combat contre les Titans, les jeunes recrues ainsi que les forces armées de la cité sont envoyées au combat pour protéger les civils lors de leur évacuation. Mais malheureusement, les soldats sont complètement dépassés et le combat tourne au carnage. Alors qu'Armin était sur le point de se faire dévorer par un Titan, Eren se sacrifie pour son ami et se fait avaler à sa place. Armin s'échappe finalement et prévient Mikasa de la mort d'Eren. Cette dernière perd le contrôle et passe sa rage sur tous les Titans qu'elle rencontre, avant de s'effondrer au sol à court de gaz de propulsion, isolée des autres. Elle se retrouve alors totalement vulnérable face à un Titan mais est sauvée in extremis par un autre Titan, qui se révèle être Eren. En effet, ce dernier n'a pas été tué par le Titan qui l'avait avalé et s'est découvert la capacité de se transformer en Titan. Grâce à la maitrise de son nouveau corps, il tue un grand nombre de titans. Lors d'une deuxième opération militaire, après l'évacuation des civils, il parvient à boucher la brèche dans le mur et ainsi à sauver la ville. Malgré le fait d'avoir sauvé Trost, Eren est considéré par certains comme un danger pour l'humanité et est donc traduit devant la justice. Plutôt que d'être mis à mort, il est finalement confié à l'unité du bataillon d'exploration dirigée par le caporal-chef Livaï, qui voit en lui un atout dans la lutte contre les Titans mais aussi un moyen d'en apprendre davantage sur ces ennemis dont on ignore quasiment tout16.
+
+Au fur et à mesure que l'intrigue progresse, de nombreux mystères sont révélés quant à la capacité d'Eren à se transformer en Titan, des raisons pour lesquelles il a obtenu ce pouvoir et des autres personnes capables de se transformer également en Titan. Les humains découvriront également l'origine des Titans et l'identité de leurs réels ennemis.
+
+Suite du résumé détaillé 
+Conception
+Genèse et développement
+
+Hajime Isayama au Festival d'Angoulême 2023.
+Alors qu’il a dix-neuf ans, Hajime Isayama dessine un one shot intitulé Jinrui vs Kyojin (人類VS巨人?, littéralement Humanité contre Titans) comprenant déjà quelques éléments de la future série24. Dès cette époque, l’auteur possède une idée globale de l’histoire, avec comme ligne directrice « une humanité acculée »25. Au départ, il remet ses travaux à l’éditeur Shūeisha afin d’être publié dans le magazine Weekly Shōnen Jump. Cependant, comme le style est légèrement éloigné de la ligne du magazine, l’éditeur lui demande de modifier quelques détails, ce qu’il refuse26,27,28. Il décide alors de proposer ses travaux à Kōdansha qui accepte de le publier28. Le one shot est alors publié dans le magazine Weekly Shōnen Magazine et l’auteur reçoit en juillet 2006 le prix « meilleur travail » au Grand Prix du Manga29. Il travaille ensuite sur deux publications, Heart Break One et Orz, et devient assistant de Yuki Sato30. En 2009, l’éditeur Kōdansha lui propose d’écrire une série pour le nouveau magazine mensuel, Bessatsu Shōnen Magazine28, lancé cette même année. Durant six mois, il travaille alors sur l’univers et l’histoire de son œuvre31. Il soumet ensuite deux storyboards, ceux correspondant par la suite aux troisième et quatrième chapitres de l’œuvre, qui sont acceptés pour une publication dans le magazine32. Toutefois, dans le doute et la panique, l'auteur se demande si ces chapitres sont le meilleur moyen d'introduire la série. Il décide alors de s'attarder sur le drame originel de son héros et propose deux premiers chapitres très différents de ceux qui avaient été précédemment validés par le comité d'édition du magazine. Soutenu par son éditeur Shintaro Kawabuko, l'ordre de parution est finalement modifié selon le souhait de l'auteur, et la parution débute le 9 septembre 200933.
+
+Généralement, Isayama met environ une semaine pour les croquis et deux semaines pour le dessin définitif de la quarantaine de pages composant un chapitre34. La quatrième semaine du mois est principalement dédiée à la préparation du chapitre suivant35. L’auteur possède une idée globale de la trame à suivre pour son manga, notamment concernant la trame principale d'Eren, Armin et Mikasa36. Cela lui permet d'utiliser à de nombreuses reprises le foreshadowing tout au long de son œuvre, dissiminant des indices pour créer un jeu d'interprétations au lecteur37. Toutefois, les idées de scénario ne sont pas totalement définies jusqu’à ce que le dessin soit réalisé34. Ainsi, certains éléments introduits se retrouvent plus ou moins développés, selon les créations ou ajustements de dernière minute, les nouvelles réflexions de l'auteur ou encore, potentiellement, l'accueil réservé par les lecteurs37. Certains aspects scénaristiques ne sont ainsi pas complètement exploités ou résolus pendant le développement de l'œuvre37.
+
+En septembre 2013, l'auteur déclare vouloir finir sa série en une vingtaine de tomes38. En septembre 2014, Isayama affirme qu’il souhaitait initialement terminer la série au bout d’environ seize volumes mais qu’il a préféré la rallonger pour mieux décrire l’histoire et les nombreux personnages. Il poursuit alors en disant qu’il aimerait conclure sa série dans environ trois ans39, propos également tenus par son responsable éditorial Shintarō Kawakubo40. L’intention initiale de l’auteur est de réaliser une fin traumatisante proche de celle du roman Brume (The Mist) de Stephen King. Il envisage cependant la possibilité de la modifier du fait de l’attachement que les fans de la série télévisée ont pour les différents personnages41,28. Il déclare notamment en août 2017 que son récit a pris une direction plus apaisée, dans le style des Gardiens de la Galaxie42. L'auteur évoque aussi que la maturité apportée par son mariage durant la parution de la série a eu une influence sur le développement de l'histoire, notamment celle de Reiner43. Enfin, il évoque l'influence indirecte de la dernière saison de la série télévisée Game of Thrones et de la vague de critiques qu'elle a reçue par le public. Étant très attentif aux retours des lecteurs et ne souhaitant pas décevoir de la même façon son public, il exprime alors le poids qui pèse sur lui, accentuant ses doutes et appréhensions sur la manière de terminer son œuvre44.
+
+En novembre 2018, il est révélé que le manga entre dans son dernier arc45. En décembre 2019, l'auteur annonce qu'il souhaite finir le manga en 202046. Toutefois, en novembre 2020, il annonce qu'il reste 1 à 2% pour terminer le manga47. En janvier 2021, la fin est finalement annoncée pour le 9 avril48. L'auteur soumet alors le dernier chapitre de sa série fin mars à l'éditeur Kōdansha, pour une parution le 9 avril 202149. L'auteur délivre toutefois une conclusion où il ne prend pas explicitement position et tente de satisfaire tout le monde, n'échappant pas à une vague de mécontentement et d'incompréhensions de son lectorat42. Cette fin est légèrement modifiée par la suite pour la parution en volume relié, l'auteur n'étant pas satisfait de l'arrangement initial de la dernière page et étant moins limité par la pagination maximale imposée par la prépublication50. Cette nouvelle conclusion est alors plus nihiliste et négative sur la nature humaine51. Malgré tout, l'auteur regrette d'avoir pu décevoir ses fans, reconnaissant qu'il n'a pas réussi à exprimer correctement le ressenti des personnages, et leur présente ses excuses51,52.
+
+Inspiration
+Peinture représentant un monstre arrachant de la chair d’un corps
+Saturne dévorant un de ses fils, peinture de Francisco de Goya représentant le roi des Titans, Cronos, dévorant l’un de ses enfants.
+Hajime Isayama décide de faire une œuvre basée sur des Titans car ils ont une apparence brute et grossière et qu’ils provoquent un sentiment d’insécurité. L’idée originale provient à la fois d’une image du manga Jigoku Sensei Nūbē montrant une Joconde anthropophage sortir de son tableau pour manger les gens53, mais également d’une rencontre avec un client ivre dans le cybercafé dans lequel l’auteur travaillait. En effet, cette personne qui l'empoigne au col, incapable de s’exprimer correctement, lui fait comprendre que l’être humain peut être l’animal le plus familier et effrayant du monde54,55,28,note 2. Comme œuvres servant d’inspiration générale, l’auteur cite le jeu vidéo Muv-Luv Alternative (en), dans lequel des extraterrestres répugnants exterminent l’humanité qui ne recule devant rien56, ou encore le manga ARMS par sa manière d’exploiter au maximum le format manga30. Il déclare également être influencé par les jeux vidéo comme Mega Man Legends et Monster Hunter ainsi que le cinéma de monstres mettant en scène Godzilla, Mothra ou encore Gamera31.
+
+Pour la conception des Titans, Isayama utilise notamment des modèles humains. Passionné de sport de combat, notamment les arts martiaux mixtes et le catch, il s'inspire de l’artiste martial Yushin Okami pour la forme Titan d’Eren34 ou encore le catcheur Brock Lesnar pour le Titan cuirassé57. Il se base également sur des sports de combat pour retranscrire les techniques et postures des Titans. Par exemple, le Titan féminin utilise un mélange de boxe thaïlandaise et de ju-jitsu, tandis que le Titan cuirassé adopte un style mélant boxe, lutte et catch58. Il utilise également un livre photo référençant diverses expressions humaines pour leur visage54,55. Isayama désire que les Titans disposent d’une aura imposante, similaire à celle des catcheurs, afin de créer un sentiment de malaise et de peur aux lecteurs31,59. De même, il dessine volontairement les Titans déformés, à la manière du tableau Saturne dévorant un de ses fils, pour « laisser le lecteur imaginer inconsciemment les détails ou parties non dessinées31 ».
+
+Photo aérienne de la ville de Nördlingen, ville allemande entourée par un mur
+Ville allemande de Nördlingen ayant inspiré l’auteur.
+Pour la conception des murs protégeant l’humanité, Isayama s’inspire de la ville allemande de Nördlingen qui, ayant gardé son aspect médiéval, est entourée par un mur60. La présence d’un « mur de la peur » permet de faire référence à la culture japonaise et l’aspect isolé et enfermé du peuple japonais61. Elle peut également faire référence à Midgard de la mythologie nordique et au Tartare de la mythologie grecque, une prison entourée d’un triple mur dans laquelle sont enfermés les Titans. Pour le personnage principal du manga, il s’inspire de son enfance à l’époque où il vivait dans un village entouré de montagnes (ville de Hita) et qu’il désirait savoir ce qui se trouvait au-delà54,55,62.
+
+Style graphique et narratif
+Au niveau de la technique, les premiers chapitres présentent de nombreuses approximations sur les perspectives et les proportions ainsi qu'un manque général de finition, et malgré une amélioration significative au fur et à mesure des chapitres, Isayama est loin d'égaler ses collègues mangakas les plus célèbres63. Il insuffle toutefois une identité graphique bien singulière à son œuvre, qui tend vers le réalisme, avec des silhouettes filiformes et une expressivité très marquée des visages, qui tend parfois vers des expressions inquiétantes ou monstrueuses63. Le mélange entre le réalisme monstrueux et dérangeant des Titans et les problèmes de proportions plonge alors le lecteur dans la vallée de l'étrange63.
+
+L'auteur s'éloigne des codes classiques du shōnen concernant la conception et le développement des protagonistes, avec des personnages féminins peu sexualisés alors qu'il n'hésite pas à exhiber les abdominaux de ces personnages masculins64. Il assume un certain côté yaoi, notamment avec Livaï, et s'amuse avec la sexualité ambigüe de certains personnages, comme Reiner64.
+
+Pour la narration, l'auteur respecte les codes typiques du manga concernant le découpage de son œuvre avec des cases majoritairement rectilignes, bien délimitées et sans extravagance, permettant un enchainement lisible des scènes d'action. Il a toutefois recours à des formes moins régulières lorsqu'il souhaite accentuer l'intensité de certains moments d'action ou d'émotion65. L'auteur utilise également des procédés fréquemment utilisés au cinéma, dont il est fan, avec l'utilisation de bandes de cases à taille réduite pour annoncer la transition de scène, un découpage des mouvements pour simuler l'effet de ralenti ou des successions de plan successifs sur une même chose pour simuler le zoom66. Il se permet également quelques exceptions à ces codes, notamment lors de flashback ou de certaines scènes clés du manga65. Il utilise également pleinement le support manga pour créer des effets de surprises et d'effroi en tournant la page ou, au contraire, pour effectuer certaines révélations majeures au détour d'une case plus anodine, pour marquer un contraste avec la mise en scène66.
+
+L'Attaque des Titans s'articule autour d'une thématique de cycle dans sa narration. En effet, certaines situations sont reproduites en modifiant certains éléments ou en changeant les points de vue67. Par exemple, Eren est initialement l'enfant admirant le Bataillon d'exploration lors de ses retours de missions, alors qu'il devient par la suite l'un des membres de cette bridage admirée par les enfants du district67. Egalement, le massacre de la famille Reiss est raconté de quatre points de vue différents, affectant en profondeur la compréhension et le sens de la scène67. Cette notion de cycle met en avant à la fois l'évolution des protagonistes, mais aussi leur traumatisme face à un éternel recommencement tragique de l'histoire malgré leurs efforts, à l'antithèse du shōnen classique67. Malgré ce cadre, Isayama ponctue son manga d'un humour plutôt burlesque et décalé. Bien que le manga propose quelques scènes de pure comédie, Isayama utilise principalement les décalages, têtes grimaçantes, jeux de mots ou l'humour potache tout au long de son récit, tranchant avec la tension dramatique de certaines scènes68.
+
+Adaptations et exploitation de l'univers
+Pour l’adaptation en série télévisée d'animation, le comité de production de la série choisit initialement une jeune société, Wit Studio, mais possédant plusieurs talents connus dans le domaine69. L'auteur Hajime Isayama se propose d’aider le studio d’animation du fait que ses premières planches ne soient pas au niveau espéré. Ainsi, il suggère aux animateurs via des dessins préparatoires le design qu’il souhaite reproduire pour les personnages et les Titans, et en profite pour améliorer le fonctionnement de la manœuvre tridimensionnelle pour obtenir la meilleure animation possible31. Le character design modifiera légèrement les proportions des personnages pour les rendre plus attrayant et doux, et utilise un contour très marqué pour les personnages, là où l'auteur utilise un trait plus fin69. Également, l'équipe créative accorde un soin particulier aux décors, donnant une atmosphère romantique allemande, loin des décors minimalistes dessinés dans les premiers tomes70.
+
+Isayama suggère également de modifier l'ordre de événements par rapport au manga pour avoir une narration plus linéaire71. Il dévoile également certains aspects de l'intrigue au réalisateur pour qu'il puisse construire son adaptation. L'implication de l'auteur est donc réelle, mais le réalisateur garde les commandes de la série. Ainsi, ce dernier ajoute ou modifie certains éléments sans accord préalable de l'auteur71. Si l'objectif initial est de retranscrire avec fidélité l'histoire originale, l'adaptation se veut plus épique et dramatique que le manga, qui garde un caractère plus âpre72. Là où le manga propose un cadre assez froid, sombre et anxiogène, l'anime prend des allures plus glorieuses, avec une exaltation des valeurs militaires et de l'héroïsme, plus proche des codes du shōnen nekketsu73. Après le début de la diffusion en 2013, l'auteur commente sur son blog que « l’anime L’Attaque des Titans est très intéressant. Je vais moi aussi faire des efforts sur le manga »74,75. Pour la conclusion de l'anime, l'auteur a demandé au studio MAPPA de redessiner « un peu » le story-board pour les scènes finales76.
+
+En parallèle à la parution de L'Attaque des Titans, plusieurs œuvres dérivées — sous forme de visual novel, manga ou light novel — vont voir le jour pour exploiter plus en détails l'univers créé par Isayama. La plupart de ces récits, non écrits par Isayama, relate des événements se passant avant le début de la série d'origine. Par exemple, Before the fall se déroule 70 ans avant le début et développe la création de la manœuvre tridimensionnelle et la première victoire contre les Titans, tandis que Birth of Livaï retrace le passé de Livaï et sa relation avec Erwin Smith. Si ces récits font généralement référence à des éléments présents dans le manga d'Isayama et apportent des informations intéressantes au lecteur, quelques incohérences sont créées — notamment dans Before the fall — du fait d'une certaine prise de liberté des auteurs lors de l'écriture77.
+
+Manga
+Caractères japonais blancs avec un contour noir et le sous-titre anglais Attack on Titan
+Logo japonais du manga.
+Article détaillé : Liste des chapitres de L’Attaque des Titans.
+L'Attaque des Titans fait partie des titres de lancement du magazine mensuel Bessatsu Shōnen Magazine publié le 9 septembre 2009 par Kōdansha78,79. Le premier volume (un recueil est dénommé tankōbon dans les milieux du manga) est sorti le 17 mars 201080, et le rythme de parution est de trois tomes par an. Le dernier chapitre est publié le 9 avril 2021 dans le magazine, et le 34e et dernier tome est commercialisé le 9 juin 202181,82. En novembre 2020, il est annoncé la publication d'une version entièrement colorisée du manga83, et le premier tome de cette full color edition est commercialisé en juin 202184. En mars 2021, la maison d'édition Kōdansha annonce la publication de 100 exemplaires des deux premiers chapitres dans un format « Titan », faisant entre six et sept fois la taille normale d'un tankōbon, afin de battre le record de la bande dessinée le plus grande dans le Livre Guinness des records85. Un projet éditorial Shingeki Fly sortant le 30 avril 2024 au Japon propose un livre « volume 35 » qui contient 18 pages inédites ainsi qu'un artbook de 200 pages et des goodies86.
+
+La publication française est réalisée par Pika Édition dans sa collection seinen depuis le 26 juin 201387. Mehdi Benrabah, le directeur éditorial de la maison d'édition, explique ce choix parce que le manga « ne répondait pas beaucoup aux styles shōnen »88. À partir du 9 mars 2015, l’éditeur français publie les chapitres au format epub en simultané avec le Japon89. Une édition en grand format intitulée « Édition Colossale » est également publiée depuis juin 201590. Cette dernière édition comporte un total de douze tomes regroupant trois tomes de l'édition standard, le dernier tome proposant différents bonus91.
+
+Le manga est également publié par Tong Li Publishing en Chine et à Hong Kong depuis janvier 201192, par Haksan Culture Company en Corée du Sud depuis février 201193, par Kodansha Comics USA en Amérique du Nord depuis juin 2012 sous le titre Attack on Titan94,95, par Norma Editorial en Espagne depuis septembre 2012 sous le titre Ataque a los Titanes96,97, par Panini Comics en Italie depuis mars 2012 sous le titre L’attacco dei Giganti98, au Brésil depuis novembre 2013 sous le titre Ataque dos Titãs99,100 et au Mexique, en Pologne par Japonica Polonica Fantastica depuis mai 2014 sous le titre Atak Tytanów101, en République Tchèque par Crew depuis septembre 2014 sous le titre Útok titánů102. À partir d’octobre 2013, la plateforme Crunchyroll propose également le manga en version numérique dans plus de 170 pays, avec une parution simultanée avec le Japon des nouveaux chapitres103.
+
+Séries dérivées
+Romans
+Une série de light novels nommée Before the fall est publiée au Japon. Écrite par Ryo Suzukaze et illustrée par Shibamoto Thores, elle offre une préquelle à l’histoire du manga104. Le premier tome, sorti le 2 décembre 2011105, suit l’histoire d’Angel (アンヘル, Anheru?) et de la mise au point de la manœuvre tridimensionnelle. Les deuxième et troisième tomes, sortis respectivement le 30 mars 2012106 et le 29 juin 2012107, racontent l’histoire de Kyklo (キュクロ, Kyukuro?), appelé « l’enfant des Titans », et son combat contre les Titans à l’aide de la manœuvre tridimensionnelle. La série est publiée en version anglaise en Amérique du Nord depuis septembre 2014 par Vertical108 et en version française par Pika Édition sous son label Pika Roman depuis octobre 2017109.
+
+Une deuxième série de light novels nommée L'Attaque des Titans: Hope of the City (進撃の巨人 隔絶都市の女王, Shingeki no Kyojin: Kakuzetsu toshi no jōō?, litt. La reine de la ville isolée) est publiée au Japon. Elle est écrite par Ryō Kawakami et illustrée par Range Murata110. Le premier volume est sorti le 1er août 2014111, et le second et dernier le 1er mai 2015112. La série est publiée en Amérique du Nord en 2015 par Vertical113. Elle est éditée en version française par Pika Édition sous son label Pika Roman à partir du 9 novembre 2016114.
+
+Un troisième light novel nommé L'Attaque des Titans: Lost Girls, écrit par Hiroshi Seko, est sorti le 9 décembre 2014 au Japon115,116. Il comprend trois histoires courtes : Lost in the Cruel World et Wall Sina, Goodbye, adaptations des visual novel de même nom, ainsi que Lost Girls117. Il est édité en version française par Pika Édition sous son label Pika Roman le 13 avril 2016118. L'œuvre est adaptée en trois OAV commercialisés avec les tomes 24, 25 et 26 du manga original entre décembre 2017 et août 2018119.
+
+Un roman écrit par l'Américaine Rachel Aaron nommé Garrison Girl: An Attack on Titan Novel est publié le 7 août 2018 par Quirk Books120. Il est ensuite traduit en japonais et publié le 7 avril 2019 par Kōdansha sous le titre Attack on Titan: Roses on the Wall (進撃の巨人　果てに咲く薔薇, Shingeki no Kyojin ~Hate ni saku bara~?)121.
+
+Manga
+Article détaillé : Liste des volumes des séries dérivées.
+Caractères japonais gris et rouges et le sous-titre anglais Attack on Titan: Junior High
+Logo japonais du manga L’Attaque des Titans: Junior High-School
+Une série dérivée humoristique nommée L’Attaque des Titans: Junior High-School (進撃!巨人中学校, Shingeki! Kyojin chūgakkō?) est prépubliée dans le magazine Bessatsu Shōnen Magazine entre avril 2012122 et juillet 2016123. Ce manga est écrit et dessiné par Saki Nakagawa et l’histoire se déroule au collège Shingeki124. Le premier tome est commercialisé le 9 avril 2013125 et la série compte un total de onze tomes126. Hors du Japon, la série est publiée en Amérique du Nord par Kodansha Comics USA depuis mars 2014 sous le titre Attack on Titan: Junior High127,128 et en version française à partir de janvier 2016129.
+La série est adaptée en anime au sein du studio Production I.G, avec une réalisation de Yoshihide Ibata, un scénario de Midori Gotō et des compositions de Asami Tachibana130. Elle est diffusée à partir du 4 octobre 2015 sur MBS au Japon131 et en simulcast sur Wakanim dans les pays francophones132.
+
+Une deuxième série dérivée est annoncée dans le tome 11 du manga sorti le 9 août 2013133. Écrite et dessinée par Satoshi Shiki, il s’agit de l’adaptation en manga de la série de light novels Before the fall134. Un prologue est sorti le 26 août 2013 dans le magazine Monthly Shōnen Sirius135 et la série a réellement commencé le 26 septembre 2013136. Le premier volume est commercialisé le 9 décembre 2013137. Le dernier chapitre de la série est paru le 26 mars 2019, et la série totalise 17 tomes138,139. La version française est publiée par Pika Édition à partir d’octobre 2014140. En août 2015, le tirage total de la série s'élève à 1,4 million d'exemplaires141.
+
+Une troisième série dérivée, L’Attaque des Titans: Birth of Livaï (進撃の巨人 悔いなき選択, Shingeki no Kyojin Gaiden: Kuinaki sentaku?, litt. L’Attaque des Titans Spin-off : Une décision sans regret), est écrite par Gan Sunaaku et dessinée par Hikaru Suruga et raconte le passé de Livaï142. Elle est publiée dans le magazine shōjo Aria du 28 septembre 2013143 au 28 juin 2014144. Le premier volume relié est commercialisé le 9 avril 2014145 et la série compte un total de deux tomes146. Cette série a permis à Kōdansha de multiplier par cinq le tirage du magazine Aria en novembre 2013147, et par dix en décembre 2013148. Hors du Japon, la version française est publiée par Pika Édition à partir d’avril 2015149 puis de janvier 2018 dans une édition en couleur150. La version anglaise est publiée par Kodansha Comics USA en Amérique du Nord depuis juin 2014 sous le titre Attack on Titan: No Regrets151.
+
+Une quatrième série dérivée nommée Sungeki no Kyojin (Spoof on Titan) (寸劇の巨人?) est publiée sur l’application smartphone Manga Box de Kōdansha entre son lancement le 4 décembre 2013152 et le 31 décembre 2014153. Dessinée par hounori, il s’agit d’un yonkoma parodique avec les personnages principaux du manga original154. Le premier volume est commercialisé le 8 août 2014155 et le second le 9 avril 2015156.
+
+La cinquième série dérivée est l'adaptation du light novel L'Attaque des Titans: Lost Girls. Celle-ci est publiée entre le 8 août 2015 et le 9 mai 2016 dans le magazine Bessatsu Shōnen Magazine157,158. Le premier volume est commercialisé le 8 avril 2016159, et le second le 9 août 2016160. La version française est publiée par Pika Édition en mars 2017161.
+
+Anime
+Série télévisée
+Caractères japonais gris et rouges et le sous-titre anglais Attack on Titan
+Logo de l’adaptation anime.
+Article détaillé : Liste des épisodes de L’Attaque des Titans.
+L’adaptation en anime est annoncée en décembre 2012, après l’ouverture d’un site internet teaser nommé « project-attack.com »162,163. Celle-ci est produite au sein du studio Wit Studio avec une réalisation de Tetsurō Araki, une production de Tetsuya Kinoshita, un scénario de Yasuko Kobayashi et des compositions de Hiroyuki Sawano164. Sa diffusion débute initialement le 7 avril 2013 sur MBSnote 3,165. L’anime est ensuite rediffusé sur les chaînes Tokyo MX, TV Aichi, FBS, HTB, TOS (ja), BS11, puis sur le site Niconico166. Peu après le début de la diffusion, Kyoji Asano, character designer de la série, annonce rechercher des animateurs afin d’aider le studio d’animation, en assurant que la série ne perdrait pas en qualité167. Le dernier épisode est diffusé en avant-première au Marunouchi Picadilly 1 à Tokyo le 28 septembre 2013 lors d’un événement spécial retransmis en streaming dans plus de quinze salles de cinéma japonaises168.
+
+À la suite de cet évènement, Tetsurō Araki, Tetsuya Kinoshita et l’auteur Hajime Isayama déclarent vouloir adapter la suite du manga169,170. En août 2014, George Wada, président de Wit Studio, annonce qu’une seconde saison est en préproduction171. Lors de la première séance de projection du film d’animation Shingeki no Kyojin zenpen ~Guren no yumiya~ en novembre 2014 au Japon, avec la présence des seiyū des principaux personnages, cette saison est initialement annoncée pour une diffusion en 2016172. En juillet 2016, la diffusion est finalement annoncée pour le printemps 2017173. Cette seconde saison est réalisée par la même équipe que la première, à l'exception de Masashi Koizuka qui prend la place de Tetsurō Araki en tant que réalisateur. Le premier épisode est diffusé le 1er avril 2017 sur 21 chaines japonaises, dont Tokyo MX et MBS174. La saison est composée de douze épisodes175 et adapte les chapitres 35 à 50.
+
+Une troisième saison est annoncée lors de la diffusion du dernier épisode de la deuxième saison176,177. Elle est composée de 22 épisodes diffusés en deux parties. La première partie, diffusée entre juillet et octobre 2018 sur NHK General TV178,179, adapte l'arc du Tournant Majeur, correspondant aux chapitres 51 à 70 du manga. La deuxième moitié, diffusée entre avril et juillet 2019, adapte quant à elle l’arc du Retour à Shiganshina, qui correspond aux chapitres 71 à 90 de l’œuvre originale. Pour la première partie, l'auteur Hajime Isayama a retravaillé le scénario de l'histoire car il n'était pas satisfait de son travail sur le manga180.
+
+Une quatrième et dernière saison est annoncée lors de la diffusion du dernier épisode de la troisième saison181. En mai 2020, un teaser est dévoilé et il est révélé que Wit Studio laisse la place à MAPPA avec Yūichirō Hayashi à la direction. Le directeur de la première saison Tetsurō Araki affirme alors que la nouvelle équipe est « merveilleuse »182. La diffusion de cette dernière saison débute le 7 décembre 2020183,184. La première partie de la saison, composée de 16 épisodes couvrant les chapitres 91 à 116, est diffusée jusqu'au 29 mars 2021. Une deuxième partie est ensuite annoncée pour l'hiver 2021-2022185. Composée de douze épisodes, elle est diffusée du 10 janvier au 4 avril 2022. Une troisième et dernière partie est annoncée peu après la diffusion du dernier épisode de la deuxième partie186. Le premier épisode spécial d'une heure est diffusé le 4 mars 2023187, après la diffusion d'une compilation en sept parties de l'anime188, tandis que le deuxième épisode de 85 minutes sort le 5 novembre 2023189. Ces deux épisodes spéciaux sont également diffusés au format épisodique standard, avec une numérotation allant de 88 à 94190.
+
+Les différentes saisons sont diffusées en streaming et en téléchargement légal sur Wakanim en version originale sous-titrée en français, en simultané avec le Japon191,192,193. Elles sont également disponibles sur Crunchyroll après son rachat par Sony et la fusion avec le catalogue de Wakanim194. Les trois premières saisons sont aussi disponibles sur Netflix195,196, Amazon Prime Video, et sur Anime Digital Network en version française à partir de novembre 2020197. La première saison est diffusée à la télévision sur France 4 en version française ou version originale sous-titrée entre septembre et novembre 2014198. Les quatre saisons sont également diffusées sur la chaine Mangas199.
+
+La série est également éditée en Amérique du Nord par Funimation et Crunchyroll200,201, au Royaume-Uni par Manga Entertainment202 et en Australie par Madman Entertainment203. Netflix propose également la série en streaming dans la plupart des pays où le service est disponible204.
+
+DVD et Blu-ray
+Au Japon, la première saison est éditée en DVD et Blu-ray à partir du 17 juillet 2013. Les éditions limitées proposent différents bonus comme des épisodes humoristiques avec les personnages en version SD nommés Chimi kyara gekijō tondeke! Kunren heidan (ちみキャラ劇場 とんでけ！訓練兵団?) ou des jeux vidéo. Le premier coffret sorti le 17 juillet 2013 inclut un tome 0, one shot de soixante-cinq pages à l’origine de la série dessiné par l’auteur du manga lorsqu’il avait dix-neuf ans24. Les 3e et 6e coffrets contiennent des jeux vidéo de type visual novel. Le 5e coffret contient la version colorisée des chapitres du manga que les épisodes 11 à 13 adaptent205. Le 9e coffret comprend un bonus de 120 minutes consacré à l’événement Attack on Taikan, qui s'est déroulé le 12 octobre 2013 à la Yokohama Arena206.
+
+Dans les pays francophones, l’intégralité de la première saison est éditée par @Anime en coffret combo DVD et Blu-ray et commercialisée en avant-première à Japan Expo 2014207. Divers bonus comme un artbook et les épisodes courts bonus sont compris208. Elle est ensuite commercialisée sous forme de deux coffrets respectivement le 27 août et le 22 octobre 2014209,210. Une seconde édition est proposée le 17 juin 2015 avec le coffret DVD et le coffret Blu-ray séparément211. La deuxième saison est éditée en janvier 2018212.
+
+Liste des DVD et Blu-ray de la première saison 
+Liste des DVD et Blu-ray de la deuxième saison 
+Liste des DVD et Blu-ray de la troisième saison 
+Liste des DVD et Blu-ray de la quatrième saison 
+Original video animation
+Au Japon, des épisodes Original video animation sont commercialisés directement en DVD avec les éditions limitées de certains tomes du manga. Le premier, initialement prévu pour le 9 août 2013 avec l’édition limitée du tome 11, est commercialisé le 9 décembre 2013 avec l’édition limitée du tome 12 pour améliorer sa qualité236. Il adapte le chapitre Le carnet d’Ilse (イルゼの手帳, Iruze no techō?), présent dans le tome 5 du manga et servant de prologue aux entraînements des membres de l’armée237. Le deuxième, Un visiteur inattendu (突然の来訪者, Totsuzen no raihō-sha?), est sorti en avril 2014 avec le tome 13238. Le troisième, Épreuve (困難, Kon'nan?), est sorti en août 2014 avec le tome 14239.
+
+Les tomes 15 et 16, respectivement sortis en décembre 2014 et en avril 2015, sont commercialisés avec deux épisodes adaptant la série dérivée L’Attaque des Titans: Birth of Livaï240. L’histoire est centrée sur le soldat Livaï et Erwin Smith et implique de nouveaux personnages tels que Furlan et Isabel.
+
+Les tomes 24, 25 et 26, respectivement sortis le 8 décembre 2017, le 9 avril 2018 et le 9 août 2018, sont quant à eux commercialisés en bundle avec 3 OAD adaptant la série de manga L'Attaque des Titans : Lost Girls. Les deux premiers OAD sont centrés sur le passé du personnage d'Annie (Wall Sina, Goodbye), tandis que le troisième est consacré à celui de Mikasa (Lost in the cruel world)119.
+
+Ces huit épisodes sont disponibles sur Wakanim et Crunchyroll le 19 décembre 2021241.
+
+Films d’animation
+En avril 2014, la production de deux films d’animation regroupant l’intégralité de la série d’animation est annoncée242. Le premier, L’Attaque des Titans : L’arc et la flèche écarlates (「進撃の巨人」前編～紅蓮の弓矢～, Shingeki no Kyojin zenpen ~Guren no yumiya~?), est diffusé en avant-première au Festival international du film de Tokyo fin octobre 2014243, puis est sorti dans les salles japonaises le 22 novembre 2014244, avant de sortir en DVD et Blu-ray le 18 mars 2015245. Le deuxième film, L’Attaque des Titans : Les ailes de la liberté (「進撃の巨人」後編～自由の翼～, Shingeki no Kyojin kōhen ~Jiyū no tsubasa~?), est sorti le 27 juin 2015 au Japon172. Un film récapitulatif de la deuxième saison intitulé L’Attaque des Titans : Le rugissement de l'éveil (進撃の巨人 ～覚醒の咆哮～, Shingeki no Kyojin ~Kakusei no hōkō~?) est sorti le 13 janvier 2018178. Enfin, un film récapitulatif des trois premières saisons intitulé Shingeki no Kyojin: Chronicle (進撃の巨人 〜クロニクル〜?) est sorti le 17 juillet 2020246.
+
+En France, le premier film est diffusé en avant-première le 29 mai 2015 au Grand Rex247 et commercialisé en combo DVD/Blu-ray collector par @Anime le 8 juillet 2015211. Le deuxième film est également diffusé en avant-première au Grand Rex en septembre 2015248, avant de sortir en DVD et Blu-ray le 30 mars 2016249. Le troisième film est commercialisé le 28 novembre 2018250.
+
+Musique
+Les musiques des trois premières saisons de L’Attaque des Titans sont composées par Hiroyuki Sawano. Selon le souhait d'Isayama, les génériques incorporent certaines idées précises, glissant alors des élements d'intrigues à venir tant dans l'anime que dans le manga251.
+
+La première saison de la série télévisée propose deux génériques d'ouverture et deux génériques de fermeture. Pour les épisodes 1 à 13.5, le thème d’ouverture est Guren no yumiya (紅蓮の弓矢?) de Linked Horizon et le thème de fin est Utsukushiki zankoku na sekai (美しき残酷な世界?) de Yōko Hikasa. Pour les épisodes 14 à 25, le thème d’ouverture est Jiyū no tsubasa (自由の翼?) de Linked Horizon et le thème de fin est Great Escape de cinema staff252. Le CD single des génériques de fin de la série est sorti le 8 mai 2013. Celui des génériques d’ouverture de la série, sorti le 10 juillet 2013 au Japon, s’est vendu à plus de 129 000 exemplaires en cinq jours253 et à plus de 230 000 exemplaires en décembre 2013254. Deux albums comprenant l’ensemble des morceaux de l’Original Soundtrack sont sortis respectivement le 28 juin 2013255,256 et le 18 octobre 2013 avec l’édition limitée du quatrième DVD/Blu-ray257,258.
+
+[afficher]
+2013 : "Attack on Titan" Original Soundtrack I259, par Hiroyuki Sawano
+[afficher]
+2013 : "Attack on Titan" Original Soundtrack II260, par Hiroyuki Sawano
+Pour le premier film d'animation, le thème d’ouverture est Guren no zahō (紅蓮の座標?) de Linked Horizon et le thème de fin est YAMANAIAME de Hiroyuki Sawano261. Ce dernier thème est commercialisé le 19 novembre 2014 sous forme de CD contenant sept pistes262.
+
+[afficher]
+2014 : "Attack on Titan" YAMANAIAME263, par Hiroyuki Sawano
+La deuxième saison propose un nouveau générique d'ouverture de Linked Horizon, intitulé Shinzo wo sasageyo! (心臓を捧げよ!?, ou Opfert eure Herzen! en allemand), tandis que le générique de fin est Yuugure no tori (夕暮れの鳥?) de Shinsei Kamattechan. La bande originale est commercialisée en 2 CD le 7 juin 2017 par Pony Canyon264.
+
+[afficher]
+2017 : "Attack on Titan" Season 2 Original Soundtrack - CD1265, par Hiroyuki Sawano
+[afficher]
+2017 : "Attack on Titan" Season 2 Original Soundtrack - CD2265, par Hiroyuki Sawano
+Est sortie la même année une série de singles dédiée à plusieurs personnages de la série. Ces singles regroupés sous le nom de Character imagesongs ont été composés par Kohta Yamamoto et Hiroyuki Sawano et réarrangés par Yamamoto. Chaque chanson est chantée par le seiyū du personnage à qui est dédiée la chanson.
+
+[afficher]
+2017 : "Attack on Titan" Character Imagesongs, par Kohta Yamamoto & Hiroyuki Sawano
+Le groupe de métal symphonique Epica a enregistré à l'été 2017 un EP intitulé Epica vs Attack on Titan Songs proposant des versions anglaises de quatre musiques de l'anime composées par Revo du groupe Linked Horizon. Il est sorti le 20 décembre 2017 au Japon et le 20 juillet 2018 en dehors266.
+
+La troisième saison propose deux génériques d'ouverture et deux génériques de fermeture. Pour les épisodes 38 à 49, le générique d'ouverture est Red Swan interprété par Yoshiki feat. Hyde et le générique de fin est Akatsuki no Requiem (暁の鎮魂歌, Akatsuki no chinkonka?) par Linked Horizon. Pour les épisodes 50 à 59, le générique d'ouverture est Shoukei to shikabane no michi (憧憬と屍の道?) par Linked Horizon et le générique de fin est Name of Love par Cinema Staff. La bande originale est commercialisée en 2 CD le 26 juin 2019 par Pony Canyon267.
+
+[afficher]
+2019 : "Attack on Titan" Season 3 Original Soundtrack - CD1268, par Hiroyuki Sawano
+[afficher]
+2019 : "Attack on Titan" Season 3 Original Soundtrack - CD2268, par Hiroyuki Sawano
+Pour la quatrième saison, Kohta Yamamoto devient également compositeur aux côtés de Hiroyuki Sawano. Il est notamment en charge des compositions sur la partie Mahr, permettant l'installation d'une différence de style et d'ambiance entre les deux camps ennemis269. Le générique d'ouverture de la première partie de la quatrième saison est Boku no sensō (僕の戦争?) de Shinsei Kamattechan et le générique de fin est Shōgeki (衝撃?) par Yuko Ando. L'album de la première partie de la saison finale est commercialisée le 23 juin 2021 par Pony Canyon270. Pour la deuxième partie, le générique d'ouverture est The Rumbling de SiM271 et le générique de fin est Akuma no ko (𢥧魔の子?) de Ai Higuchi272. La chanson The Rumbling se classe notamment à la première place du classement du Billboard dans les Hot Hard Rock Songs273. L'album de la seconde partie de la saison finale est commercialisé le 22 juin 2022274. La chanson Under the Tree de SiM est le thème de fin pour le premier épisode spécial qui conclut cette dernière saison275. Le dernier épisode quant à lui se conclut avec la musique Nisen-nen... Wakakushi wa... Niman-nen go no Kimi e... (二千年... 若しくは... 二万年後の君へ・・・?) du groupe Linked Horizon276. Suite à la décision de couper ces deux épisodes spéciaux en plusieurs épisodes classiques, des génériques de début et fin ont été conçus. La musique du générique d'ouverture est Saigo no Kyojin (最後の巨人?) de Linked Horizon277 et le générique de fin est Itterasshaï (いってらっしゃい?) d'Ai Higuchi278. Un troisième album des compositions musicales de Kohta Yamamoto et Hiroyuki Sawano sort le 8 novembre 2023279.
+
+[afficher]
+2021 : "Attack on Titan" The Final Season Original Soundtrack - CD1270, par Kohta Yamamoto & Hiroyuki Sawano
+[afficher]
+2022 : "Attack on Titan" The Final Season Original Soundtrack - CD2280, par Kohta Yamamoto & Hiroyuki Sawano
+[afficher]
+2023 : "Attack on Titan" The Final Season Original Soundtrack - CD3, par Kohta Yamamoto & Hiroyuki Sawano
+En octobre 2020, Hiroyuki Sawano annonce un nouveau projet musical porté sur la série sur les réseaux sociaux. Ce projet est nommé "Attack on Titan" suite281.
+
+Le 29 mars 2021, jour de la sortie du dernier épisode de la première partie de la saison finale, est publié sur la chaine YouTube d'Hiroyuki Sawano une musique nommée feat. AoT, comprenant deux remix de Ashes on The Fire (thème principal de la saison finale) avec deux autres musiques de la série. Ce double remixage est composé par Hiroyuki Sawano et Kohta Yamamoto282.
+
+Doublage
+Le doublage japonais et français est détaillé dans la page « Personnages de L’Attaque des Titans » .
+Les personnages principaux Eren Jäger, Mikasa Ackerman et Armin Arlelt sont respectivement doublés par Yūki Kaji, Yui Ishikawa et Marina Inoue164,283. L'interprétation de Yūki Kaji aurait notamment aidé l'auteur à mieux comprendre son personnage d'Eren284. Un des personnages les plus populaires du manga, Livaï, est doublé par Hiroshi Kamiya, consacré seiyû le plus populaire en 2012 et faisant ainsi parti des principaux arguments de vente284. Pour le personnage d'Hansi, qu'Isayama n'avait pas genré, le studio confie le rôle à Romi Park, connue pour interpréter autant des personnages masculins que féminins284.
+
+Le doublage français est réalisé au sein du studio WanTake sous la direction artistique de Grégory Laisné et Mélanie Anne285. Pour ce doublage, Grégory Laisné déclare que le studio n'a pas cherché à se rapprocher des voix originales, mais préférait que « la voix colle à l’image, et le comédien à l’esprit et au jeu de son personnage286 ». Les personnages d'Eren, Mikasa et Armin sont respectivement doublés en français par Bastien Bourlé, Nathalie Bienaimé et Adrien Solis, ce dernier étant remplacé par Victor Niverd à partir de la troisième saison.
+
+Films en prise de vues réelles
+Article détaillé : L'Attaque des Titans (film).
+Photographie aérienne représentant l’île de Hashima entourée par l’océan
+Vue aérienne de l’île de Ha-shima, lieu de tournage du film live japonais.
+Une adaptation en film en prise de vues réelles est annoncée en octobre 2011 pour une sortie à l’automne 2013287,288. Tetsuya Nakashima doit en assurer la réalisation mais celui-ci quitte le projet en décembre 2012289. La sortie du film est alors repoussée à une date ultérieure289. En décembre 2013, le site officiel annonce que la production est assurée par Tōhō, avec Shinji Higuchi comme réalisateur et Yusuke Watanabe et Machiyama Tomohiro comme scénaristes290. En janvier 2014, le constructeur automobile Subaru réalise une publicité dans laquelle des Titans apparaissent291.
+
+Le tournage s’effectue durant l’été 2014 sur l’île de Ha-shima, surnommée Gunkanjima, tombée en ruines et désertée depuis les années 1970292,293. Le rôle d’Eren Jäger est interprété par Haruma Miura294. Satomi Ishihara, Kiko Mizuhara, Kanata Hongō, Nanami Sakuraba et Takahiko Miura font également partie du cast et incarnent des personnages issus du manga295. Sept personnages sont créés pour le film, notamment Shikishima, interprété par Hiroki Hasegawa, un personnage clé en tant qu'homme le plus fort de l’humanité296. Le film est divisé en deux parties ; la première sort le 1er août et la seconde le 19 septembre 2015297. Pour accompagner cette sortie, un drama intitulé Shingeki no Kyojin ~Hangeki no noroshi~ (進撃の巨人 反撃の狼煙?) est diffusé sur le service de streaming dTV de NTT DoCoMo à partir du 15 août 2015298,299.
+
+La production d'un film live américain est annoncée officiellement en octobre 2018, avec Andrés Muschietti comme réalisateur300.
+
+Produits dérivés
+Publications
+Guidebooks
+Un guide officiel nommé L’Attaque des Titans Inside (進撃の巨人　INSIDE　抗, Shingeki no Kyojin: Inside kō?) est sorti le 9 avril 2013 en version japonaise301 et le 29 octobre 2014 en version française302. Un deuxième guide nommé L’Attaque des Titans Outside (進撃の巨人 OUTSIDE 攻, Shingeki no Kyojin: Outside kō?) est sorti le 9 septembre 2013 en version japonaise303 et le 18 février 2015 en version française304. Un troisième guide nommé Shingeki no Kyojin: Animation Side kō (進撃の巨人 ANIMATION SIDE 吼?) est sorti le 7 février 2014 en version japonaise305. Un quatrième guide nommé L’Attaque des Titans: Answers (進撃の巨人 ANSWERS, Shingeki no Kyojin: ANSWERS?) est sorti le 9 août 2016 en version japonaise306 et le 15 novembre 2017 en version française307. Un cinquième guide nommé L’Attaque des Titans: Characters (進撃の巨人　キャラクター名鑑　ＦＩＮＡＬ?) est sorti le 9 juin 2021 en version japonaise308 et le 2 février 2022 en version française309.
+
+En Amérique du Nord, Kodansha Comics USA publie les deux premiers guidebooks sous forme d’un unique volume le 16 septembre 2014127,310.
+
+Crossover
+Début novembre 2014, C. B. Cebulski, écrivain et éditeur de Marvel Comics, annonce la production d’un crossover entre L’Attaque des Titans et l’univers Marvel311,312. Intitulée Attack on Avengers, le crossover est publié le 15 novembre 2014 dans le magazine Brutus édité par Magazine House313. Le scénario est écrit par Hajime Isayama et propose des affrontements à New York entre des membres des Gardiens de la Galaxie, Vengeurs et différents Titans provenant du manga314.
+
+Jeux vidéo
+Konami lance un jeu vidéo de cartes à collectionner le 2 avril 2012 sur la plateforme mobile Mobage315,316. Un jeu vidéo social nommé Shingeki no Kyojin: Hangeki no tsubasa (進撃の巨人 -反撃の翼?, litt. L’Attaque des Titans: Les Ailes de la contre-attaque) est créé par la société Strategy & Partners et est sorti sur la plateforme mobile GREE le 26 avril 2013317, puis sur la plateforme Mobage le 5 juillet 2013318. Une version sur navigateur Web nommée Shingeki no Kyojin: Hangeki no tsubasa Online (進撃の巨人 -反撃の翼 オンライン?, litt. L’Attaque des Titans: Les Ailes de la contre-attaque en ligne) est également sortie le 24 décembre 2013319, disponible en ligne jusqu’au 28 mai 2015320.
+
+Plusieurs jeux vidéo de type visual novel sont disponibles dans le premier tirage du troisième et du sixième Blu-ray. Ces jeux vidéo, développés par plusieurs membres du studio Nitroplus321 en collaboration avec Production I.G et l’auteur Hajime Isayama, relatent des histoires inédites avec Mikasa, Livaï et Erwin. Le troisième Blu-ray, sorti le 18 septembre 2013, contient le jeu Lost In The Cruel World basé sur Mikasa. Le sixième Blu-ray, sorti le 18 décembre 2013, contient le jeu Kuinaki sentaku (悔いなき選択?, litt. Une décision sans regrets) basé sur le passé d’Erwin et Livaï, le jeu Nubatama no yoru no mori ni akaakato moyuru (ぬばたまの夜の森に、あかあかと燃ゆる?, Brightly Burning in the Forest on a Pitch-Black Night) sur Eren et Livaï et le jeu Wall Sina, Goodbye (Wall Sina, Goodbye (アニ外伝)?, litt. Mur Sina, au revoir) basé sur Annie322.
+
+Un jeu vidéo sur Nintendo 3DS est annoncé en juillet 2013323. Intitulé Shingeki no Kyojin: Jinrui saigo no tsubasa (進撃の巨人〜人類最後の翼?, litt. Les dernières ailes de l’humanité), il s’agit d'un jeu d'action en 3D développé par Spike Chunsoft324,325. En septembre 2013, le magazine Famitsu annonce la sortie du jeu pour le 5 décembre 2013326. Des DLC sur Livaï et Sasha ont par la suite vu le jour327. En juillet 2014, le jeu s’est écoulé à près de 300 000 exemplaires328.
+En septembre 2014, une nouvelle version du jeu intitulée Chain est annoncée. Celle-ci propose de nouveaux niveaux et nouvelles missions, ainsi qu’un mode multijoueur coopératif en ligne jouable jusqu’à quatre joueurs. Le jeu est disponible le 4 décembre 2014 au Japon329, puis en mai 2015 en Amérique du Nord sous le titre Attack on Titan: Humanity in Chains via le Nintendo eShop par Atlus330. En Europe, la sortie est repoussée au 2 juillet en raison d'une plainte pour copyright, obligeant Atlus à sortir le jeu sous le titre Shingeki no Kyojin: Humanity in Chains331. Une suite intitulée Shingeki no Kyojin 2 ~Mirai no zahyō~ (進撃の巨人２～未来の座標～?) est sortie le 30 novembre 2017 au Japon332.
+
+Un jeu vidéo pour smartphone intitulé Shingeki no Kyojin: Jiyū e no hōkō (進撃の巨人 -自由への咆哮-?, litt. L'Attaque des Titans : Le rugissement de la liberté) est sorti le 7 février 2014 au Japon333. Il s’agit d'un jeu de stratégie proche du jeu Clash of Clans334. Le jeu en ligne Phantasy Star Online 2: Episode 2 propose une collaboration avec L’Attaque des Titans335.
+
+Lors de Japan Amusement Expo 2015, Capcom annonce le développement d'un jeu d'arcade336. Le jeu est dévoilé en février 2016 sous le nom Shingeki no Kyojin: Team Battle, et est jouable à l'aide d'une reproduction de la manœuvre tridimensionnelle apparaissant dans le manga. Le jeu est annoncé jouable en solo ou jusqu'à huit joueurs en ligne337. Toutefois, en décembre 2018, Capcom annonce mettre fin au développement du jeu338.
+
+Un jeu PlayStation 3, PlayStation 4 et PlayStation Vita, développé par Omega Force et édité par Koei Tecmo, est annoncé en août 2015339. Intitulé A.O.T.: Wings of Freedom (en) (Attack on Titan au Japon), le jeu propose dix personnages jouables. Il est commercialisé le 18 février 2016 au Japon, le 26 août 2016 en Europe et le 30 août en Amérique du Nord. En Occident, le jeu est également proposé sur Xbox One et Microsoft Windows340,341.
+Une suite est annoncée en août 2017342. Intitulée A.O.T. 2 (en), celle-ci est sortie en mars 2018 sur PlayStation 4, Xbox One, Microsoft Windows et Nintendo Switch343. Une extension intitulée Final Battle, rajoutant notamment le scénario de la troisième saison animée, est sortie le 5 juillet 2019344. Ces trois jeux édités par Koei Tecmo se sont écoulés en cumulé à 2,6 millions d'exemplaires dans le monde en décembre 2021345.
+
+Un autre jeu Nintendo 3DS est annoncé en octobre 2016. Intitulé Shingeki no Kyojin: Shichi kara no dasshutsu (進撃の巨人 死地からの脱出?), le jeu est développé par Ruby Party et édité par Koei Tecmo346. Il est sorti le 11 mai 2017 au Japon347.
+
+Le jeu Fortnite Battle Royale propose une collaboration avec la série en 2023, avec la possibilité de débloquer l'apparence d'Eren Jäger348, de Mikasa et de Livaï.
+
+Un jeu vidéo en réalité virtuelle intitulé Attack on Titan VR: Unbreakable, développé par UNIVRS, est annoncé fin 2022349.
+
+Autres produits
+Au Japon, il existe un grand marketing autour de la série. Les enseignes Pizza Hut et Lotteria proposent des collaborations avec L’Attaque des Titans à partir de 2013350,351, tout comme Mercedes-Benz en 2021352. De nombreux mèmes Internet consistant en différents cosplays ou imitation de scènes de l’anime apparaissent sur les réseaux sociaux353. Le parc à thème Universal Studios Japan propose des attractions basées sur l’univers de L’Attaque des Titans du 23 janvier au 10 mai 2015354, et des nouvelles attractions et expositions les années suivantes355,356. Une attraction voit également le jour au Fuji-Q Highland en 2017357. De nombreux événements sont proposés à travers le Japon, comme des expositions358 ou des jeux d'évasion359.
+
+Des dakimakura d’Eren et Livaï, ainsi que des coupe-papiers inspirés des manœuvres tridimensionnelles sont également commercialisés360. Des figurines de différents personnages sont commercialisées chez Banpresto, Good Smile Company ou Max Factory361,362. Des goodies sont également offerts avec certains numéros du magazine Bessatsu Shōnen Magazine, et l’éditeur français lance également une opération éventail en 2013 avec un modèle à l’effigie du manga363. Des parfums ont également été produits364. Un drama CD de seize minutes est commercialisé avec le magazine Bessatsu Shōnen Magazine de janvier 2014 sorti le 9 décembre 2013365. Un magazine spécial de douze numéros, Monthly Attack on Titan, est commercialisé à partir d’avril 2015 et propose des figurines des personnages et un diorama366.
+
+Des statues à l'effigie d'Eren, Armin et Mikasa sont érigées en 2020 au barrage Oyama dans la ville de Hita dans la préfecture d'Ōita, ville natale du mangaka367.
+
+En France, un jeu de société nommé Attack on Titan – Le Dernier Rempart sort en 2017, créé par Antoine Bauza et Ludovic Maublanc. Les joueurs incarnent un Titan et des défenseurs humains. Les personnages principaux sont inclus tels qu'Eren, Armin, Mikasa, Levy, et d'autres368.
+
+En 2023, la marque Uniqlo propose des T-shirts à l'effigie de la série369.
+
+Accueil
+Critique
+Plusieurs critiques jugent que L’Attaque des Titans peut illustrer le désespoir ressenti par les jeunes dans la société actuelle, bien que l’histoire laisse place à toute interprétation personnelle de la part des lecteurs370. La mise en scène d'une jeunesse militaire qui mène une révolution est également perçue comme une référence directe à l'histoire du Japon, comme la restauration de Meiji371. Sébastien Kimbergt d’AnimeLand note le « coup de génie de l’auteur » qui a réussi à adapter deux concepts très en vogue, jugeant que les Titans ne sont rien d’autres qu’un mélange entre zombies géants et mechas pilotés372. Yoshiyuki Tomino, créateur de Gundam, salue le fait que l’univers de la série provient à la fois de l’expérience personnelle de l’auteur et de différentes recherches sur les Titans. Il juge toutefois que le dessin est un peu trop brut et grossier373. Le site Manga-News met en avant la densité et la richesse des tomes, saluant la mise en scène autour des Titans et les séquences d’action de « grande intensité »374. Quelques critiques sont également émises concernant le dessin du manga jugé « un peu faible », notamment sur le design des personnages, bien que celui-ci s’améliore au fil des tomes375,376. L'intrigue « prenante, violente et abrupte » permet toutefois de passer outre certaines lacunes du dessin371. Quant à l’adaptation française par Pika Édition, elle est jugée « très convaincante » avec une « transcription fluide des textes »374.
+
+La série est un succès en Asie, notamment en Chine et à Taïwan377. Wong Yeung Tat, journaliste média de Hong Kong, a salué le style de Hajime Isayama et la polyvalence de la série qui s’ouvre à diverses interprétations de la part des lecteurs378. Quelques critiques sont toutefois émises, notamment par le magazine sud-coréen Electronic Times qui accuse la série d’avoir un message politique et militaire en faveur du premier ministre du Japon Shinzō Abe379. En 2010, le blog de l’auteur est victime de nombreux flaming après qu'il a annoncé que le personnage Dot Pixis est inspiré d’Akiyama Yoshifuru, ancien général de l’armée impériale japonaise380,381,382. En juin 2013, le blog de l’auteur est à nouveau attaqué avec la publication de plusieurs centaines de menaces de mort à son encontre383. En 2015, le Ministère Chinois de la Culture met sur liste noire plusieurs séries d'animation japonaises, dont L’Attaque des Titans, car elles proposent des « scènes de violence, de pornographie, de terrorisme et des crimes contre la moralité publique »384,385.
+
+Le mangaka a également été accusé d'antisémitisme et d'apologie au fascisme avec le développement de sa série. En effet, le traitement du peuple eldien dans le manga rappelle la condition du peuple juif, leur persécution par le peuple Mahr pouvant être comparée à la persécution juive par l'Allemagne nazie. Cela inclut les affirmations selon lesquelles Isayama promeut le nationalisme et la théorie de la domination mondiale juive386. Cependant, cela a été contesté par de nombreux fans de la série, affirmant que si les Eldiens reflètent le peuple juif, les lecteurs sont invités à sympathiser avec eux et ils ne sont pas présentés comme des antagonistes387,388.
+
+L’adaptation animée est également bien accueillie par la critique389,390,391. Manga-News salue notamment le design des personnages de Kyoji Asano, rendant les personnages plus reconnaissables que dans le manga. Les scènes d’action bénéficient de « techniques d’animation maîtrisées » sur les déplacements tridimensionnels392. Sur Anime News Network, Rebecca Silverman, enthousiasmée par le contraste créé par les scènes sanglantes et les paysages idylliques, juge que la série animée constitue un « excellent mélange de ce que la romancière gothique du xixe siècle Ann Radcliffe définit comme l'horreur contre la terreur : la première, physique, vous fait détourner les yeux, tandis que la seconde, intellectuelle, vous donne envie de savoir la suite »393 ; Martin Theron, pour sa part, considère que l'anime procure des « émotions intenses, viscérales et graphiques » mais souffre d'un problème de rythme, notamment sur la seconde partie de la première saison394. Le magazine AnimeLand lui décerne le prix du « Meilleur doublage français » lors de l'Anime & Manga Grand Prix 2014395. Tiphaine de Raguenel, directrice des programmes jeunesse de France 4, compare la série à Game of Thrones du fait des nombreuses morts de personnages et son monde médiéval fantastique396. Le doublage français est quant à lui jugé « très convaincant »392.
+
+Le changement de studio pour la quatrième saison a toutefois suscité plusieurs craintes et le contenu proposé par le studio MAPPA a été fortement critiqué par les fans397, notamment concernant l'animation et les effets spéciaux numériques (CGI)398,399. Toutefois, cela n'a pas empêché le succès critique et d'audience de la saison400.
+
+Ventes et audiences
+Le manga connaît un succès immédiat au Japon et devient une des séries les plus remarquées de l’année 2011. Il se retrouve en onzième position du classement Oricon des meilleures ventes par série avec 3 766 194 exemplaires vendus401,402. En 2012, il atteint cette fois la quinzième position du classement Oricon des meilleures ventes par série avec 2 682 504 exemplaires vendus403. En décembre 2012, le tirage total des neuf premiers volumes est de dix millions d’exemplaires404.
+
+L’adaptation en série télévisée d’animation a permis d’augmenter considérablement le nombre de ventes de la série ; ainsi, les dix volumes du manga étaient présents dans le top 50 Oricon lors de la semaine du 8 au 14 avril 2013405. Début mai 2013, les quatre premiers tomes s’étaient écoulés à plus d’un million d’exemplaires chacun406 puis les huit premiers fin mai407, élevant alors le tirage total à 19,5 millions d’exemplaires408. Milieu 2013, la série se place alors à la quatrième place du classement Oricon avec 4 292 208 exemplaires vendus409. En juin 2013, 8,7 millions d’exemplaires sont tirés depuis le début de l’anime410. En septembre 2013, le nombre de volumes vendus dépasse les 20 millions d’exemplaires : il s'agit de la septième série à dépasser ce cap depuis la création du top Oricon en 2008411. Lors de l’année fiscale 2013, la série est classée 2e série la plus vendue avec 15 933 801 exemplaires, avec l’intégralité des tomes sortis présent dans le top 15 Oricon412,413. Grâce notamment au succès de la série, l’éditeur du manga Kōdansha enregistre une hausse de son chiffre d’affaires pour la première fois en dix-huit ans414.
+
+En avril 2014, plus de trente millions d’exemplaires sont vendus au Japon, et le tirage total à l’échelle mondiale dépasse les trente-huit millions de copies415. Lors du premier semestre 2014 (du 18 novembre 2013 au 18 mai 2014), le manga se classe à la première place du top Oricon avec 8,34 millions de copies vendues au Japon, mettant fin aux cinq années dominées par One Piece416. Le tome 13 a un tirage initial de 2,75 millions d’exemplaires, record actuel de la série417. En août 2014, le tirage total atteint les quarante millions d’exemplaires418. Sur l’année fiscale 2014, la série se place à la deuxième du classement Oricon avec 11,8 millions d'exemplaires vendus419. En France, les deux premiers volumes se classent dans le top 15 des meilleures ventes de mangas entre juin et juillet 2013420, et 125 000 tomes sont vendus sur l’année 2013421. En Amérique du Nord, le tirage total de la série s’élève à 500 000 exemplaires en octobre 2013422, et à 660 000 en mars 2014423. Il atteint les 2,5 millions d’exemplaires en juillet 2015424. En septembre 2016, le tirage de la série s'élève à plus de 60 millions d'exemplaires425. En décembre 2017, le tirage dépasse les 71 millions d'exemplaires426. En novembre 2018, le tirage mondial dépasse les 86 millions d'exemplaires, avec 76 millions édités au Japon et 10 millions dans le reste du monde427. En décembre 2019, le tirage atteint la barre des 100 millions d'exemplaires, célébrée par la réalisation d'une fresque murale géante au Madison Square à New York428. En septembre 2022, le tirage s'élève à 110 millions d'exemplaires à travers le monde429. Fin novembre 2023, il est annoncé que le tirage mondial a atteint les 140 millions d'exemplaires430.
+
+Représentation des ventes du manga (en millions d'exemplaires) au Japon entre 2011 et 2021431,432,433,434,435,436,437,438,439,440,441
+
+Les DVD et Blu-ray de la série d’animation se vendent également bien, les premiers coffrets DVD ou Blu-ray de la première saison se classant tous deux premiers lors de la première semaine de commercialisation442,443. Les huit autres coffrets se classent également dans les premières places lors de leur sortie444,445,446. Aux États-Unis, l’anime, diffusé dans l’émission Toonami sur Adult Swim, réunit plus d’un million de téléspectateurs par épisode au mois de mai 2014447. En France, la première saison réalise un score moyen de 100 000 spectateurs lors de sa diffusion sur Wakanim448. Lors du confinement lié à la pandémie de Covid-19 en 2020, L'Attaque des Titans est parmi les séries les plus regardées sur Netflix et Wakanim449. Le premier épisode de la quatrième saison a réalisé le meilleur démarrage de l'histoire du site, en ayant provoqué « la plus grosse panne de Wakanim depuis des années »450. Le fort succès de cette dernière saison a multiplié par quatre les ventes du manga en France, ce qui poussé Pika Édition à réimprimer 1,2 million d'exemplaires450. Le succès est également important aux États-Unis451.
+
+En septembre 2023, Pika annonce que la série s'est vendue à 8,4 millions d'exemplaires en France452.
+
+Certains produits non officiels sont également bien accueillis ; en effet, un jeu vidéo nommé Hangeki no ha (反撃の刃?, litt. Les Lames de la contre-attaque), sorti sur Google Play le 22 août 2013453, est téléchargé plus de 500 000 fois en seulement cinq jours454.
+
+Prix et récompenses
+Manga
+L'Attaque des Titans est l'une des œuvres recommandées par le jury de la division Manga lors des 14e et 15e éditions des Japan Media Arts Festival en 2010 et 2011, respectivement455,456. L'édition 2011 de Kono Manga ga Sugoi!, qui interroge les professionnels de l'industrie du manga et de l'édition, a nommé L'Attaque des Titans la meilleure série de manga pour les lecteurs masculins457. Le manga remporte le 35e prix du manga Kōdansha dans la catégorie shōnen en 2011458. Cette même année, il est également nommé au prix Manga Taishō459. En 2012, il est nommé au 16e prix culturel Osamu-Tezuka460, tout comme en 2014 lors de la 18e édition461. Le manga est élu Manga of the Year en 2013 et en 2014 par le magazine Da Vinci462,463. Aux États-Unis, la Young Adult Library Services Association intègre L’Attaque des Titans dans sa liste 2013 des meilleurs romans graphiques pour adolescents464. En 2014, la série remporte le prix Harvey de la meilleure œuvre étrangère465. En France, les lecteurs du magazine AnimeLand l’élisent meilleur espoir manga 2012 lors de la 20e édition de l’Anime & Manga Grand Prix organisé au Salon du livre en mars 2013466, puis meilleur manga et meilleur anime l’année suivante467. Les lecteurs de Manga-news l’élisent meilleur shōnen 2013468. Le manga remporte le 6e prix de la bande dessinée Bros ainsi que le Prix du livre électronique, et le NEO Award469,470,471. En 2014, le premier tome du manga est sélectionné au 41e festival international de la bande dessinée d'Angoulême472. En Italie, la série reçoit le Prix Micheluzzi de la meilleure série étrangère en 2014473. Le manga a remporté le prix espagnol Manga Barcelona pour la catégorie shonen en 2013 et 2014474,475. Le manga est aussi lauréat du Prix de la bande dessinée True Believer476, et du Meilleur manga international au Pochi Award 2014477. L'Attaque des Titans est nommé aux Goodreads Choice Awards 2015 dans la catégorie Meilleurs romans graphiques et bandes dessinées478.
+
+Dans le sondage Manga Sōsenkyo 2021 de TV Asahi, dans lequel 150 000 personnes ont voté pour leur top 100 des séries manga, L'Attaque des Titans s'est classée 6e479. En 2021, le volume à grande échelle Attack on Titan for Giants a battu le record du monde Guinness de la « plus grande bande dessinée publiée », précédemment détenue par Turma da Mônica480,481.
+
+Liste des récompenses et nominations du manga 
+Anime
+L’adaptation en série télévisée d’animation a également été bien accueillie. Lors des NewType Anime Award 2013, la série animée a reçu cinq prix en plus du prix du meilleur studio pour Wit Studio : meilleure série animée, meilleur réalisateur, meilleur scénariste, meilleures musiques, et meilleur personnage féminin pour Mikasa505. La série télévisée reçoit le prix de meilleure série d’animation au 18e Animation Kobe Award en 2013506. Aux Tokyo Anime Award 2014, elle obtient la récompense de meilleure série télévisée de 2013507. La rédaction du magazine Weekly Playboy édité par Shūeisha trouve que l’anime a marqué l’année 2013508.
+
+L'adaptation animée fait également partie des meilleures séries des années 2010 selon Crunchyroll509, IGN510 et Polygon511.
+
+Liste des récompenses et nominations de l'anime 
+Notes et références
+Notes
+La dernière partie de la saison finale est d'abord diffusée sous forme de deux épisodes spéciaux, avant d'être diffusée sous format épisodique standard de 88 à 94, portant le nombre d'épisodes total à 35.
+« J'ai ressenti la peur au contact de cette personne avec qui je ne parvenais pas à communiquer, j'ai pensé que l'être humain était l'animal le plus dangereux. » Hajime Isayama.
+La série télévisée d’animation est diffusée initialement sur MBS le samedi à 25 h 58, ce qui correspond techniquement au dimanche à 1 h 58.
+Références
+(en) Cet article est partiellement ou en totalité issu de l’article de Wikipédia en anglais intitulé « Attack on Titan » (voir la liste des auteurs).
+L’Attaque des Titans, tome 2, 2013, p. 150.
+L’Attaque des Titans, Inside, 2014, p. 92-93.
+Kwan-yin Lee, « Milking cash cows for insights : the sociopolitical implications of Shingeki no kyojin and The hunger games' dystopian fantasies », The University of Hong Kong Libraries (thèse),‎ 2015 (lire en ligne [archive], consulté le 9 mars 2019)
+L’Attaque des Titans, tome 1, 2013, p. 96.
+L’Attaque des Titans, tome 2, 2013, p. 76.
+L’Attaque des Titans, tome 2, 2013, p. 38.
+The Anime Encyclopedia, 3rd Revised Edition : A Century of Japanese Animation.
+L’Attaque des Titans, tome 2; 2013, p. 142.
+L’Attaque des Titans, tome 21; 2017.
+L’Attaque des Titans, tome 22; 2017.
+(en) Megan Peters, « Attack On Titan Creator Confirms New Protagonist [archive] », sur comicbook.com, 5 septembre 2017 (consulté le 29 décembre 2020).
+L’Attaque des Titans, Inside, 2014, p. 6-11.
+L’Attaque des Titans, Inside, 2014, p. 12-15.
+L’Attaque des Titans, Inside, 2014, p. 16-19.
+Chapitres 1 et 2
+Chapitres 3 à 19
+Chapitres 20 à 34
+Chapitres 35 à 50
+Chapitres 50 à 70.
+Chapitres 71 à 84
+Chapitres 85 à 90.
+Chapitres 91 à 119.
+Chapitres 120 à 139.
+Reith Saji, « Le Bluray de l’anime Shingeki no Kyojin, daté au Japon [archive] », sur Adala-news.fr, 7 mai 2013 (consulté le 20 août 2013).
+L’Attaque des Titans, Inside, 2014, p. 160.
+« L’Attaque des Titans : on va tous mourrrriiiiir [archive] », sur Paoru.fr, 26 juillet 2013 (consulté le 20 août 2013).
+(ja) « 変身！！！！ [archive] », sur Blog de Hajime Isayama,‎ 19 décembre 2009 (consulté le 20 août 2013).
+Histoire(s) du manga moderne (1952-2012), 2015, Hajime Isayama, p. 133
+(ja) « 2006年7月期 [archive] », sur Weekly Shōnen Magazine (consulté le 14 octobre 2014).
+« AnimeLand # 193 juillet-août 2013 », AnimeLand, no 193, 3 juillet 2013
+L’Attaque des Titans, le making-of, p. 100-101.
+L’Attaque des Titans, Outside, 2015, p. 18-19.
+Drapeau 2022, p. 109.
+(en) alversob, « Interview with Attack on Titan Creator Hajime Isayama [archive] », sur Geek-news.mtv.com, 14 juin 2012 (consulté le 20 août 2013).
+L’Attaque des Titans, Outside, 2015, p. 27-28.
+L’Attaque des Titans, Characters, 2022, p. 178, 182.
+Drapeau 2022, p. 126-128.
+(en) « Attack on Titan Creator Aims to End Manga in 20 Volumes [archive] », sur Anime News Network, 25 septembre 2013 (consulté le 4 novembre 2013).
+(en) « Attack on Titan Creator Isayama: Manga to End in About 3 Years [archive] », sur Anime News Network, 22 septembre 2014 (consulté le 5 octobre 2014).
+Reith Saji, « La fin du manga Shingeki no Kyojin, déjà datée au Japon ? [archive] », sur Adala-news.fr, 17 août 2014 (consulté le 31 août 2014).
+Reith Saji, « L’auteur de Shingeki no Kyojin obligé de changer de fin pour les fans ? [archive] », sur Adala-news.fr, 6 décembre 2013 (consulté le 7 décembre 2013).
+Drapeau 2022, p. 117.
+L’Attaque des Titans, Characters, 2022, p. 180.
+Drapeau 2022, p. 116.
+(en) « Attack on Titan Manga's Final Panel Previewed on TV [archive] », sur Anime News Network, 18 novembre 2018 (consulté le 25 novembre 2018).
+(en) « Kodansha: Hajime Isayama Aims to End Attack on Titan Manga in 2020 [archive] », sur Anime News Network, 28 décembre 2019 (consulté le 11 novembre 2020).
+(en) « Attack on Titan Manga Is 1% to 2% From Completion [archive] », sur Anime News Network, 10 novembre 2020 (consulté le 11 novembre 2020).
+« L'Attaque des Titans se conclura au mois d'avril [archive] », sur manga-news.com, 5 janvier 2021 (consulté le 31 mars 2021).
+« Le chapitre final de L'attaque des titans bouclé, Kodansha montre les dents pour prévenir les fuites [archive] », sur Anime News Network, 31 mars 2021 (consulté le 31 mars 2021).
+L’Attaque des Titans, Characters, 2022, p. 178.
+Drapeau 2022, p. 118.
+Drapeau 2022, p. 186-187.
+L’Attaque des Titans, Outside, 2015, p. 15.
+Reith Saji, « Isayama Hajime révèle des détails sur son manga Shingeki no Kyojin, en Vidéo [archive] », sur Adala-news.fr, 24 septembre 2013 (consulté le 24 septembre 2013).
+(en) Sarah Nelkin, « Attack on Titan Creator Reveals Secrets on Japanese TV Show [archive] », sur Anime News Network, 23 septembre 2013 (consulté le 24 septembre 2013).
+L’Attaque des Titans, Outside, 2015, p. 14.
+(ja) « アクセス数がすごい！ [archive] », sur Blog de Hajime Isayama,‎ 17 avril 2013 (consulté le 20 août 2013).
+Drapeau 2022, p. 124-126.
+L’Attaque des Titans, Inside, 2014, p. 163-164.
+Reith Saji, « Le manga Shingeki no Kyojin trouve son inspiration dans la ville de Nördlingen (Allemagne) [archive] », sur Adala-news.fr, 11 novembre 2013 (consulté le 11 novembre 2013).
+(en) Lynzee Lamb, « Interview: George Wada, Producer of Attack on Titan [archive] », sur Anime News Network, 23 juillet 2013 (consulté le 20 août 2013).
+(en) « Hajime Isayama Shares His Inspiration for Attack on Titan [archive] », sur Anime News Network, 7 mai 2018 (consulté le 8 mai 2018).
+Drapeau 2022, p. 119-120.
+Drapeau 2022, p. 121-122.
+Drapeau 2022, p. 122-123.
+Drapeau 2022, p. 123-124.
+Drapeau 2022, p. 129-131.
+Drapeau 2022, p. 131-133.
+Drapeau 2022, p. 135.
+Drapeau 2022, p. 136-137.
+Drapeau 2022, p. 141-142.
+Drapeau 2022, p. 140.
+Drapeau 2022, p. 140-141.
+(en) « Feel the Quake of the Titans! New Anime Attack on Titan is Picking Up Massive Attention! [archive] », sur Otakumode.com, 2 mai 2013 (consulté le 27 août 2013).
+(en) Scott Green, « VIDEO: Behind the Scenes of Attack on Titan [archive] », sur Crunchyroll, 5 mai 2013 (consulté le 27 août 2013).
+« Attack on Titan Anime's Finale to Differ 'a Little' From Original Manga's [archive] », sur Anime News Network, 4 novembre 2023 (consulté le 4 novembre 2023).
+Drapeau 2022, p. 162-182.
+(en) « Bessatsu Shōnen Magazine to Launch in September [archive] », sur Anime News Network, 24 juin 2009 (consulté le 20 août 2013).
+(ja) « 本日創刊、別冊少年マガジン。雷句誠新連載ついに始動 [archive] », sur Natalie.mu,‎ 9 septembre 2009 (consulté le 8 octobre 2014).
+(ja) « 進撃の巨人（１） [archive] », sur Kōdansha (consulté le 8 septembre 2014).
+(en) Adriana Hazra, « Attack on Titan Manga Ends on April 9 After 11 Years [archive] », sur Anime News Network, 4 janvier 2021 (consulté le 5 janvier 2021)
+(en) Daryl Harding, « Attack on Titan Manga to Finish in April 2021 [archive] », sur Crunchyroll, 5 janvier 2021 (consulté le 5 janvier 2021)
+(en) « Attack on Titan Manga Gets Full-Color Serialization [archive] », sur Anime News Network, 8 novembre 2020 (consulté le 11 novembre 2020).
+(ja) « 進撃の巨人　Ｆｕｌｌ　ｃｏｌｏｒ　ｅｄｉｔｉｏｎ（１） [archive] », sur kc.kodansha.co.jp (consulté le 11 septembre 2021).
+(en) « Attack on Titan Manga Breaks Records With Titan-Sized Print Volume [archive] », sur Anime News Network, 4 mars 2021 (consulté le 12 mars 2021).
+« "L'Attaque des titans": 18 pages inédites du manga à succès vont être dévoilées en 2024 [archive] », sur bfmtv.com, 1er octobre 2023 (consulté le 2 décembre 2023).
+« Les Titans s’élèvent chez Pika ! [archive] », sur Manga-news.com, 22 février 2013 (consulté le 20 août 2013).
+Clémence Duneau, « Sortie de l’ultime chapitre de « L’Attaque des Titans », une œuvre qui bouscule les codes du manga [archive] », sur lemonde.fr, 9 avril 2021 (consulté le 10 avril 2021).
+« L’Attaque des Titans en simulpub »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), sur Pika Édition, 6 mars 2015.
+« L'Attaque des Titans revient dans une édition colossale [archive] », sur manga-news.com, 7 avril 2016 (consulté le 12 janvier 2017).
+« Des nouvelles de l'édition colossale de L'Attaque des Titans [archive] », sur manga-news.com, 17 février 2021 (consulté le 10 avril 2021).
+(zh) « 進擊的巨人 1 »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), sur Tong Li Publishing (consulté le 20 août 2013).
+(ko) « 진격의 거인 1권 [archive] », sur Haksan Culture Company (consulté le 31 juillet 2014).
+(en) « Kodansha USA Adds Attack on Titan, Miles Edgeworth Manga [archive] », sur Anime News Network, 14 octobre 2011 (consulté le 20 août 2013).
+(en) « Kodansha Comics Announces Hajime Isayama's Attack on Titan At New York Comic-Con [archive] », sur Anime News Network, 14 octobre 2011 (consulté le 20 août 2013).
+(es) Manu, « Shingeki no Kyojin licenciada por Norma Editorial [archive] », sur Deculture.es, 5 mai 2012 (consulté le 20 août 2013).
+(es) « ATAQUE A LOS TITANES 01 [archive] », sur Normaeditorial.com (consulté le 14 octobre 2014).
+(it) « L’attacco dei Giganti 1 »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), sur Panini Comics (consulté le 20 août 2013).
+(pt) Dudu, « Panini Publicará Mangá Shingeki no Kyojin [archive] », sur Jbox.com, 19 juillet 2013 (consulté le 20 août 2013).
+(pt) Leandro de Barros, « Panini anuncia o lançamento do mangá de Shingeki no Kyojin no Brasil! »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), sur Supernovo.net, 19 juillet 2013 (consulté le 14 octobre 2014).
+(pl) « Atak Tytanów tom 01 »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), sur Japonica Polonica Fantastica (consulté le 31 juillet 2014).
+(cs) « Útok titánů 1 »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), sur Crew.cz (consulté le 31 juillet 2014).
+(en) « Crunchyroll to Simultaneously Offer Kodansha Manga in 170 Countries [archive] », sur Anime News Network, 26 octobre 2013 (consulté le 6 mars 2015).
+(en) Yomimaid, « Attack On Titan Prequel Novel Gets New Print Run in Japan [archive] », sur Crunchyroll, 29 mai 2013 (consulté le 20 août 2013).
+(ja) « 進撃の巨人　Before the fall [archive] », sur Kōdansha (consulté le 8 septembre 2014).
+(ja) « 進撃の巨人　Before the fall（2） [archive] », sur Kōdansha (consulté le 8 septembre 2014).
+(ja) « 進撃の巨人　Before the fall（3） [archive] », sur Kōdansha (consulté le 8 septembre 2014).
+(en) « Vertical Adds Attack on Titan: Before the Fall Light Novel Series [archive] », sur Anime News Network, 11 octobre 2013 (consulté le 16 octobre 2014).
+« Le roman de l'Attaque des Titans - Before the fall chez Pika Edition [archive] », sur manga-news.com, 28 septembre 2017 (consulté le 2 novembre 2017).
+(en) « Attack on Titan Novel Illustrated by Last Exile's Range Murata [archive] », sur Anime News Network, 11 juillet 2014 (consulté le 11 juillet 2014).
+(ja) « 進撃の巨人　隔絶都市の女王（上） [archive] », sur Kōdansha (consulté le 31 juillet 2014).
+(ja) « 進撃の巨人　隔絶都市の女王（下） [archive] », sur Kōdansha (consulté le 10 juillet 2015).
+(en) « Vertical Licenses More Attack on Titan Light Novels [archive] », sur Anime News Network, 11 octobre 2014 (consulté le 16 octobre 2014).
+« Le roman L'Attaque des Titans : Hope of the City chez Pika Edition [archive] », sur Manga-news.com, 11 octobre 2016 (consulté le 21 octobre 2016).
+(en) « Attack on Titan Gets 'Lost Girls' Novel Spinoff [archive] », sur Anime News Network, 17 novembre 2014 (consulté le 22 novembre 2014).
+(ja) « 小説　進撃の巨人　LOST GIRLS [archive] », sur Kōdansha (consulté le 11 décembre 2014).
+(en) Scott Green, « "Attack on Titan - Lost Girls" Light Novel Plans Detailed [archive] », sur Crunchyroll, 4 décembre 2014 (consulté le 23 octobre 2016).
+« Pika se lance dans le roman [archive] », sur Manga-news.com, 3 mars 2016 (consulté le 6 mars 2016).
+(en) « Attack on Titan: Lost Girls Novel Gets 3 Original Anime DVDs [archive] », sur Anime News Network, 9 août 2017 (consulté le 13 août 2017).
+(en) « Garrison Girl: An Attack on Titan Novel, by Rachel Aaron [archive] », sur penguinrandomhouse.com (consulté le 4 juillet 2019).
+(ja) « 進撃の巨人　果てに咲く薔薇　愛蔵版 [archive] », sur bookclub.kodansha.co.jp (consulté le 4 juillet 2019).
+(en) « Attack on Titan Manga Inspires Comedy Spinoff Manga [archive] », sur Anime News Network, 13 avril 2012 (consulté le 20 août 2013).
+(en) « Attack on Titan: Junior High Manga Ends on July 9 [archive] », sur Anime News Network, 16 juin 2016 (consulté le 1er juillet 2016).
+« Fiche technique de Shingeki! Kyojin chûgakkō [archive] », sur Manga-news.com (consulté le 20 août 2013).
+(ja) « 進撃！巨人中学校（１） [archive] », sur Kōdansha (consulté le 20 août 2013).
+(ja) « 進撃！巨人中学校（１１） [archive] », sur Kōdansha (consulté le 30 septembre 2016).
+(en) « Kodansha USA Adds Attack on Titan: Junior High Manga, Guidebooks [archive] », sur Anime News Network, 11 octobre 2013 (consulté le 14 octobre 2013).
+(en) « Attack on Titan: Junior High 1  [archive] », sur Randomhouse.com (consulté le 28 juin 2014).
+« L'Attaque des Titans Junior High School débarque chez Pika [archive] », sur manga-news.com, 5 octobre 2015 (consulté le 6 octobre 2015).
+(en) « Attack on Titan: Junior High Spinoff Manga Gets TV Anime Adaptation [archive] », sur Anime News Network, 31 juillet 2015 (consulté le 31 juillet 2015).
+(en) « Attack on Titan: Junior High Anime's 2nd Video Details Comedy Premise [archive] », sur Anime News Network, 7 septembre 2015 (consulté le 6 octobre 2015).
+« L'Attaque des Titans - Junior High School en simulcast sur Wakanim et en physique chez @Anime [archive] », sur manga-news.com, 17 septembre 2015 (consulté le 6 octobre 2015).
+(en) « Attack on Titan Spawns Another Series in Shōnen Sirius Magazine [archive] », sur Anime News Network, 6 août 2013 (consulté le 20 août 2013).
+Reith Saji, « Un spinoff manga de Shingeki no Kyojin, daté au Japon [archive] », sur Adala-news.fr, 6 août 2013 (consulté le 20 août 2013).
+Reith Saji, « Le manga Shingeki no Kyojin: Before the Fall, annoncé [archive] », sur Adala-news.fr, 20 août 2013 (consulté le 20 août 2013).
+« X-Blade Cross se termine et Spin-off de L’Attaque des Titans [archive] », sur Manga-news.com, 23 août 2013 (consulté le 4 septembre 2013).
+(ja) « 進撃の巨人　Before the fall（１） [archive] », sur Kōdansha (consulté le 14 décembre 2013).
+« Clap de fin pour L'Attaque des Titans : Before The Fall [archive] », sur manga-news.com, 28 mars 2019 (consulté le 29 mars 2019).
+(ja) « 進撃の巨人　Before the fall（１７） [archive] », sur Kōdansha (consulté le 4 juillet 2019).
+« L’Attaque des Titans - Before the Fall chez Pika ! [archive] », sur Manga-news.com, 6 août 2014 (consulté le 6 août 2014).
+(en) « Attack on Titan: Before the Fall Manga Has 1.4 Million Copies in Print [archive] », sur Anime News Network, 8 août 2015 (consulté le 17 août 2015).
+Reith Saji, « Le manga Shingeki no Kyojin Gaiden, annoncé [archive] », sur Adala-news.fr, 27 août 2013 (consulté le 27 août 2013).
+« Nouveau spin-off pour L’Attaque des Titans [archive] », sur Manga-news.com, 28 septembre 2013 (consulté le 29 septembre 2013).
+Jérôme Fréau, « Le spin-off de L’Attaque des Titans, Shingeki no Kyojin Gaiden – Kuinaki Sentaku, se termine [archive] », sur AnimeLand, 28 mai 2014 (consulté le 28 juin 2014).
+(ja) « 進撃の巨人　悔いなき選択（１） [archive] », sur Kōdansha (consulté le 28 juin 2014).
+(ja) « 進撃の巨人　悔いなき選択（２） [archive] », sur Kōdansha (consulté le 31 juillet 2014).
+Reith Saji, « Le manga Shingeki no Kyojin Gaiden a déjà trouvé son public, au Japon [archive] », sur Adala-news.fr, 11 novembre 2013 (consulté le 13 novembre 2013).
+Reith Saji, « Le spinoff manga Shingeki no Kyojin Gaiden: Kuinaki Sentaku s’affirme au Japon [archive] », sur Adala-news.fr, 10 décembre 2013 (consulté le 13 novembre 2013).
+« Le manga L’Attaque des Titans - Birth of Livaï chez Pika [archive] », sur Manga-news.com, 5 janvier 2015 (consulté le 5 janvier 2015).
+Bruno de la Cruz, « Une édition couleur pour la série L’Attaque des Titans – Birth of Livaï [archive] », sur AnimeLand, 23 novembre 2017 (consulté le 25 novembre 2017).
+(en) « Attack on Titan: No Regrets 1 [archive] », sur randomhouse.com (consulté le 28 juin 2014).
+(en) « DeNA's Free Manga Box App Launches in English (Updated) [archive] », sur Anime News Network, 4 décembre 2013 (consulté le 28 juin 2014).
+(en) « Spoof on Titan 4-Panel Manga Ends [archive] », sur Anime News Network, 30 décembre 2014 (consulté le 3 janvier 2015).
+(en) « Kodansha Launches Free App With Attack on Titan, Knight in the Area Manga Spinoffs [archive] », sur Anime News Network, 3 décembre 2013 (consulté le 28 juin 2014).
+(ja) « 寸劇の巨人（１） [archive] », sur Kōdansha (consulté le 31 juillet 2014).
+(ja) « 寸劇の巨人（２） [archive] », sur Kōdansha (consulté le 2 avril 2015).
+Sherlock, « Un nouveau spin-off pour l'Attaque des Titans [archive] », sur AnimeLand, 8 juillet 2015 (consulté le 10 juillet 2015).
+(en) « Ryōsuke Fuji's Attack on Titan: Lost Girls Manga Ends in May [archive] », sur Anime News Network, 11 avril 2016 (consulté le 23 octobre 2016).
+(ja) « 進撃の巨人　ＬＯＳＴ　ＧＩＲＬＳ（１） [archive] », sur Kōdansha (consulté le 9 avril 2016).
+(ja) « 進撃の巨人　ＬＯＳＴ　ＧＩＲＬＳ（２） [archive] », sur Kōdansha (consulté le 30 septembre 2016).
+« Le manga L’Attaque des Titans – Lost Girls arrive chez Pika [archive] », sur Manga-news.com, 11 janvier 2017 (consulté le 12 janvier 2017).
+(en) « Death Note's Araki Directs TV Anime Project 'Attack' [archive] », sur Anime News Network, 1er décembre 2012 (consulté le 20 août 2013).
+« Shingeki no Kyojin : L’anime [archive] », sur Manga-news.com, 5 décembre 2012 (consulté le 20 août 2013).
+(ja) « Shingeki no Kyojin: Staff & Cast [archive] », sur Shingeki.net (consulté le 5 octobre 2014).
+(en) « Saki Fujita, Keiji Fujiwara Join Attack on Titan TV Anime's Cast [archive] », sur Anime News Network, 8 mars 2013 (consulté le 20 août 2013).
+(ja) « Shingeki no Kyojin: On air [archive] », sur Shingeki.net (consulté le 26 août 2013).
+Reith Saji, « L’anime Shingeki no Kyojin, en difficulté ? [archive] », sur Adala-news.fr, 23 avril 2013 (consulté le 20 août 2013).
+(en) « Last Attack on Titan Episode to Screen in Japanese Theaters [archive] », sur Anime News Network, 31 août 2013 (consulté le 31 août 2013).
+Reith Saji, « Pas de Saison 2 pour l’anime Shingeki no Kyojin pour le moment ? [archive] », sur Adala-news.fr, 29 septembre 2013 (consulté le 7 octobre 2013).
+(en) « Attack on Titan Staff & Cast: More Anime Not Green-Lit Yet [archive] », sur Anime News Network, 28 septembre 2013 (consulté le 7 octobre 2013).
+Reith Saji, « L’anime Shingeki no Kyojin Saison 2, en préproduction [archive] », sur Adala-news.fr, 5 août 2014 (consulté le 6 août 2014)
+(en) « Attack on Titan TV Anime Gets 2nd Season in 2016 [archive] », sur Anime News Network, 21 novembre 2014 (consulté le 22 novembre 2014)
+(en) « Attack on Titan Anime's 2nd Season Premieres in Spring 2017 [archive] », sur Anime News Network, 3 juillet 2016 (consulté le 3 juillet 2016)
+(en) « Attack on Titan 2nd Season's New Visual, Linked Horizon Song Revealed [archive] », sur Anime News Network, 6 février 2017 (consulté le 10 février 2017)
+(en) « Attack on Titan Season 2 Listed With 12 Episodes [archive] », sur Anime News Network, 30 mars 2017 (consulté le 31 mars 2017)
+« Attack on Titan Anime Season 3 to Air in 2018 [archive] », sur Anime News Network, 17 juin 2017 (consulté le 18 juin 2017)
+(ja) 「進撃の巨人」製作委員会, « TVアニメ「進撃の巨人」Season 3　2018年スタート決定！ [archive] », sur shingeki.tv (consulté le 17 juin 2017)
+(en) « Attack on Titan Season 3 Premieres in July After January Compilation Film [archive] », sur Anime News Network, 29 octobre 2017 (consulté le 2 novembre 2017).
+(en) « Attack on Titan 3rd Season's Promo Video Reveals July 22 Premiere (Updated) [archive] », sur Anime News Network, 27 avril 2018 (consulté le 8 mai 2018).
+(en) Megan Peters, « 'Attack On Titan' Creator Reveals Hopes For Season 3 [archive] », 21 mars 2018 (consulté le 29 juillet 2018).
+« Ultime saison datée pour L'Attaque des Titans ! [archive] », sur manga-news.com, 30 juin 2019 (consulté le 1er juillet 2019).
+(en) Daryl Harding, « Attack on Titan The Final Season TV Anime 1st Trailer and Visual Released, MAPPA Takes Over Anime Production [archive] », sur Crunchyroll, 29 mai 2020.
+« L'anime Shingeki no Kyojin Final Season sortira en Décembre 2020 [archive] », sur Adala News, 23 septembre 2020 (consulté le 23 septembre 2020)
+« 放送番組編成計画｜経営に関する情報｜NHKについて [archive] », sur www.nhk.or.jp (consulté le 23 septembre 2020)
+(en) Joseph Luster, « Attack on Titan Final Season Anime Continues with Episode 76 [archive] », sur crunchyroll.com, 28 mars 2021 (consulté le 28 mars 2021).
+« Attack on Titan The Final Season Anime's 'Conclusion' to Air in 2023 [archive] », sur Anime News Network, 3 avril 2022 (consulté le 3 avril 2022).
+« L’Attaque des Titans : la partie 3 de la saison finale sera... en deux parties [archive] », sur IGN, 17 janvier 2023 (consulté le 21 janvier 2023).
+« Attack on Titan The Final Season Part 3 Anime's 1st Half Airs as 1-Hour Special on March 3 [archive] », sur Anime News Network, 8 février 2023 (consulté le 10 février 2023).
+« Attack on Titan: The Final Chapters Part 2 Anime Finale to Be 85 Minutes Long [archive] », sur Anime News Network, 27 octobre 2023 (consulté le 28 octobre 2023).
+« Attack on Titan: The Final Chapters Part 2 Anime's Main Trailer Streamed [archive] », sur Anime News Network, 28 octobre 2023 (consulté le 28 octobre 2023).
+« L’Attaque des Titans sur Wakanim ! [archive] », sur Manga-news.com, 3 avril 2013 (consulté le 20 août 2013).
+« La saison 2 de L'Attaque des Titans chez Wakanim et @Anime [archive] », sur Manga-news.com, 27 mars 2013 (consulté le 31 mars 2013).
+« La saison finale de L'Attaque des Titans en simulcast sur Wakanim [archive] », sur manga-news.com, 23 septembre 2020 (consulté le 16 novembre 2020).
+Charlanmhg, « Le Netflix de l'animation débarque en France avec une union historique entre Crunchyroll et Wakanim [archive] », sur Jeuxvideo.com, 1er mars 2022 (consulté le 1er mars 2022)
+Lisef, « L'Attaque des Titans est de retour sur Netflix ! [archive] », sur 9emeart.fr, 7 avril 2020 (consulté le 16 novembre 2020).
+« "L'attaque des Titans" : Netflix annonce une date pour la saison 3 partie 1 [archive] », sur mouv.fr, 4 février 2021 (consulté le 6 mars 2021).
+Cami-sama, « ADN dévoile son planning de novembre (avec Kid Paddle, Nana, L’Attaque des Titans, MHA…) [archive] », sur animeland.fr, 3 novembre 2020 (consulté le 16 novembre 2020).
+« L’anime L’Attaque des Titans arrive à la télévision sur France 4 [archive] », sur Manga-news.com, 12 juin 2014 (consulté le 14 juin 2014).
+« La saison finale de L'Attaque des Titans diffusée sur Mangas [archive] », sur manga-news.com, 9 décembre 2020 (consulté le 29 décembre 2020).
+(en) « Funimation Streams Attack on Titan TV Anime [archive] », sur Anime News Network, 12 avril 2013 (consulté le 20 août 2013).
+(en) Patrick Macias, « Crunchyroll to Stream Attack on Titan Anime! [archive] », sur Crunchyroll, 13 avril 2013 (consulté le 20 août 2013).
+(en) « Anime Announcements at London MCM Expo Comic Con (Updated) [archive] », sur Anime News Network, 25 mai 2013 (consulté le 20 août 2013).
+(en) « Madman Announces New Weekly Streaming Schedule [archive] », sur Anime News Network, 30 juillet 2013 (consulté le 20 août 2013).
+(en) « Attack on Titan’s Netflix Debut Hit by Translation Woes [archive] », sur Animeherald.com, 14 janvier 2014 (consulté le 23 novembre 2014).
+(en) « 5th Attack on Titan Blu-ray/DVD to Bundle Full-Color Manga [archive] », sur Anime News Network, 7 novembre 2013 (consulté le 11 novembre 2013).
+Adeline Mechin, « Sortie du 9e volume de L’Attaque des Titans au Japon [archive] », sur AnimeLand, 17 mars 2014 (consulté le 28 juin 2014).
+« @Anime, nouveau label d'animation en France ! [archive] », sur Manga-news.com, 28 mars 2014 (consulté le 28 mars 2014).
+« L’Attaque des Titans en DVD et BR ! [archive] », sur Manga-news.com, 24 mai 2013 (consulté le 20 août 2013).
+« L’Attaque des Titans - Combo DVD + BR Vol.1 [archive] », sur Manga-news.com (consulté le 8 octobre 2014).
+« L’Attaque des Titans - Combo DVD + BR Vol.2 [archive] », sur Manga-news.com (consulté le 8 octobre 2014).
+« L'Attaque des Titans : le film et de nouvelles éditions de la série en DVD & Blu-ray ! [archive] », sur Manga-news.com, 15 mai 2015 (consulté le 31 juillet 2015).
+« La saison 2 de L'Attaque des Titans en DVD & Blu-ray chez @Anime [archive] », sur manga-news.com, 14 novembre 2017 (consulté le 25 novembre 2017).
+(ja) « Blu-ray & DVD 1 [archive] », sur Shingeki.tv (consulté le 20 août 2013).
+(ja) « Blu-ray & DVD 2 [archive] », sur Shingeki.tv (consulté le 20 août 2013).
+(ja) « Blu-ray & DVD 3 [archive] », sur Shingeki.tv (consulté le 20 août 2013).
+(ja) « Blu-ray & DVD 4 [archive] », sur Shingeki.tv (consulté le 20 août 2013).
+(ja) « Blu-ray & DVD 5 [archive] », sur Shingeki.tv (consulté le 20 août 2013).
+(ja) « Blu-ray & DVD 6 [archive] », sur Shingeki.tv (consulté le 20 août 2013).
+(ja) « Blu-ray & DVD 7 [archive] », sur Shingeki.tv (consulté le 4 novembre 2013).
+(ja) « Blu-ray & DVD 8 [archive] », sur Shingeki.tv (consulté le 4 novembre 2013).
+(ja) « Blu-ray & DVD 9 [archive] », sur Shingeki.tv (consulté le 4 novembre 2013).
+(ja) « Season 2 Blu-ray&DVD Vol.1 [archive] », sur Shingeki.tv (consulté le 20 août 2013).
+(ja) « Season 2 Blu-ray&DVD Vol.2 [archive] », sur Shingeki.tv (consulté le 20 août 2013).
+(ja) « Season 3 Blu-ray&DVD Vol.1 [archive] », sur Shingeki.tv (consulté le 4 juillet 2019).
+(ja) « Season 3 Blu-ray&DVD Vol.2 [archive] », sur Shingeki.tv (consulté le 4 juillet 2019).
+(ja) « Season 3 Blu-ray&DVD Vol.3 [archive] », sur Shingeki.tv (consulté le 4 juillet 2019).
+(ja) « Season 3 Blu-ray&DVD Vol.4 [archive] », sur Shingeki.tv (consulté le 4 juillet 2019).
+(ja) « Season 3 Blu-ray&DVD Vol.5 [archive] », sur Shingeki.tv (consulté le 4 juillet 2019).
+(ja) « Season 3 Blu-ray&DVD Vol.6 [archive] », sur Shingeki.tv (consulté le 4 juillet 2019).
+(ja) « Season 3 Blu-ray&DVD Vol.7 [archive] », sur Shingeki.tv (consulté le 4 juillet 2019).
+(ja) « Season 4 Blu-ray&DVD Vol.1 [archive] », sur Shingeki.tv (consulté le 6 décembre 2020).
+(ja) « Season 4 Blu-ray&DVD Vol.2 [archive] », sur Shingeki.tv (consulté le 6 décembre 2020).
+(ja) « Season 4 Blu-ray&DVD Vol.3 [archive] », sur Shingeki.tv (consulté le 6 décembre 2020).
+(ja) « Season 4 Blu-ray&DVD Vol.4 [archive] », sur Shingeki.tv (consulté le 6 décembre 2020).
+(ja) « Season 4 Blu-ray&DVD Vol.5 [archive] », sur Shingeki.tv (consulté le 2 décembre 2024).
+(en) « Attack on Titan Original Anime DVD Delayed 4 Months [archive] », sur Anime News Network, 31 mai 2013 (consulté le 20 août 2013).
+Reith Saji, « L’anime Shingeki no Kyojin OAD, reporté [archive] », sur Adala-news.fr, 31 mai 2013 (consulté le 20 août 2013).
+« Deuxième OAD pour l’Attaque des Titans [archive] », sur Manga-news.com, 21 novembre 2013 (consulté le 20 août 2013).
+Reith Saji, « L’anime Shingeki no Kyojin OAD 3, annoncé [archive] », sur Adala-news.fr, 6 avril 2014 (consulté le 14 juin 2014).
+Reith Saji, « L’anime Shingeki no Kyojin Gaiden: Kuinaki Sentaku OAD, annoncé [archive] », sur Adala-news.fr, 5 août 2014 (consulté le 6 août 2014).
+« Des inédits de L’Attaque des Titans arrivent sur Crunchyroll et Wakanim [archive] », sur manga-news.com, 16 décembre 2021 (consulté le 17 décembre 2021).
+(en) « Attack on Titan Anime Gets 2 Compilation Films in 2014-2015 [archive] », sur Anime News Network, 3 avril 2014 (consulté le 3 avril 2014).
+(en) « "Attack on Titan" 1st Compilation Film to be Screened at Tokyo International Film Festival [archive] », sur Crunchyroll, 17 septembre 2014 (consulté le 23 novembre 2014).
+Reith Saji, « Le film animation Shingeki no Kyojin Zenpen, en Visual Art [archive] », sur Adala-news.fr, 8 juin 2014 (consulté le 14 juin 2014).
+(en) Mikikazu Komatsu, « Manga Author Draws Box Art for "Attack on Titan" 1st Film DVD/Blu-ray [archive] », sur Crunchyroll, 20 février 2015 (consulté le 28 février 2015).
+Laurent Koffel, « Le film Attack on Titan: Chronicle qui regroupe les 3 saisons de l’Attaque des Titans prévu pour le 17 juillet [archive] », sur coyotemag.fr, 29 mai 2020 (consulté le 5 janvier 2020).
+Jérôme Fréau, « Le premier film de l’Attaque des Titans en avant-première au Grand Rex [archive] », sur AnimeLand, 4 mai 2015 (consulté le 10 mai 2015)
+« Le second film de l'Attaque des Titans au Grand Rex en septembre [archive] », sur Manga-news.com, 17 juillet 2015 (consulté le 31 juillet 2015).
+« Le 2e film de L'Attaque des Titans arrive chez @Anime [archive] », sur Manga-news.com, 9 février 2016 (consulté le 6 mars 2016).
+Bruno de la Cruz, « Le 3e film L’Attaque des Titans – Le Rugissement de L’Eveil chez @Anime [archive] », sur AnimeLand, 27 septembre 2018 (consulté le 4 juillet 2019).
+Drapeau 2022, p. 139, 149, 152.
+(ja) « 音楽 MUSIC [archive] », sur shingeki.tv (consulté le 8 octobre 2014)
+Reith Saji, « L’opening de l’anime Shingeki no Kyojin s’écoule à plus de 129 000 exemplaires, au Japon [archive] », sur Adala-news.fr, 16 juillet 2013 (consulté le 20 août 2013).
+(en) « 10 Top-Selling Anime CD Singles: 2013 [archive] », sur Anime News Network, 26 janvier 2014 (consulté le 14 juin 2014).
+(en) Scott Green, « Attack on Titan Soundtrack Gets an Eye-Grabbing Cover and Jaw-Dropping Track List [archive] », sur Crunchyroll, 8 juin 2013 (consulté le 11 novembre 2013).
+(ja) « 澤野弘之 TVアニメ「進撃の巨人」オリジナルサウンドトラック 音楽：澤野弘之 [archive] », sur Pony Canyon (consulté le 11 novembre 2013).
+(en) Scott Green, « VIDEO: Attack on Titan Original Soundtrack CD 2 Preview [archive] », sur Crunchyroll, 1er août 2014 (consulté le 11 novembre 2013).
+(ja) « 進撃の巨人 ラジオCD「進撃の巨人ラジオ～梶と下野の進め!電波兵団～」Vol.1 [archive] », sur Pony Canyon (consulté le 11 novembre 2013).
+(ja) « オリジナルサウンドトラック | TVアニメ「進撃の巨人」公式サイト [archive] », sur shingeki.tv (consulté le 8 octobre 2014).
+(ja) « Blu-ray & DVD 第4巻 | TVアニメ「進撃の巨人」公式サイト [archive] », sur shingeki.tv (consulté le 8 octobre 2014).
+(en) « Hiroyuki Sawano Performs Attack on Titan Film's Ending Theme 'YAMANAIAME' [archive] », sur Anime News Network, 31 octobre 2014 (consulté le 25 février 2015).
+(ja) « 劇場版『進撃の巨人』ED曲が決定 澤野弘之「YAMANAIAME」 [archive] », sur Oricon,‎ 31 octobre 2014 (consulté le 26 février 2015).
+(ja) « YAMANAIAME [archive] », sur shingeki.tv (consulté le 26 février 2015).
+(ja) « "Attack On Titan" Season 2 Original Soundtrack [archive] », sur cdjapan.co.jp (consulté le 9 avril 2017).
+(ja) « オリジナルサウンドトラック音楽：澤野弘之 [archive] », sur shingeki.tv (consulté le 4 juillet 2019).
+Amaury Blanc, « Epca : L’EP Epica vs. Attack on Titan a une date de sortie internationale [archive] », sur radiometal.com, 22 mai 2018 (consulté le 28 juillet 2019).
+(ja) « "Attack On Titan" Season 3 Original Soundtrack [archive] », sur cdjapan.co.jp (consulté le 4 juillet 2019).
+(ja) « オリジナル・サウンドトラック／澤野弘之 [archive] », sur shingeki.tv (consulté le 4 juillet 2019).
+Drapeau 2022, p. 155.
+(ja) 「進撃の巨人」The Final Season製作委員会, « TVアニメ「進撃の巨人」 The Final Season オリジナルサウンドトラック [archive] », sur shingeki.tv (consulté le 15 juillet 2021)
+(ja) 「進撃の巨人」The Final Season製作委員会, « Part 2 オープニングテーマ「悪魔の子」ヒグチアイ | TVアニメ「進撃の巨人」The Final Season [archive] », sur Part 2 オープニングテーマ「悪魔の子」ヒグチアイ | TVアニメ「進撃の巨人」The Final Season (consulté le 1er décembre 2023)
+(ja) 「進撃の巨人」The Final Season製作委員会, « Part 2 エンディングテーマ「悪魔の子」ヒグチアイ | TVアニメ「進撃の巨人」The Final Season [archive] », sur Part 2 エンディングテーマ「悪魔の子」ヒグチアイ | TVアニメ「進撃の巨人」The Final Season (consulté le 1er décembre 2023)
+(en) « Attack on Titan The Final Season Part 2 Opening Theme Reaches #1 on U.S. Billboard Hard Rock Chart [archive] », sur Anime News Network, 30 janvier 2022 (consulté le 8 juillet 2022).
+(ja) 「進撃の巨人」The Final Season製作委員会, « オリジナルサウンドトラック02 | TVアニメ「進撃の巨人」The Final Season [archive] », sur オリジナルサウンドトラック02 | TVアニメ「進撃の巨人」The Final Season (consulté le 1er décembre 2023)
+(ja) 「進撃の巨人」The Final Season製作委員会, « 完結編（前編）主題歌「UNDER THE TREE」SiM | TVアニメ「進撃の巨人」The Final Season [archive] », sur 完結編（前編）主題歌「UNDER THE TREE」SiM | TVアニメ「進撃の巨人」The Final Season (consulté le 1er décembre 2023)
+(ja) 「進撃の巨人」The Final Season製作委員会, « 完結編（後編）主題歌「二千年... 若しくは... 二万年後の君へ・・・」Linked Horizon | TVアニメ「進撃の巨人」The Final Season [archive] », sur 完結編（後編）主題歌「二千年... 若しくは... 二万年後の君へ・・・」Linked Horizon | TVアニメ「進撃の巨人」The Final Season (consulté le 1er décembre 2023)
+(ja) 「進撃の巨人」The Final Season製作委員会, « 完結編（各話版）オープニングテーマ「最後の巨人」Linked Horizon | TVアニメ「進撃の巨人」The Final Season [archive] », sur 完結編（各話版）オープニングテーマ「最後の巨人」Linked Horizon | TVアニメ「進撃の巨人」The Final Season (consulté le 1er décembre 2023)
+(ja) 「進撃の巨人」The Final Season製作委員会, « 完結編（各話版）エンディングテーマ「いってらっしゃい」ヒグチアイ | TVアニメ「進撃の巨人」The Final Season [archive] », sur 完結編（各話版）エンディングテーマ「いってらっしゃい」ヒグチアイ | TVアニメ「進撃の巨人」The Final Season (consulté le 1er décembre 2023)
+(ja) 「進撃の巨人」The Final Season製作委員会, « オリジナルサウンドトラック03 | TVアニメ「進撃の巨人」The Final Season [archive] », sur オリジナルサウンドトラック03 | TVアニメ「進撃の巨人」The Final Season (consulté le 1er décembre 2023)
+(ja) « TVアニメ「進撃の巨人」 The Final Season オリジナルサウンドトラック02 [archive] », sur shingeki.tv (consulté le 15 juin 2022)
+« Hiroyuki Sawano / Project【emU】 “Attack on Titan” suite [archive] » (consulté le 15 juillet 2021)
+« feat. AoT「立body機motion × Ashes on The Fire」/「Ashes on The Fire × ətˈæk 0N tάɪtn」 [archive] » (consulté le 15 juillet 2021)
+(en) Scott Green, « "Attack on Titan" Anime Cast Revealed [archive] », sur Crunchyroll, 6 décembre 2012 (consulté le 28 février 2015).
+Drapeau 2022, p. 137-138.
+« L’Attaque des Titans (TV) [archive] », sur Doublanim.fr (consulté le 6 juillet 2014).
+L’Attaque des Titans - Dossier, p. 55.
+« Film pour Fairy Tail et Shingeki no Kyojin [archive] », sur Manga-news.com, 13 octobre 2011 (consulté le 20 août 2013).
+(en) « Attack on Titan/Shingeki no Kyojin Film to Be Live-Action [archive] », sur Anime News Network, 6 décembre 2011 (consulté le 20 août 2013).
+(en) « Director Nakashima Leaves Live-Action Attack on Titan Film [archive] », sur Anime News Network, 13 décembre 2012 (consulté le 20 août 2013).
+Reith Saji, « Réalisateur & Scénariste du film live Shingeki no Kyojin, révélés [archive] », sur Adala-news.fr, 3 décembre 2013 (consulté le 4 décembre 2013).
+Reith Saji, « La version live du manga Shingeki no Kyojin, en Publicité Vidéo Spéciale [archive] », sur Adala-news.fr, 24 janvier 2014 (consulté le 25 janvier 2014).
+« L’Attaque des Titans - nouvelles informations sur le film live ! [archive] », sur Manga-news.com, 3 avril 2014 (consulté le 3 avril 2014).
+(en) « SFX Director Shinji Higuchi to Helm Live-Action Attack on Titan Film [archive] », sur Anime News Network, 3 décembre 2013 (consulté le 4 décembre 2013).
+Reith Saji, « Premier acteur pour le film live Shingeki no Kyojin, révélé [archive] », sur Adala-news.fr, 3 avril 2014 (consulté le 3 avril 2014).
+Jérôme Fréau, « Le film live de l’Attaque des Titans prévu pour 2015 »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), sur AnimeLand, 31 juillet 2014 (consulté le 31 juillet 2014).
+(en) « Live-Action Attack on Titan Films' Eren, Mikasa, 11 Others Unveiled in Costume (Update) [archive] », sur Anime News Network, 19 novembre 2014 (consulté le 22 novembre 2014).
+(en) « Live-Action Attack on Titan Films' Full Teaser Reveals Opening Dates [archive] », sur Anime News Network, 20 mars 2015 (consulté le 2 avril 2015).
+(en) « Live-Action "Attack on Titan" Drama Coming This Summer »(Archive.org • Wikiwix • Archive.is • Google • Que faire ?), sur Crunchyroll, 2 avril 2015.
+« Plus d'informations sur le drama L'Attaque des Titans [archive] », sur manga-news.com, 3 juillet 2015 (consulté le 10 juillet 2015).
+(en) « Hollywood Attack on Titan Film Taps It Director Andy Muschietti [archive] », sur Anime News Network, 29 octobre 2018 (consulté le 25 novembre 2018).
+(ja) « 進撃の巨人　INSIDE　抗 [archive] », sur Kōdansha (consulté le 20 août 2013).
+« L’Attaque des Titans Inside, le guide officiel en France chez Pika [archive] », sur Manga-news.com, 7 août 2014 (consulté le 7 août 2014).
+(ja) « 進撃の巨人 OUTSIDE 攻 [archive] », sur Kōdansha (consulté le 9 septembre 2013).
+« L’Attaque des Titans Outside, le deuxième guide de L’Attaque des Titans chez Pika [archive] », sur Manga-news.com, 1er janvier 2015 (consulté le 3 janvier 2015).
+(ja) « 進撃の巨人　ANIMATION SIDE　吼 [archive] », sur Kōdansha (consulté le 28 juin 2014).
+(ja) « 進撃の巨人 ANSWERS [archive] », sur Kōdansha (consulté le 12 janvier 2017).
+Bruno de la Cruz, « Le guidebook L’Attaque des Titans Answers chez Pika en novembre [archive] », sur AnimeLand, 27 septembre 2017 (consulté le 4 octobre 2017).
+(ja) « 進撃の巨人　キャラクター名鑑　ＦＩＮＡＬ [archive] », sur Kōdansha (consulté le 3 janvier 2022).
+« Pika annonce la sortie du character book de L'Attaque des Titans [archive] », sur manga-news.com, 24 novembre 2021 (consulté le 3 janvier 2022).
+(en) « Attack on Titan Guidebook: Inside & Outside [archive] », sur Randomhouse.com (consulté le 16 octobre 2014).
+Alfro, « Marvel annonce un crossover avec L’Attaque des Titans [archive] », sur 9emeart.fr, 3 novembre 2014 (consulté le 4 novembre 2014).
+(en) « Attack on Titan Gets Crossover With Marvel Comics [archive] », sur Anime News Network, 3 novembre 2014 (consulté le 4 novembre 2014).
+Jérôme Fréau, « Des précisions sur le cross-over entre Marvel et L’Attaque des Titans [archive] », sur AnimeLand, 6 novembre 2014 (consulté le 6 novembre 2014).
+(en) « Attack on Titan's Marvel Crossover Also Features Guardians of the Galaxy [archive] », sur Anime News Network, 13 novembre 2014 (consulté le 22 novembre 2014).
+(ja) « フィーチャーフォン向けソーシャルゲーム「進撃の巨人」のサービスが，Mobageで本日開始 [archive] », sur 4gamer.net,‎ 2 avril 2012 (consulté le 28 juin 2014).
+(en) « KONAMI to Turn Popular Manga Attack on Titan into Social Game [archive] », sur Konami, 29 février 2012 (consulté le 28 juin 2014).
+(en) « Magazine: Attack on Titan Has Video Game Planned [archive] », sur Anime News Network, 9 mai 2013 (consulté le 20 août 2013).
+(ja) « 『進撃の巨人 –反撃の翼-』 Mobageにてサービス開始のお知らせ [archive] », sur strategy-p.co.jp,‎ 5 juillet 2013 (consulté le 28 juin 2014).
+(ja) « 『進撃の巨人 -反撃の翼- ONLINE』正式サービス開始 [archive] », sur strategy-p.co.jp,‎ 24 décembre 2013 (consulté le 28 juin 2014).
+(en) « Attack on Titan, Madoka Magica, Initial D's Online Games to End Service [archive] », sur Anime News Network, 26 mars 2015 (consulté le 27 mars 2015).
+(en) « Nitro+: Not Involved in Blu-ray Visual Novels, But Our Staffers Are [archive] », sur Anime News Network, 21 mai 2013 (consulté le 20 août 2013).
+(en) « Attack on Titan Blu-rays Add Visual Novels by Nitro+ Staff [archive] », sur Anime News Network, 18 mai 2013 (consulté le 20 août 2013).
+La rédaction, « L’Attaque des Titans en jeu vidéo [archive] », sur Jeuxvideo.com, 9 juillet 2013 (consulté le 20 août 2013).
+Reith Saji, « Le manga Shingeki no Kyojin adapté en jeu vidéo sur 3DS [archive] », sur Adala-news.fr, 6 août 2013 (consulté le 20 août 2013).
+Reith Saji, « Premières informations sur le jeu Shingeki no Kyojin 3DS, révélées [archive] », sur Adala-news.fr, 5 septembre 2013 (consulté le 9 septembre 2013).
+(en) « Attack on Titan 3DS Game's Screenshots, Details Posted [archive] », sur Anime News Network, 18 septembre 2013 (consulté le 18 septembre 2013).
+(en) « Spike Chunsoft Extends Attack On Titan Free DLC To February [archive] », sur Siliconera.com, 16 janvier 2014 (consulté le 28 juin 2014).
+(en) « Attack on Titan: The Last Wings of Mankind [archive] », sur VG Chartz (consulté le 18 mars 2014).
+(en) « Attack On Titan: The Last Wings Of Humanity Chain Screenshots Burst Through The Wall [archive] », sur Siliconera.com, 23 septembre 2014 (consulté le 5 septembre 2014).
+(en) « Atlus to Release Attack on Titan: Humanity in Chains in N. America, Europe [archive] », sur Anime News Network, 1er avril 2015 (consulté le 2 avril 2015).
+Jarod, « Shingeki no Kyôjin ce jeudi sur l'eShop [archive] », sur gamekult.com, 29 juin 2015 (consulté le 30 juin 2015).
+(en) « Spike Chunsoft's Attack on Titan 2 3DS Game Ships November 30 in Japan [archive] », sur Anime News Network, 7 septembre 2017 (consulté le 25 novembre 2017).
+(ja) « 巨人を“使う立場”になれるiOS/Android「進撃の巨人 -自由への咆哮-」 [archive] », sur game.watch.impress.co.jp,‎ 13 février 2014 (consulté le 28 juin 2014).
+Reith Saji, « Le jeu pour smartphone Shingeki no Kyojin: Jiyū e no Hōkō, annoncé [archive] », sur Adala-news.fr, 14 janvier 2014 (consulté le 14 juin 2014).
+Adeline Mechin, « Phantasy Star Online et L’Attaque des Titans [archive] », sur AnimeLand, 15 mars 2014 (consulté le 28 juin 2014).
+(en) Sato, « Attack on Titan Arcade Game Being Made By Capcom [archive] », sur siliconera.com, 13 février 2015 (consulté le 18 avril 2015).
+(en) « Capcom's Attack on Titan Arcade Game Features Omni-Directional Maneuver Gear Controls [archive] », sur Anime News Network, 19 février 2016 (consulté le 21 octobre 2016).
+(en) « Capcom Cancels Development of Attack on Titan: Team Battle Arcade Game [archive] », sur Anime News Network, 3 décembre 2018 (consulté le 4 janvier 2019).
+(en) Sato, « Attack on Titan Game Announced For PlayStation 4, PlayStation 3, And PS Vita [archive] », sur siliconera.com, 5 août 2015 (consulté le 17 août 2015).
+daFrans, « L'Attaque des Titans débarque le 26 août 2016 sur PC, PS4, Xbox One, PS3 et Vita [archive] », sur Jeuxvideo.com, 7 avril 2016 (consulté le 9 avril 2016).
+(en) Steven Strom, « Koei Tecmo Attack on Titan Game Coming to America in August [archive] », sur IGN, 7 avril 2016 (consulté le 9 avril 2016).
+(en) « Koei Tecmo Games Reveals Attack on Titan 2 Game For Early 2018 Release Worldwide [archive] », sur Anime News Network, 21 août 2017 (consulté le 22 août 2017).
+(en) « Attack on Titan 2 Game Adds New Playable Characters [archive] », sur Anime News Network, 23 novembre 2017 (consulté le 25 novembre 2017).
+Clementoss, « Attack on Titan 2 : Final Battle - une extension pour couvrir la troisième saison de l'anime [archive] », sur jeuxvideo.com, 14 mars 2019 (consulté le 4 juillet 2019).
+Jarod, « Koei Tecmo a écoulé 2,6 millions de jeux L'Attaque des Titans [archive] », sur gamekult.com, 24 décembre 2021 (consulté le 6 septembre 2022).
+(en) « Attack on Titan Gets Adventure Game for 3DS [archive] », sur Anime News Network, 19 octobre 2016 (consulté le 21 octobre 2016).
+Puyo, « Retard à l'allumage pour l'Attaque des Titans 3DS [archive] », sur gamekult.com, 28 février 2017 (consulté le 26 mars 2017).
+« Fortnite : Eren Jäger de l'Attaque des titans débarque dans le passe de combat, voici comment l'obtenir ! [archive] », sur jeuxvideo.com, 11 mars 2023 (consulté le 11 mars 2023).
+(en) Rafael Antonio Pineda, « Attack on Titan Manga Gets VR Game for Meta Quest 2 Next Summer [archive] », sur Anime News Network, 8 décembre 2022 (consulté le 8 décembre 2022).
+(en) « Attack on Titan Giants Eat at Pizza Hut, Too [archive] », sur Anime News Network, 5 juin 2013 (consulté le 20 août 2013).
+L’Attaque des Titans - Dossier, p. 67.
+(en) « Attack on Titan x Mercedes-Benz Collaboration Puts Titan-Wrapped Cars on Display [archive] », sur Crunchyroll, 24 mars 2021 (consulté le 9 avril 2021).
+Reith Saji, « Les lycéennes japonaises littéralement fans de l’anime Shingeki no Kyojin [archive] », sur Adala-news.fr, 10 mai 2013 (consulté le 20 août 2013).
+(en) « Attack on Titan Gets 1st Life-Size, 15-Meter Statue [archive] », sur Anime News Network, 5 novembre 2014 (consulté le 27 décembre 2014).
+(en) « Toole Japan Part II: Attack on Titan and Evangelion at Universal Studios Japan [archive] », sur Anime News Network, 23 mars 2016 (consulté le 9 avril 2021).
+« Universal Studio Japan sort sa première vidéo promotionnelle pour son attraction d'été Attack on Titan the Real [archive] », sur Anime News Network, 29 avril 2019 (consulté le 9 avril 2021).
+(ja) « 富士急ハイランドに進撃の巨人エリア--日本初の上映やフジキュウ区奪還も [archive] », sur news.mynavi.jp,‎ 19 mars 2017 (consulté le 9 avril 2021).
+« Du 5 juillet au 8 septembre 2019 : Une exposition colossale pour Attack on Titan Final [archive] », sur coyotemag.fr, 4 mai 2019 (consulté le 9 avril 2021).
+(en) « Attack on Titan-themed Real Escape Game Finally Reaches Its Final Season "Escape from The Five Titans" [archive] », sur Crunchyroll, 9 décembre 2020 (consulté le 9 avril 2021).
+(en) « Attack on Titan Inspires Hugging Pillows for Eren & Levi [archive] », sur Anime News Network, 16 juillet 2013 (consulté le 20 août 2013).
+« L’Attaque des Titans en Nendoroid ! [archive] », sur Manga-news.com, 13 août 2013 (consulté le 20 août 2013).
+« Mikasa Ackerman - Ichiban Kuji [archive] », sur Manga-news.com (consulté le 20 août 2013).
+« Les éventails Pika arrivent le 26 juin ! [archive] », sur Manga-news.com, 12 juin 2013 (consulté le 9 septembre 2013).
+(en) Bamboo Dong et Karen Ressler, « Attack on Titan… Perfume? [archive] », sur Anime News Network, 11 septembre 2013 (consulté le 13 septembre 2013).
+(en) « Bessatsu Shōnen Mag to Bundle Attack on Titan Drama CD [archive] », sur Anime News Network, 10 novembre 2013 (consulté le 11 novembre 2013).
+(en) « Attack on Titan Gets Its Own Monthly Magazine With Figures [archive] », sur Anime News Network, 5 décembre 2014 (consulté le 11 décembre 2014).
+(en) Brian Ashcraft, « New Attack On Titan Statues Erected In An Excellent Location [archive] », sur kotaku.com, 9 novembre 2020 (consulté le 11 novembre 2020).
+« Attack on Titan – Le Dernier Rempart [archive] », sur ShoShoSein, 19 mai 2021 (consulté le 21 mai 2021).
+Humberto Saabedra, « UNIQLO to Launch Attack On Titan Collection in Japan on March 17 [archive] », sur Crunchyroll, 9 mars 2023 (consulté le 18 mai 2023).
+(ja) « Boosted by anime version, 'Attack on Titan' manga sales top 22 million [archive] », sur Asahi shinbun, 17 août 2013 (consulté le 26 octobre 2014).
+Gaël Simon, « "L'Attaque des Titans" est-il le manga le plus emblématique de sa génération ? [archive] », sur francetvinfo.fr, 21 février 2021 (consulté le 28 mars 2021).
+L’Attaque des Titans - Dossier, p. 59.
+Reith Saji, « Le créateur de la saga Gundam s’exprime sur la série Shingeki no Kyojin [archive] », sur Adala-news.fr, 3 décembre 2013 (consulté le 7 décembre 2013).
+Takato, « L’Attaque des Titans volume 1 [archive] », sur Manga-news.com (consulté le 20 octobre 2014).
+Takato, « L’Attaque des Titans volume 3 [archive] », sur Manga-news.com (consulté le 20 octobre 2014).
+Steve Naumann, « L’Attaque des Titans volume 3 [archive] », sur AnimeLand (consulté le 26 octobre 2014).
+(zh) « 《進擊の巨人》爆紅中港台 Youtube點擊400萬 網民熱議圍牆抗敵 (2013年05月27日) [archive] », sur Am730.com.hk,‎ 27 mai 2013 (consulté le 20 août 2013).
+(zh) « 流行漫畫﹕因為，我們也有想要打倒的巨人 [archive] », sur Reading.mingpao.com,‎ 13 février 2011 (consulté le 20 août 2013).
+(zh) « 軍國主義復活？／進擊的巨人 引發韓日論戰 [archive] », sur Libertytimes.com.tw,‎ 12 juin 2013 (consulté le 20 août 2013).
+Reith Saji, « L’auteur du manga Shingeki no Kyojin, menacé de mort [archive] », sur Adala-news.fr, 1er juillet 2013 (consulté le 20 août 2013).
+(en) Brian Ashcraft, « A Thousand Death Threats Against a Popular Anime Creator [archive] », sur Kotaku.com, 1er juillet 2013 (consulté le 20 août 2013).
+(ja) « 犯行予告の収集・通報サイト [archive] », sur Yokoku.in,‎ 28 juin 2013 (consulté le 20 août 2013).
+(ja) « 更新が滞ってすいません！返事します！ [archive] », sur Blog de Hajime Isayama,‎ 4 octobre 2010 (consulté le 20 août 2013).
+(en) « China Blacklists Attack on Titan, Death Note, 36 More Anime/Manga [archive] », sur Anime News Network, 9 juin 2015 (consulté le 30 juin 2015).
+(en) « China bans 38 Japanese anime & manga titles including "Attack On Titan" [archive] », sur SBS PopAsia, 12 juin 2015 (consulté le 27 mars 2022)
+(en) « The fascist subtext of Attack on Titan can’t go overlooked [archive] », sur polygon.com, 18 juin 2019 (consulté le 29 décembre 2020).
+(en) Dave Trumbore, « Here's What 'Attack on Titan' Would Look Like If It Was Pro-Fascist & Anti-Semitic [archive] », sur collider.com, 20 juin 2019 (consulté le 29 décembre 2020).
+(en) Faiyaz Chowdhury, « Attack on Titan's Criticism of Fascism & Racism Is Far From Subtle [archive] », sur cbr.com, 21 juin 2020 (consulté le 29 décembre 2020).
+« Critique du dvd : Attaque des Titans (l') - Intégrale Blu-Ray [archive] », sur manga-news.com, 21 juillet 2014 (consulté le 29 décembre 2020).
+« Critique de l'anime : Attaque des Titans (l') (Saison 2) [archive] », sur manga-news.com, 21 juillet 2014 (consulté le 29 décembre 2020).
+« Critique de l'anime : Attaque des Titans (l') (Saison 3) [archive] », sur manga-news.com, 21 juillet 2014 (consulté le 29 décembre 2020).
+Takato, « L’Attaque des Titans - Intégrale DVD et Blu-ray [archive] », sur Manga-news.com (consulté le 26 octobre 2014).
+(en) Rebecca Silverman, « The Spring 2013 Anime Preview Guide - Attack on Titan [archive] », sur Anime News Network, 3 avril 2013 (consulté le 3 avril 2015)
+(en) « Review: Attack on Titan [archive] », sur Anime News Network, 24 octobre 2013 (consulté le 16 décembre 2014).
+« 22e Anime Manga Grand Prix », AnimeLand, no 203,‎ avril/mai 2015 (ISSN 1148-0807)
+Joel Metreau, « La série d'animation japonaise L’Attaque des titans débarque sur France 4 [archive] », sur 20 Minutes, 4 septembre 2014 (consulté le 26 octobre 2014).
+(en) Emperor Pyros, « Did MAPPA Studio ruin Attack on Titan Season 4 like fans say? [archive] », 19 janvier 2021 (consulté le 21 mars 2021).
+(en) Constance Sarantos, « Attack on Titan: Season 4 Showcases the Differences Between Wit & MAPPA [archive] », sur cbr.com, 31 janvier 2021 (consulté le 21 mars 2021).
+(en) Megan Peters, « Attack on Titan Director Retreats From Twitter After Fans Troll New Episode [archive] », sur comicbook.com, 13 janvier 2021 (consulté le 21 mars 2021).
+(en) Hannah Collins, « How Attack on Titan Beat Critics to Become America's Most In-Demand Show [archive] », sur cbr.com, 13 février 2021 (consulté le 21 mars 2021).
+(ja) « Classement Oricon 2011 par série [archive] », sur Oricon (consulté le 18 janvier 2013).
+(en) « Top-Selling Manga in Japan by Series: 2011 [archive] », sur Anime News Network, 30 novembre 2011 (consulté le 18 janvier 2013).
+« Top 30 Oricon Année 2012 (Par Séries) [archive] », sur Manga-news.com, 3 décembre 2012 (consulté le 20 août 2013).
+(en) « Attack on Titan Has 10 Million Copies in Print [archive] », sur Anime News Network, 6 décembre 2012 (consulté le 20 août 2013).
+« Top 50 Oricon du 8 au 14 avril [archive] », sur Manga-news.com, 17 avril 2013 (consulté le 20 août 2013).
+« Top 50 Oricon du 29 avril au 5 mai [archive] », sur Manga-news.com, 9 mai 2013 (consulté le 20 août 2013).
+« Top 50 Oricon du 20 au 26 mai [archive] », sur Manga-news.com, 30 mai 2013 (consulté le 20 août 2013).
+« Chiffres du mois de mai [archive] », sur Manga-news.com, 31 mai 2013 (consulté le 20 août 2013).
+« Top 30 Oricon 1re moitié 2013 (Par Séries) [archive] », sur Manga-news.com, 3 juin 2013 (consulté le 20 août 2013).
+(en) « Attack on Titan Manga Prints 8.7 Million More After Anime [archive] », sur Anime News Network, 3 juin 2013 (consulté le 20 août 2013).
+Reith Saji, « Le manga Shingeki no Kyojin devient l’une des séries les plus lucratives au Japon [archive] », sur Adala-news.fr, 15 septembre 2013 (consulté le 18 septembre 2013).
+« Top 30 Oricon Année 2013 (Par Séries) [archive] », sur Manga-news.com, 1er décembre 2013 (consulté le 4 décembre 2013).
+« Top 100 Oricon Année 2013 (Par Volumes) [archive] », sur Manga-news.com, 2 décembre 2013 (consulté le 4 décembre 2013).
+(en) « Kodansha's 1st Sales Jump in 18 Years Credited to Attack on Titan [archive] », sur Anime News Network, 23 février 2014 (consulté le 26 octobre 2014).
+(en) « Attack on Titan Manga Prints 38.3 Million Worldwide [archive] », sur Anime News Network, 23 juillet 2013 (consulté le 14 juin 2014).
+Reith Saji, « Le manga One Piece détrôné pour la première fois par Shingeki no Kyojin [archive] », sur Adala-news.fr, 1er juin 2014 (consulté le 2 juin 2014).
+(en) « Attack on Titan Volume 13 Gets 2.75-Million 1st Printing [archive] », sur Anime News Network, 29 avril 2014 (consulté le 18 mars 2014).
+(en) « Attack on Titan Manga Reaches 40 Million Copies [archive] », sur Anime News Network, 30 juillet 2014 (consulté le 31 juillet 2014).
+Sherlock, « Top 50 (par séries) Oricon de 2014 [archive] », sur AnimeLand, 1er avril 2015 (consulté le 2 avril 2015).
+« Les Meilleures Ventes Top 50 Albums & Mangas Juin Juillet 2013 [archive] », sur Canalbd.info (consulté le 27 août 2013).
+Jordan Grelet, « L’Attaque des Titans, un véritable best-seller [archive] », sur AnimeLand, 9 février 2014 (consulté le 28 août 2014).
+(en) « Attack on Titan Manga Has 500,000 Copies in English [archive] », sur Anime News Network, 13 octobre 2013 (consulté le 14 octobre 2013).
+(en) « Attack on Titan Manga Has 31 Million in Circulation [archive] », sur Anime News Network, 10 mars 2014 (consulté le 26 octobre 2014).
+(en) « Attack on Titan Manga Has 2.5 Million Copies in Print in English [archive] », sur Anime News Network, 27 juillet 2015 (consulté le 17 août 2015).
+(en) Ollie Barder, « 'Attack On Titan' Manga Now Has Over 60 Million Copies In Print [archive] », sur forbes.com, 3 septembre 2016 (consulté le 12 janvier 2017).
+(en) « Attack on Titan Manga Has 71 Million Copies in Print [archive] », sur Anime News Network, 1er janvier 2018 (consulté le 20 janvier 2018).
+(en) « Roundup of Newly Revealed Print Counts for Manga, Light Novel Series - October 2018 [archive] », sur Anime News Network, 3 novembre 2018 (consulté le 25 novembre 2018).
+Egan Loo, « Une fresque murale géante réalisée à NYC vient célébrer les 100 millions d'exemplaires en circulation du manga Attack on Titan [archive] », sur Anime News Network, 25 décembre 2019 (consulté le 6 mars 2021).
+(ja) « 『進撃の巨人』ミュージカル化 エレン役は岡宮来夢、ミカサ役は高月彩良 [archive] », sur Oricon,‎ 5 septembre 2022 (consulté le 7 septembre 2022).
+(en) « Attack on Titan Manga Sales Soar to 140 Million [archive] », sur IGN.com, 30 novembre 2023 (consulté le 2 décembre 2023).
+« Top-Selling Manga in Japan by Series: 2011 [archive] », sur Anime News Network, 1er décembre 2011.
+« 30 Top-Selling Manga in Japan by Series: 2012 [archive] », sur Anime News Network, 3 décembre 2012.
+« Top-Selling Manga in Japan by Series: 2013 [archive] », sur Anime News Network, 2 décembre 2013.
+« Top-Selling Manga in Japan by Series: 2014 [archive] », sur Anime News Network, 1er décembre 2014.
+« Top-Selling Manga in Japan by Series: 2015 [archive] », sur Anime News Network, 30 novembre 2015.
+« Top-Selling Manga in Japan by Series: 2016 [archive] », sur Anime News Network, 1er décembre 2016.
+« Top-Selling Manga in Japan by Series: 2017 [archive] », sur Anime News Network, 6 décembre 2017.
+« Top-Selling Manga in Japan by Series: 2018 [archive] », sur Anime News Network, 30 novembre 2018.
+« Top-Selling Manga in Japan by Series: 2019 [archive] », sur Anime News Network, 27 novembre 2019.
+« Top-Selling Manga in Japan by Series: 2020 [archive] », sur Anime News Network, 29 novembre 2020.
+« Top des meilleures ventes manga de 2021 au Japon [archive] », sur manga-news.com, 1er décembre 2021.
+(en) « Japan's Animation Blu-ray Disc Ranking, July 15-21 [archive] », sur Anime News Network, 23 juillet 2013 (consulté le 20 août 2013).
+(en) « Japan's Animation DVD Ranking, July 15-21 [archive] », sur Anime News Network, 23 juillet 2013 (consulté le 20 août 2013).
+(en) « Japan's Animation DVD Ranking, September 16-22 [archive] », sur Anime News Network, 24 septembre 2013 (consulté le 20 octobre 2014).
+(en) « Japan's Animation Blu-ray Disc Ranking, November 18-24 [archive] », sur Anime News Network, 26 novembre 2013 (consulté le 20 octobre 2014).
+(en) « Japan's Animation DVD Ranking, March 17-23 [archive] », sur Anime News Network, 1er avril 2014 (consulté le 20 octobre 2014).
+Reith Saji, « L’anime Shingeki no Kyojin dépasse le million de téléspectateurs aux USA [archive] », sur Adala-news.fr, 20 mai 2014 (consulté le 14 juin 2014).
+L’Attaque des Titans, p. 24.
+Pauline Croquet, « « L’Attaque des Titans » : le manga gagnant du confinement [archive] », sur lemonde.fr, 8 mai 2020 (consulté le 21 mars 2021).
+Jérôme Lachasse, « Pourquoi l'anime L'Attaque des Titans déchaîne autant les passions [archive] », sur bfmtv.com, 27 février 2021 (consulté le 6 mars 2021).
+(en) « TV series demand across all television platforms for the U.S. (31 January - 6 February, 2021) [archive] », sur parrotanalytics.com, 9 février 2021 (consulté le 21 mars 2021).
+« [Interview] 2020-2023 : retour sur 3 années complexes… avec Pika édition [archive] », sur journaldujapon.com, 16 septembre 2023 (consulté le 2 décembre 2023).
+(ja) « 【進撃の巨人風ワイヤーアクションゲーム】反撃の刃 [archive] », sur Google Play (consulté le 28 août 2013).
+(en) « Unofficial Attack on Titan Game Gets Over 500,000 Downloads [archive] », sur Anime News Network, 27 août 2013 (consulté le 28 août 2013).
+(en) « Manga Division | 2010 [14th] Japan Media Arts Festival Archive [archive] », sur Japan Media Arts Festival (consulté le 28 mars 2022)
+(en) « Manga Division | 2011 [15th] Japan Media Arts Festival Archive [archive] », sur Japan Media Arts Festival (consulté le 28 mars 2022)
+(ja) Natasha Inc, « 「このマンガがすごい！」1位は「進撃の巨人」＆「HER」 [archive] », sur コミックナタリー (consulté le 28 mars 2022)
+« Les 35e Kodansha Awards [archive] », sur Manga-news.com, 16 mai 2011 (consulté le 20 août 2013).
+(en) « 13 Titles Nominated for 4th Manga Taisho Awards [archive] », sur Anime News Network, 16 janvier 2011 (consulté le 18 janvier 2013).
+(en) « 16th Tezuka Osamu Cultural Prize Nominees Announced [archive] », sur Anime News Network, 20 février 2012 (consulté le 20 août 2013).
+(en) « 18th Tezuka Osamu Cultural Prize Nominees Announced [archive] », sur Anime News Network, 9 mars 2014 (consulté le 18 mars 2014).
+Reith Saji, « Manga of the Year 2013, au Japon [archive] », sur Adala-news.fr, 5 décembre 2013 (consulté le 7 décembre 2013).
+« Le meilleur manga de l’année selon le Magazine Da Vinci [archive] », sur Manga-news.com, 12 décembre 2014 (consulté le 12 décembre 2014).
+(en) « U.S. Librarians Rank Stargazing Dog in Teens' Top 10 [archive] », sur Anime News Network, 1er février 2013 (consulté le 20 août 2013).
+(en) « Attack on Titan Manga Wins 2014 Harvey Award [archive] », sur Anime News Network, 9 septembre 2014 (consulté le 17 septembre 2014).
+Olivier, « 20e ANIME & MANGA GRAND PRIX : les gagnants [archive] », sur AnimeLand, 22 mars 2013 (consulté le 20 août 2013).
+Nicolas Penedo, « AMGP 2013 : les résultats [archive] », sur AnimeLand, 21 mars 2014 (consulté le 28 juin 2014).
+« L’Attaque des Titans remporte le tournoi shônen 2013 [archive] », sur Manga-news.com, 31 mars 2014 (consulté le 3 avril 2014)
+(ja) « 初心者むけ“進撃”講座も！「ブロスコミックアワード2013」大賞は「王国の子」 ｜ ガジェット通信 GetNews [archive] », sur ガジェット通信 GetNews,‎ 12 novembre 2013 (consulté le 28 mars 2022)
+(ja) « 「電子書籍アワード2014」電子書籍大賞に『進撃の巨人』 [archive] », sur ITmedia eBook USER (consulté le 28 mars 2022)
+« NEO Awards 2014 - The Winner of Best Manga 2014 is: ATTACK ON TITAN. [archive] », sur Twitter, 26 janvier 2015 (consulté le 28 mars 2022)
+« L’Attaque des Titans [archive] », sur bdangouleme.com (consulté le 5 décembre 2014)
+(it) « Vincitori Premi Micheluzzi 2014 [archive] », sur comicon.it, 7 mai 2014 (consulté le 25 novembre 2017)
+(es) EFE, « 'Ataque a los titanes' y 'Fushigi Yugi' ganan los premios del Salón del Manga de Barcelona [archive] », sur RTVE.es, 3 novembre 2013 (consulté le 28 mars 2022)
+(es) Cinemascomics, « Ganadores de los premios del XX Salón del Manga de Barcelona [archive] », sur Cinemascomics.com | Cine, cómics y series, 2 novembre 2014 (consulté le 28 mars 2022)
+(en-US) « True Believers Comic Awards announce 2014 winners [archive] », sur CBR, 14 juillet 2014 (consulté le 28 mars 2022)
+(de) Lamy, « Connichi 2014: Der Pochi Award [archive] », sur Kotomi, 16 septembre 2014 (consulté le 28 mars 2022)
+« Announcing the Goodreads Choice Winner in Best Graphic Novels & Comics! [archive] », sur Goodreads (consulté le 28 mars 2022)
+(en) Loveridge Lynzee, « TV Asahi Announces Top 100 Manga Voted on By 150,000 Readers [archive] », sur Anime News Network, 5 janvier 2021 (consulté le 3 avril 2022)
+(en) Morrissy Kim, « Attack on Titan Manga Breaks Records With Titan-Sized Print Volume [archive] », sur Anime News Network, 4 mars 2021 (consulté le 28 mars 2022)
+(ja) Natasha Inc, « 「巨人用 進撃の巨人」が、「出版された最大の漫画本」としてギネス世界記録に認定 [archive] », sur コミックナタリー (consulté le 28 mars 2022)
+(en) Egan Loo, « March comes in like a lion, Space Bros. Win Kodansha Manga Awards » [archive du 9 juin 2013], sur Anime News Network, 12 mai 2011 (consulté le 18 mars 2022)
+Loo Egan, « 13 Titles Nominated for 4th Manga Taisho Awards » [archive du 8 mai 2019], sur Anime News Network, 17 janvier 2011 (consulté le 2 mars 2021)
+Loo Egan, « 16th Tezuka Osamu Cultural Prize Nominees Announced » [archive du 16 février 2021], sur Anime News Network, 20 février 2012 (consulté le 2 mars 2021)
+« 20E ANIME & MANGA GRAND PRIX : LES VAINQUEURS » [archive du 10 avril 2013], sur AnimeLand, 5 avril 2013
+(es) « 'Ataque a los titanes' y 'Fushigi Yugi' ganan los premios del Salón del Manga de Barcelona » [archive du 18 avril 2021], sur rtve.es, 3 novembre 2013 (consulté le 2 mars 2021)
+(ja) « 初心者むけ"進撃"講座も！「ブロスコミックアワード2013」大賞は「王国の子」 » [archive du 18 avril 2021], sur getnews.jp,‎ 12 novembre 2013 (consulté le 28 mars 2021)
+6th Shine! Bros Comic Award 2013. TV Bros November 9, 2013 issue
+Nelkin Sarah, « 18th Tezuka Osamu Cultural Prize Nominees Announced » [archive du 3 mars 2021], sur Anime News Network, 9 mars 2014 (consulté le 2 mars 2021)
+« AMGP 2013 : les résultats » [archive du 23 janvier 2021], sur AnimeLand, 21 mars 2014 (consulté le 2 mars 2021)
+(ja) « 「電子書籍アワード2014」電子書籍大賞に『進撃の巨人』 » [archive du 18 avril 2021], sur itmedia.co.jp,‎ 31 mars 2014 (consulté le 2 mars 2021)
+(it) « Vincitori Premi Micheluzzi 2014 » [« 2014 Micheluzzi Awards Winners »], Comicon.it,‎ 7 mai 2014 (lire en ligne [archive du 1er juillet 2019], consulté le 2 septembre 2018)
+Melrose Kevin, « True Believers Comic Awards announce 2014 winners », cbr.com,‎ 14 juillet 2014 (lire en ligne [archive du 18 avril 2021], consulté le 14 mars 2021)
+Rachel Mahoney, « 'Attack on Titan' Manga Wins 2014 Harvey Award », Anime News Network,‎ 9 septembre 2014 (lire en ligne [archive du 26 juin 2018], consulté le 2 septembre 2018)
+(de) « CONNICHI 2014: DER POCHI AWARD » [archive du 18 avril 2021], 16 septembre 2014 (consulté le 2 mars 2021)
+(es) « Ganadores de los premios del XX Salón del Manga de Barcelona » [archive du 18 janvier 2021], sur cinemascomics.com, 2 novembre 2014 (consulté le 2 mars 2021)
+« Neo Awards 2014The Winner of Best Manga 2014 is: ATTACK ON TITAN » [archive du 18 avril 2021], sur twitter, 26 janvier 2015 (consulté le 2 mars 2021)
+"Neo Awards 2014". Neo Issue 133
+Loveridge Lynzee, « Yomiuri Shimbun's 'Sugoi Japan Awards' Winners Announced » [archive du 17 juillet 2017], sur Anime News Network, 13 mars 2015 (consulté le 2 mars 2021)
+(de) « AnimaniA Award 2006-2016 » [archive du 18 avril 2021], sur AnimaniA (de), février 2016 (consulté le 2 mars 2021)
+« Best Graphic Novels & Comics » [archive du 18 avril 2021], sur Goodreads (consulté le 2 mars 2021)
+« Todos los nominados y ganadores de los XXVII Manga Barcelona (2021) » [archive du 3 novembre 2021], sur Enjoy Comics (consulté le 3 novembre 2021)
+« Prix Babelio : Découvrez les lauréats [archive] », sur www.babelio.com (consulté le 16 juin 2022)
+« 2022年 第53回星雲賞 » [archive du 19 mai 2022], sur www.sf-fan.gr.jp (consulté le 27 mai 2022)
+Reith Saji, « NewType Anime Award 2013 [archive] », sur Adala-news.fr, 13 octobre 2013 (consulté le 14 octobre 2013).
+(en) « Attack on Titan, Garden of Words take top honors at Kobe anime awards [archive] », sur Asahi Shinbun, 21 décembre 2013 (consulté le 20 octobre 2014).
+Reith Saji, « Tokyo Anime Award 2014 [archive] », sur Adala-news.fr, 22 mars 2014 (consulté le 14 juin 2014).
+Reith Saji, « Les Animes qui ont marqué leur époque selon l’éditeur Shueisha [archive] », sur Adala-news.fr, 19 juin 2013 (consulté le 20 août 2013)
+(en) Ian Wolf, « Crunchyroll Names The Top 100 Anime of the 2010s [archive] », sur Anime UK News, 27 novembre 2019 (consulté le 6 janvier 2020)
+(en) « The Best Anime of the Decade (2010 - 2019) [archive] », sur IGN, 1er janvier 2020 (consulté le 6 janvier 2020)
+(en) « The best anime of the decade [archive] », sur Polygon, 6 novembre 2019 (consulté le 24 janvier 2020)
+Loo Egan, « Attack on Titan Wins Top Prizes in Newtype Anime Awards [archive] », sur Anime News Network, 14 octobre 2013
+« 'Attack on Titan,' 'Garden of Words' take top honors at Kobe anime awards » [archive du 21 juillet 2015], sur The Asahi Shimbun, 21 décembre 2013
+(ja) « アニメディア 2014年2月号 (雑誌) 商品画像1 [archive] »
+"2013 Animedia Character Awards". Animedia February 2014 Issue
+(ja) « 『ネット流行語大賞 2013』『アニメ流行語大賞 2013』をそれぞれ発表！ それぞれの今年の大賞は？ [archive] »,‎ 2 décembre 2013
+(ja) « ビルボードジャパン2013年間チャート [archive] », sur Billboard Japan
+(ja) « 【BJMA2013】はAKBが最優秀賞含む4部門を3年連続受賞、ライブ最多賞はモー娘 [archive] », sur Billboard Japan,‎ 14 décembre 2013
+(es) Valdivia Thais, « Resultados de los Anime Awards Selecta Visión [archive] », sur HobbyConsolas, 24 janvier 2014
+(es) « Selecta Visión ha sido galardonada con dos Premios en el pasado Chibi Japan Weekend Madrid 2014 [archive] », sur Facebook, 24 février 2014
+Nelkin Sarah, « Yuuki Kaji, Rina Satou Win 8th Annual Seiyū Awards (Updated) [archive] », sur Anime News Network, 28 février 2014
+Hanashiro Emma, « Attack on Titan Wins Digital Contents of the Year Award [archive] », sur Anime News Network, 18 mars 2014
+19th AMD Awards:
+(ja) « 第19回 AMDアワード '13 授賞式映像 » [archive du 18 mars 2014], sur amd.or.jp (consulté le 18 mars 2014)
+(ja) « 第19回 AMD Award '14 . 大賞／総務大臣賞 [archive] », sur amd.or.jp
+« AMGP 2013 : les résultats [archive] », sur AnimeLand, 21 mars 2014
+« Announcement of The Tokyo Anime Award Festival 2014 Anime Of The Year Winning Programs And Winners [archive] », Tokyo Anime Award Festival, 22 mars 2014
+(ja) « アニメージュ 2014年 6月号 本日発売！ [archive] », sur gundam.info,‎ 10 mai 2014
+(ja) « 36th Anime Grand Prix [archive] », sur chikimato.net
+グランプリ Editors Choice. Anime Grand Prix
+(es) « Éstos son los Premios Expomanga 2014 [archive] », sur koi-nya.net, 25 mai 2014
+« 2014年６月27日 2013年度の最高のブランド＆キャラクターがついに決定!! [archive] », sur charabiz.com,‎ 27 juin 2014
+(es) « Ganadores de los premios del XX Salón del Manga de Barcelona [archive] », sur cinemascomics.com, 2 novembre 2014
+« NEO Awardas 2014. Winner of Best Anime [archive] », sur Twitter
+Loveridge Lynzee, « Yomiuri Shimbun's 'Sugoi Japan Awards' Winners Announced [archive] », sur Anime News Network, 13 mars 2015
+« 3rd Annual BTVA Anime Dub Awards 2014 [archive] », sur Behind The Voice Actors, 9 mars 2015
+« Announcement of The Tokyo Anime Award Festival 2015 Anime Of The Year Winning Programs And Winners. [archive] », Tokyo Anime Award Festival, 24 mars 2015
+« 33rd JASRAC Awards [archive] », sur jasrac.or.jp
+(es) « Premios del XXI Salón del Manga de Barcelona [archive] », sur eslahoradelastortas.com, 31 octobre 2015
+« Les Japan Expo Awards sont de retour ! [archive] », sur manga-news.com, 22 février 2016
+« L'Attaque des Titans, Daruma du meilleur chara-design et de la meilleure série adaptée [archive] », sur Japan Expo, 7 avril 2016
+(de) « AnimaniA Award 2017: Die Gewinner [archive] », sur AnimaniA, 9 août 2017
+« Así ha sido la primera edición de Heroes Manga Madrid [archive] », sur animanga.es
+Loo Egan, « Fate/Apocrypha, Sword Art Online Movie Win Top Newtype Anime Awards [archive] », sur Anime News Network, 7 octobre 2017
+Peters Megan, « The 2017 ComicBook.com Golden Issue Awards Nominations for Anime [archive] », sur comicbook.com, 22 décembre 2017
+(ca) « NOMINATS ALS PREMIS DEL XXIII SALÓ DEL MANGA DE BARCELONA [archive] », sur comic-barcelona.com, 27 octobre 2017
+« Anime of the Year [archive] », sur IGN, 21 décembre 2017
+« Quant au prix du Meilleur générique, il revient à L'Attaque des Titans Saison 2 grâce au rythme effréné de " Shinzô o sasageyo " du groupe Linked Horizon [archive] », sur Twitter, 18 janvier 2018
+Orsini Lauren, « " Here Are All The Nominees For The Crunchyroll Anime Awards [archive] », sur Forbes, 17 janvier 2018
+(ja) « TAAF2018 アニメファン賞は『ユーリ!!! on ICE』！ [archive] », sur Tokyo Anime Award,‎ 21 février 2018
+« Japan Expo Awards 2018 : la sélection anime [archive] », sur manga-news.com, 19 décembre 2017
+« L'Attaque des Titans, Daruma de la meilleure bande originale [archive] », sur Japan Expo, 22 avril 2018
+« 6th Annual BTVA Anime Dub Awards 2017 [archive] », sur Behind The Voice Actors, 29 septembre 2018
+AnimeCLick Awards 2018:
+(it) « Neko Awards 2018: L'Atacco Dei Giganti Vince Come Miglior Sequel! [archive] », sur AnimeClick.it, 22 mars 2018
+(it) « Neko Awards 2018: Miglior Serie TV, Sequel, Corti E Film [archive] », sur AnimeClick.it, 10 mars 2018
+(it) « Lucca 2018: I Premiati Agli AnimeClick.it Awards [archive] », sur AnimeClick.it, 10 novembre 2018
+Peters Megan, « The 2018 ComicBook.com Golden Issue Awards Nominations for Anime [archive] », sur comicbook.com, 11 décembre 2018
+(es) « 'My Hero Academia', 'Ataque a los Titanes', 'Your name' y 'Yo-kai Watch' entre los ganadores del Salón del Manga [archive] », sur rtve.es, 2 novembre 2018
+"TVstation Drama & Anime Awards". TVstation Magazine Edition 2019 No.2
+(ja) « TAAF2019 アニメファン賞は『BANANA FISH』！ [archive] », sur Tokyo Anime Award,‎ 15 février 2019
+« Winners of the 2019 Anime Awards—Updated Live! [archive] », sur Crunchyroll, 17 février 2019
+« Yoshiki feat. Hyde win Best Japanese Artist in Hong Kong's 30th International Pop Poll [archive] », sur Anime News Network, 21 mai 2019
+Hodgkins Crystalyn, « Demon Slayer: Kimetsu no Yaiba, Promare Anime Win Top Newtype Anime Awards [archive] », sur Anime News Network, 27 octobre 2019
+(ja) « 「鬼滅の刃」＆「プロメア」が作品賞の第1位を獲得！ ニュータイプアニメアワード2018-2019最終結果発表！ [archive] », sur WebNewtype,‎ 27 octobre 2019
+« The Best Anime Series of 2019 [archive] », sur IGN, 13 décembre 2019
+(en) « 2019 Golden Issue Award Winners [archive] », sur Anime (consulté le 20 janvier 2022)
+Orsini Lauren, « " Here Are All The Nominees For The 2019 Crunchyroll Anime Awards [archive] », sur Forbes", 10 janvier 2020
+« " Winners of the 2020 Anime Awards [archive] », sur Crunchyroll, 16 février 2020
+Valdes Nick, « The 2020 ComicBook.com Golden Issues Awards Nominees for Anime [archive] », sur comicbook.com, 1er janvier 2021
+(pt) « Conheça os seis finalistas indicados para Melhor Dublador (Português) do Anime Awards 2021 [archive] », sur Crunchyroll, 18 février 2021
+(pt) « Perdeu a cerimônia? Confira todos os vencedores do Anime Awards 2021 [archive] », sur Crunchyroll, 20 février 2021
+« 2021 MANGA BARCELONA AWARDS [archive] », sur www.manga-barcelona.com
+« The Best Anime of 2021 Winner [archive] », IGN, 15 décembre 2021
+(en) « The 2021 ComicBook.com Golden Issue Award for Best Anime TV Series [archive] », sur comicbook.com (consulté le 20 janvier 2022)
+« Anime and Asian series dominate 4th Annual Global TV Demand Awards, highlighting industry and consumer trends towards international content [archive] », WFMZ-TV, 25 janvier 2022 (consulté le 27 janvier 2022)
+Michael Schneider, « Crunchyroll Anime Awards 2022 Nominations Include '86 Eighty-Six,' 'Jujutsu Kaisen,' 'Oddtaxi' (EXCLUSIVE) [archive] », sur Variety, 18 janvier 2022 (consulté le 18 janvier 2022)
+Austen Goslin, « 'Attack on Titan Final Season Part 1' wins top prize at Crunchyroll's Anime Awards [archive] », sur Polygon, 9 février 2022 (consulté le 9 février 2022)
+
+Annexes
+Sur les autres projets Wikimedia :
+
+L'Attaque des Titans, sur Wikimedia Commons
+Bibliographie
+(en) Jonathan Clements et Helen McCarthy, The Anime Encyclopedia, 3rd Revised Edition : A Century of Japanese Animation, Berkeley, Californie, Stone Bridge Press, 2015, 1136 p. (ISBN 9781611720181, présentation en ligne [archive])
+Matthieu Pinon et Laurent Lefebvre, Histoire(s) du manga moderne (1952-2012), YNNIS éditions, 15 avril 2015, 208 p. (ISBN 979-1-0933-7622-6)
+Clément Drapeau, Au-delà des murs de L'Attaque des Titans : Les Chaînes de la liberté, Third Éditions, 30 juin 2022, 420 p. (ISBN 978-2377842117).
+Tomes
+Hajime Isayama, L’Attaque des Titans, tome 1, Pika Édition, 2013 (ISBN 978-2-8116-1169-9)
+Hajime Isayama, L’Attaque des Titans, tome 2, Pika Édition, 2013 (ISBN 978-2-8116-1170-5)
+Hajime Isayama, L’Attaque des Titans, tome 21, Pika Édition, 2017 (ISBN 978-2-8116-3332-5)
+Hajime Isayama, L’Attaque des Titans, tome 22, Pika Édition, 2017 (ISBN 978-2-8116-3484-1)
+Hajime Isayama, L’Attaque des Titans, Inside, Pika Édition, 2014 (ISBN 978-2-8116-1628-1)
+Hajime Isayama, L’Attaque des Titans, Outside, Pika Édition, 2015 (ISBN 978-2-8116-1822-3)
+Hajime Isayama, L’Attaque des Titans, Answers, Pika Édition, 2017 (ISBN 978-2-8116-3922-8)
+Hajime Isayama, L’Attaque des Titans, Characters, Pika Édition, 2022 (ISBN 978-2-8116-6935-5)
+Articles et analyses
+Steve Naumann, « L’Attaque des Titans », AnimeLand, no 192,‎ juin 2013, p. 36-38 (ISSN 1148-0807)
+Viky et Steve Naumann, « L’Attaque des Titans - Dossier », AnimeLand, no 195,‎ novembre-décembre 2013, p. 42-50 (ISSN 1148-0807)
+Sébastien Kimbergt, Viky, Nicolas Penedo, Carla Cino et Soufana Louali, « L’Attaque des Titans - Dossier », AnimeLand, no 199,‎ juillet-août 2014, p. 59-73 (ISSN 1148-0807)
+Manon Eskenazi, Rui Pascoual et Pierre Herbulot, « L’Attaque des Titans - Dossier », AnimeLand, no 200,‎ septembre-octobre 2014, p. 52-57 (ISSN 1148-0807)
+Laurent Lefebvre, « L’Attaque des Titans - le making-of », Coyote magazine, no 46,‎ automne 2013, p. 100-101 (ISSN 1276-3942)
+Thomas Maksymowicz, « L’Attaque des Titans », Coyote magazine, no 50,‎ août-septembre 2014, p. 22-25 (ISSN 1276-3942)
+Frédéric Ducarme, « Les mangas nekketsu shōnen sont-ils des mangas sportifs ? L’exemple de Dragon Ball », Comicalités,‎ 2018 (lire en ligne [archive]).
+Liens externes
+(ja) Site officiel [archive] du manga
+(ja) Site officiel [archive] de l’anime
+Site officiel [archive] de l’éditeur français du manga
+Site officiel [archive] de l’éditeur français de l’anime
+(en) L'Attaque des Titans [archive] (manga) sur Anime News Network
+(en) L'Attaque des Titans [archive] (anime) sur Anime News Network
+Ressource relative à la bande dessinée : Grand Comics Database
+Ressource relative à la littérature : NooSFere
+Ressource relative à l'audiovisuel : OFDb
+Notices d'autorité : VIAFIdRefGNDJapon
+ [afficher]
+v · m
+Production I.G
+ [afficher]
+v · m
+Wit Studio
+ [afficher]
+v · m
+MAPPA
+icône décorative Portail de l'animation et de la bande dessinée asiatique icône décorative Portail de la fantasy et du fantastique icône décorative Portail de l’horreur icône décorative Portail du Japon
+Cet article est reconnu comme « bon article » depuis sa version du 16 avril 2015 (comparer avec la version actuelle).
+Pour toute information complémentaire, consulter sa page de discussion et le vote l'ayant promu.
+Catégories : L'Attaque des TitansSérie mangaManga des années 2000Manga des années 2010Manga de dark fantasyManga d'actionManga d'horreurManga paru dans le Bessatsu Shōnen MagazineManga paru dans le Monthly Shōnen SiriusManga paru dans l'AriaManga publié par Pika ÉditionSérie télévisée japonaise des années 2010Série d'animation japonaiseSérie télévisée de fantasySérie télévisée d'actionSérie télévisée d'horreurAnimation réalisée par Production I.GAnimation réalisée par Wit StudioAnimation réalisée par MAPPASérie diffusée sur WakanimLight novelOriginal video animationPrix du manga KōdanshaPrix Micheluzzi de la meilleure série étrangèreAnime reporté en raison de la pandémie de Covid-19Dark fantasy[+]
+La dernière modification de cette page a été faite le 25 février 2024 à 22:59.
+Droit d'auteur : les textes sont disponibles sous licence Creative Commons attribution, partage dans les mêmes conditions ; d’autres conditions peuvent s’appliquer. Voyez les conditions d’utilisation pour plus de détails, ainsi que les crédits graphiques. En cas de réutilisation des textes de cette page, voyez comment citer les auteurs et mentionner la licence.
+Wikipedia® est une marque déposée de la Wikimedia Foundation, Inc., organisation de bienfaisance régie par le paragraphe 501(c)(3) du code fiscal des États-Unis.
+Politique de confidentialitéÀ propos de WikipédiaAvertissementsContactCode de conduiteDéveloppeursStatistiquesDéclaration sur les témoins (cookies)Version mobileWikimedia FoundationPowered by MediaWiki
+Activer ou désactiver la limitation de largeur du contenu

@@ -1,0 +1,297 @@
+Compression d’Images : Algorithmes,
+Théorie et Applications
+4Algorithmes de Compression
+4.1Codage Statique
+4.1.1RLE
+4.1.1.1
+Généralités et principes :
+- Généralités :
+La méthode de compression RLE (Run Length Encoding, parfois no-
+tée RLC pour Run Length Coding) est utilisée par de nombreux formats
+d’images (BMP, PCX, TIFF). Elle est basée sur la répétition d’éléments
+consécutifs.
+- Principes :
+Le principe de base consiste à coder un premier élément donnant le
+nombre de répétitions d’une valeur puis le compléter par la valeur à répéter.
+Ainsi, selon ce principe, la chaîne "AAAAAHHHHHHH" compressée donne
+"5A7H".
+Le gain de compression est ainsi de (11-4)/11 soit environ 63,7%. En
+contrepartie, pour la chaîne "REELLEMENT", dans laquelle la redondance
+des caractères est faible, le résultat de la compression donne "1R2E2L1E
+1M1E1N1T" ; la compression s’avère ici très coûteuse, avec un gain négatif
+valant (10-16)/10 soit 60% !
+En réalité, la compression RLE est régie par des règles particulières per-
+mettant de compresser lorsque cela est nécessaire et de laisser la chaîne telle
+quelle lorsque la compression induit un gaspillage. Ces règles sont les sui-
+vantes :
+- Lorsque trois éléments ou plus se répètent consécutivement, alors la
+méthode de compression RLE est utilisée.
+- Sinon, un caractère de contrôle (00) est inséré, suivi du nombre d’élé-
+ments de la chaîne non compressée puis de cette dernière.
+9Figure 1 – Lecture Ligne
+Figure 2 – Lecture Co-
+lonne
+Figure 3 – Lecture Zig-
+Zag
+Ainsi, la compression RLE n’a de sens que pour les données possédant de
+nombreux éléments consécutifs redondants, notamment les images possédant
+de larges parties uniformes. Cette méthode a toutefois l’avantage d’être peu
+difficile à mettre en œuvre. Il existe des variantes dans lesquelles l’image est
+encodée par pavés de points, selon des lignes, ou même en zigzag.
+4.1.1.2
+Applications :
+Domaine d’application du code RLE :
+Images Bitmap :
+Les images bitmap, en particulier celles qui présentent de grandes zones
+de couleur uniforme ou des motifs répétitifs, peuvent bénéficier de la com-
+pression RLE. Les formats d’image comme BMP peuvent utiliser RLE pour
+compresser les données.
+Images en noir et blanc :
+Les images monochromes ou en noir et blanc, telles que les icônes et les
+images simples, sont souvent compressées à l’aide de RLE.
+Images avec des zones de couleur uniforme :
+Les images avec de grandes zones de couleur uniforme, comme les captures
+d’écran ou les images générées par ordinateur, sont également des candidats
+idéaux pour la compression RLE.
+Images médicales :
+Les images médicales telles que les rayons X, les IRM et les scans CT
+peuvent être compressées avec RLE, en particulier lorsque la qualité de
+l’image peut être légèrement réduite sans perte significative d’informations
+diagnostiques.
+Vidéos :
+10Bien que moins courant que dans le cas des images, le RLE peut être
+utilisé dans la compression de certains types de vidéos, en particulier pour
+les formats où les images clés peuvent être compressées individuellement.
+Animation GIF :
+Les fichiers GIF animés utilisent souvent une forme de compression RLE
+pour stocker les images clés qui composent chaque image de l’animation.
+Données graphiques dans les jeux vidéo :
+Dans le développement de jeux vidéo, le RLE peut être utilisé pour com-
+presser les textures et autres données graphiques afin de réduire l’espace de
+stockage nécessaire et d’accélérer le chargement des ressources.
+4.1.2
+4.1.2.1
+Huffman
+Généralités et principes :
+- Généralités :
+David Huffman a proposé en 1952 une méthode statistique qui permet
+d’attribuer un mot de code binaire aux différents symboles à compresser
+(pixels ou caractères par exemple). La longueur de chaque mot de code n’est
+pas identique pour tous les symboles : les symboles les plus fréquents (qui
+apparaissent le plus souvent) sont codés avec de petits mots de code, tandis
+que les symboles les plus rares reçoivent de plus longs codes binaires. On
+parle de codage à longueur variable (en anglais VLC pour variable code
+length) préfixé pour désigner ce type de codage car aucun code n’est le
+préfixe d’un autre. Ainsi, la suite finale de mots codés à longueurs variables
+sera en moyenne plus petite qu’avec un codage de taille constante.
+- Principe :
+Le codeur de Huffman crée un arbre ordonné à partir de tous les sym-
+boles et de leur fréquence d’apparition. Les branches sont construites récur-
+sivement en partant des symboles les moins fréquents.
+La construction de l’arbre se fait en ordonnant dans un premier temps
+les symboles par fréquence d’apparition. successivement les deux symboles
+de plus faible fréquence d’apparition sont retirés de la liste et rattachés à
+un noeud dont le poids vaut la somme des fréquences des deux symboles. Le
+symbole de plus faible poids est affecté à la branche 1, l’autre à la branche
+0 et ainsi de suite en considérant chaque noeud formé comme un nouveau
+symbole, jusqu’à obtenir un seul noeud parent appelé racine.
+Le code de chaque chaque symbole correspond à la suite des codes le
+long du chemin allant de ce caractère à la racine. Ainsi, plus le symbole est
+"profond" dans l’arbre, plus le mot de code sera long.
+11Soit la phrase suivante : "COMMENT_CA_MARCHE". Voici les fré-
+quences d’apparition des lettres.
+Lettre
+Fréquence
+M A
+3 2
+C E
+2 2
+_
+2
+H
+1
+O
+1
+N
+1
+T
+1
+Table 1 – Fréquences d’apparition des lettres
+Voici l’arbre correspondant :
+Figure 4 – Arbre
+Les codes correspondants à chaque caractère sont tels que les codes des
+caractères les plus fréquents sont courts et ceux correspondant aux symboles
+les moins fréquents sont longs :
+Lettre Code binaire
+M
+00
+A
+100
+C
+110
+E
+010
+_
+011
+H
+1110
+O
+1111
+N
+1010
+T
+10110
+R
+10111
+Table 2 – Tableau des lettres et de leurs codes binaires
+Les compressions basées sur ce type de codage donnent de bons taux
+de compressions, en particulier pour les images monochromes (les fax par
+exemple). Il est notamment utilisé dans les recommandations T4 et T5 de
+l’ITU-T.
+4.1.2.2
+Applications :
+Domaine d’application du code de Huffman :
+Compression de fichiers texte :
+12Le codage de Huffman est très efficace pour compresser des fichiers texte,
+tels que des documents, des livres électroniques, des scripts, etc. Il peut
+réduire la taille des fichiers texte en exploitant les fréquences d’apparition
+des caractères.
+Compression d’images sans perte :
+Bien que le codage de Huffman ne soit pas aussi efficace que d’autres
+méthodes pour la compression d’images, il est utilisé dans certaines formes
+de compression sans perte, notamment dans des formats d’images tels que
+TIFF.
+Compression audio sans perte :
+Dans certains formats audio sans perte, tels que FLAC (Free Lossless
+Audio Codec), le codage de Huffman est utilisé pour compresser les données
+audio sans perte de qualité.
+Compression de données de texte dans les communications réseau :
+Le codage de Huffman peut être utilisé pour compresser les données de
+texte transmises sur des réseaux, réduisant ainsi la bande passante nécessaire
+pour la transmission.
+Stockage de données dans les bases de données et les systèmes de fichiers :
+Dans certains systèmes de stockage de données, le codage de Huffman
+peut être utilisé pour compresser des données textuelles ou structurées afin
+de réduire l’espace de stockage requis.
+Compression de données de données génomiques :
+Dans le domaine de la bioinformatique, le codage de Huffman est uti-
+lisé pour compresser des données de séquences génomiques en raison de la
+répétitivité des motifs dans ces données.
+4.2Codage dynamique (utilisant un dictionnaire)
+4.2.1LZ78 :
+4.2.1.1
+Généralités et principes :
+- Généralités :
+LZ78 inventé par Abraham Lempel et Jacob Ziv en 1978 est un algorithme
+de compression sans perte. Il réduit les redondances dans les données en
+remplaçant les éléments récurrents par des références dans un dictionnaire.
+Cet algorithme est largement utilisé dans des applications de compression de
+fichiers et transmission de données.
+- Principe :
+13La compression LZ78 fonctionne selon le principe suivant :
+- Initialement, un dictionnaire vide est créé, ne contenant que le mot vide
+(indice 1).
+- À chaque étape, le plus long préfixe v contenu dans le dictionnaire est
+recherché. Le préfixe suivant vα n’est pas dans le dictionnaire.
+- On émet le couple (Dico[v], α), où Dico[v] est l’indice de v dans le
+dictionnaire.
+- On ajoute vα dans le dictionnaire, son indice étant la taille du diction-
+naire moins 1.
+- On reprend le texte après vα.
+Ainsi, l’algorithme génère une séquence de couples (i, c), où i est un indice
+dans le dictionnaire et c un caractère.
+Remarque : À la fin, si la totalité du mot est dans le dictionnaire, le mot
+sans la dernière lettre est choisi pour v, afin qu’il reste un caractère α à
+ajouter. Cela évite d’avoir à ajouter un symbole "pas de caractère".
+Exemple : Pour le mot u = abaaaabaab
+- la séquence de sortie sera (1, a), (2, b), (1, a), (3, b), (3, b).
+La décompression consiste simplement à reconstituer le dictionnaire exac-
+tement de la même manière que l’algorithme de compression.
+4.2.1.2
+Applications :
+Domaine d’application de LZ78 :
+Stockage de données :
+L’algorithme LZ78 est utilisé pour compresser des fichiers et des données
+avant de les stocker pour économiser l’espace de stockage.
+Compression des fichiers et des archives :
+Il existe plusieurs logiciels de compression comme WinZip et 7-Zip qui
+utilisent l’algorithme LZ78.
+Compression d’images et de vidéos :
+L’algorithme LZ78 peut être utilisé dans certains contextes pour la com-
+pression d’images et de vidéos que d’autres algorithmes plus avancés tels que
+JPEG et MPEG.
+14Intégration dans les systèmes de reconnaissance vocale :
+Les systèmes de reconnaissance vocale peuvent exploiter l’algorithme LZ78
+pour comprimer les modèles acoustiques afin de réduire la taille des données
+nécessaires pour l’entraînement de ces systèmes.
+Télédétection et traitement d’images satellitaires :
+La compression à l’aide de LZ78 permet de réduire la quantité d’infor-
+mations transmises, ce qui est important pour la transmission et le stockage
+efficaces des images satellitaires.
+4.2.2
+4.2.2.1
+LZW
+Généralités et principes :
+- Généralités :
+Abraham Lempel et Jakob Ziv sont les créateurs du compresseur LZ77,
+inventé en 1977 (d’où son nom). Ce compresseur était alors utilisé pour
+l’archivage (les formats ZIP, ARJ et LHA l’utilisent).
+En 1978 ils créent le compresseur LZ78 spécialisé dans la compression
+d’images (ou tout type de fichier de type binaire).
+En 1984, Terry Welch de la société Unisys le modifia pour l’utiliser dans
+des contrôleurs de disques durs, son initiale vint donc se rajouter à l’abré-
+viation LZ pour donner LZW.
+LZW est un algorithme très rapide aussi bien en compression qu’en dé-
+compression, basé sur la multiplicité des occurences de séquences de carac-
+tères dans la chaîne à encoder.
+- Principe :
+Son principe consiste à substituer des motifs par un code d’affectation
+(indice) en construisant au fur et à mesure un dictionnaire.
+De plus, il travaille sur des bits et non sur des octets, il ne dépend donc
+pas de la manière de laquelle le processeur code les informations. C’est un
+des algorithmes les plus populaires, il est notamment utilisé dans les formats
+TIFF et GIF. La méthode de compression LZW ayant été brevetée par la
+société Unisys, c’est l’algorithme LZ77, libre de droit, qui est utilisé dans les
+images PNG.
+- Construction du dictionnaire
+15Le dictionnaire est initialisé avec les 256 valeurs de la table ASCII. Le
+fichier à compresser est découpé en chaînes d’octets (ainsi pour des images
+monochromes - codées sur 1 bit - cette compression est peu efficace), chacune
+de ces chaînes est comparée au dictionnaire et est ajoutée si jamais elle n’y
+est pas présente.
+- La Compression
+L’algorithme parcourt le flot d’informations en le codant ; si jamais une
+chaîne est plus petite que le plus grand mot du dictionnaire alors elle est
+transmise.
+- La Decompression
+Lors de la décompression, l’algorithme reconstruit le dictionnaire dans le
+sens inverse, ce dernier n’a donc pas besoin d’être stocké.
+4.2.2.2
+Applications :
+Domaine d’application du code LZW :
+Compression de fichiers texte :
+Le codage LZW est très efficace pour compresser des fichiers texte, en
+particulier ceux contenant des motifs répétitifs ou des séquences de caractères
+similaires. Il est couramment utilisé dans des formats de fichiers tels que GIF
+et PDF pour compresser le texte incorporé.
+Compression d’images :
+Le codage LZW est également utilisé dans certains formats d’images,
+notamment le format GIF. Il peut être utilisé pour compresser des images
+avec une palette de couleurs limitée, en exploitant les répétitions dans les
+données de couleur.
+Compression de données audio
+Bien que moins courant que dans les images ou les fichiers texte, le codage
+LZW peut également être utilisé dans certains formats de compression audio
+sans perte pour compresser des données audio non compressées.
+Compression de données de communications réseau :
+Le codage LZW peut être utilisé pour compresser des données transmises
+sur des réseaux, réduisant ainsi la bande passante nécessaire pour la trans-
+mission de données.
+Stockage de données dans les bases de données et les systèmes de fichiers :
+16Dans certains systèmes de stockage de données, le codage LZW peut être
+utilisé pour compresser des données structurées ou des données textuelles,
+réduisant ainsi l’espace de stockage requis.
+Compression de données de données génomiques :
+Dans le domaine de la bioinformatique, le codage LZW peut être uti-
+lisé pour compresser des données de séquences génomiques en raison de la
+répétitivité des motifs dans ces données.
